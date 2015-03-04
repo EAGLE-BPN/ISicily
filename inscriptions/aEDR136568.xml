@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136568</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136568</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136568</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Erice (Trapani),  Biblioteca Comunale 'Vito Carvini'</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022300">Eryx</placeName></origPlace>
+						<origDate notBefore-custom="-0070" notAfter-custom="-0031" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-70 BC - -31 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Erice (Trapani)</placeName>
+						<placeName>Erice (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term>sacer?; honorarius?</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-02-20" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00282 (1)
+					</bibl> 
+			
+					<bibl>
+						Quarte Giornate Internazionali di Studi sull'area elima, Erice, 1-4 dicembre 2000, Pisa 2003, p. 400, nr. 14 (S. De Vido) - SEG 53-2, 2003 (2) 
+					</bibl> 
+			
+					<bibl>
+						SEG 53-2, 2003, 1029 (3) 
+					</bibl> 
+			
+					<bibl>
+						B. Lietz, La dea di Erice e la sua diffusione nel Mediterraneo. Un culto tra Fenici, Greci e Romani, Pisa 2012, p. 312, fig. 16, con foto (4)  
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x98;Ï&#x80;á½¶  Ï&#x84;Î±Î¼Î¯Î± Î&#x9b;ÎµÏ&#x85;ÎºÎ¯Î¿Ï&#x85; Î&#x9a;Î±Î¹ÎºÎ¹Î»Î¯Î¿Ï&#x85;<lb n="2"/>Î&#x9b;ÎµÏ&#x85;ÎºÎ¯Î¿Ï&#x85; Ï&#x85;á¼±Î¿Ï&#x85;Í&#x82; Î&#x9c;ÎµÏ&#x84;Î­Î»Î»Î¿Ï&#x85;<lb n="3"/>Î Î±Ï&#x83;Î¯Ï&#x89;Î½ Î&#x94;ÎµÎºÎºÎ¯Î¿Ï&#x85; Î£ÎµÎ¹Ï&#x83;Ï&#x85;Ï&#x81;Î¯Ï&#x89;Î½<lb n="4"/>á¼&#x98;Î³ÎµÏ&#x83;Ï&#x84;Î±Î¹Í&#x82;Î¿Ï&#x82; Ï&#x87;Î¹Î»Î¹Î±Ï&#x81;Ï&#x87;Î®Ï&#x83;Î±Ï&#x82; 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)  
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

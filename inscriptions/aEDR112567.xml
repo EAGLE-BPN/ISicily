@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112567</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112567</idno>
+				<idno type="TM">285139</idno>
+				<idno type="localID">EDR112567</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Rabat (M), Museum of Roman antiquities</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>106.50</height>
+								<width>78.30</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0100" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">100 AD - 200 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mdina (M), presso il monastero dei Benedettini e l'antico municipio, tra le rovine di un tempio detto di Apollo secondo Ciantar, Bres e Caruana nel 1747</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-28" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07495 (1), cfr. p. 994 (2)
+					</bibl> 
+			
+					<bibl>
+						ILS 5415 (3)
+					</bibl> 
+			
+					<bibl>
+						Journal of the Faculty of Arts, 05, 1973, p. 261 (J. Busuttil) (4) 
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Bari 2004, pp. 20, 57-58, 165 (5)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a. 2003-2004 con foto e disegno (6)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, p. 141, 159 (M. Cassia) (7)
+					</bibl> 
+			
+					<bibl>
+						Sardinia, Corsica et Baleares antiquae, An International Journal of Archaeology, 08, 2010, pp. 103-108 (M. Christol - E. Pirino) (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> muni</supplied>cipi MeÌ&#x82;lÌ&#x82;(itensium) primus omniÌ£<supplied reason="lost">um</supplied><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>it item aedem marmo<supplied reason="lost">ribus</supplied><lb n="3"/><supplied reason="lost">exornavit et statuam Apo</supplied>llinis consacravit item p<gap reason="lost" extent="unknown" unit="character"/><lb n="4"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> in p</supplied>rÌ£onao columnas IIII<note>!</note> et para<supplied reason="lost">statas</supplied><lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> et podium et pavimentu<supplied reason="lost">m </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="6"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> </supplied>cavit in quod opus univer<supplied reason="lost">sum</supplied><lb n="7"/><supplied reason="lost">erogavit amplius ex libera</supplied>litate sua <g type="sestertia">sestertia</g> CÌ&#x85;XÌ&#x85;DCCXCIIS  ((:centumdecem milia septingenta nonaginta duo et semis)). Q<supplied reason="lost">uorum</supplied> <supplied reason="lost">causa statua secundum Me</supplied>lÌ£iÌ£tensium desiderium o<supplied reason="lost">ptimo</supplied><lb n="8"/><supplied reason="lost">patrono posita est ex ae</supplied>ris conlatione <expan><abbr>d</abbr><ex>ecreto</ex></expan> <expan><abbr>d</abbr><ex>ecurionum</ex></expan>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8), contulit ad imaginem et ectypum et emendavit (vv. 3) Pirino a.2010. 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

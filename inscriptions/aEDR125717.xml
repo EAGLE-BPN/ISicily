@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR125717</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR125717</idno>
+				<idno type="TM">285201</idno>
+				<idno type="localID">EDR125717</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico Regionale </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/42">arma, glans</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/8">litt. ex forma</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="-0042" notAfter-custom="-0042" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-42 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, tra i quartieri di Neapolis e Tiche</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-23" who="Lucio BENEDETTI">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+			<facsimile>
+			
+					<graphic url="http://www.edr-edr.it/foto_epigrafi/immagini_uso/125/125717.jpg">
+					<desc>Riv. Stor. Calabrese, 1-4, 1985, p. 369, da un apografo di F. Costabile.
+					<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access via Epigraphic Database Roma</ref>	
+					</desc>
+					</graphic>
+				
+			</facsimile>
+			
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						EphEp. 06, 00002, a (1)
+					</bibl> 
+			
+					<bibl>
+						Riv. Stor. Calabrese, 1-4, 1985, p. 369, nr. 8 (F. Costabile) (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<expan><abbr>Q</abbr><ex>uintus</ex></expan> <expan><abbr>Sa</abbr><ex>lvidienus</ex></expan> <expan><abbr>in</abbr><ex>perator</ex></expan> <note>!</note> <lb n="2"/><lb n="3"/>ã&#x80;&#x88;:in parte aversaã&#x80;&#x89;<lb n="4"/>ã&#x80;&#x88;:singulare signumã&#x80;&#x89; <expan><abbr>l</abbr><ex>egio</ex></expan> X
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), contulit ad apographum Benedetti a. 2012.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

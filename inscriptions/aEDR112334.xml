@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112334</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112334</idno>
+				<idno type="TM">285164</idno>
+				<idno type="localID">EDR112334</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Ragusa, Museo Archeologico ?</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis, calcare</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>16.50</height>
+								<width>30.00</width>
+								<depth>4.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Hybla, Caucana?</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0600" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 600 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Ragusa, contrada Maurino </placeName>
+						<placeName>Ragusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-28" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rend. Ac. Linc., s. 8, 8, 1953, p. 183 sgg., con foto (G. Pugliese Carratelli) - SEG 1962 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 18, 1962, 00415 (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/> <g type="charakteres"/> Ï&#x86;Îµ<gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>Î¼ÎµÎ¸ÎµÎ¾<certainty match="preceding-sibling::node()" locus="value"/> á¼&#x94;Î¾ÎµÎ»Î¸Îµ Î´Î¹Î¬Î²Î¿<lb break="no" n="3"/> Î»Ì£Îµ<lb n="4"/><g type="charakteres"/>  á¼&#x88;Î´Ï&#x89;Î½Î±Ï&#x9f; (:á¼&#x88;Î´Ï&#x89;Î½Î±Î¹) <g type="charakteres"/><lb n="5"/><g type="charakteres"/> Î&#x95;<supplied reason="lost">·</supplied>Î¹ Î£Î±<lb break="no" n="6"/> Î²Î±á½¼Î¸ Î&#x91;Î²Ì£Î±ÎºÎ¹Î±<lb n="7"/><g type="charakteres"/> <gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

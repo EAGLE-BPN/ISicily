@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR108274</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR108274</idno>
+				<idno type="TM">284949</idno>
+				<idno type="localID">EDR108274</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico Regionale 'Antonino Salinas'. Inv. 1070</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType>naiskos/aedicula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>95.00</height>
+								<width>58.00</width>
+								<depth>51.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/10">pictura</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1,5-1</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="-0031" notAfter-custom="0030" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-31 BC - 30 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), contrada Pozzallo alla Salinella</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-13" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Glotta, 16, 1927, p. 306, nr. 1 (P. Kretschmer) - SEG 04, 1929 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 04, 1929, 0040 (2)
+					</bibl> 
+			
+					<bibl>
+						Mon. Ant. Ac. Linc., 33, 1929, c. 53-54, tav. 2, 2; 7, 2, con foto (E. Gabrici) (3)
+					</bibl> 
+			
+					<bibl>
+						Arch. Class., 22, 1970, p. 100, nr. 3, tav. 36-37, 55, 2, con foto (A.M. Bisi) (4)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 46-47, nr. 21, tav. 14, con foto (5)
+					</bibl> 
+			
+					<bibl>
+						Lilibeo. Testimonianze archeologiche dal IV sec. a.C. al V sec. d.C., Palermo 1984, p. 169 (M.T. Manni Piraino) (6)
+					</bibl> 
+			
+					<bibl>
+						M. Vento, Le stele dipinte di Lilibeo, Marsala 2000, p. 101-105, tav. 68-69, 73 con foto (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9c;Î¬Ï&#x81;Ï&#x87;Î¿Ï&#x82; (:Î&#x9c;Î¬Ï&#x81;ÎºÎ¿Ï&#x82;) Î£Î·Î¼Î²Ï&#x81;á¿¶Î½Î¹Ï&#x82;<lb n="2"/>á¼¥Ï&#x81;Ï&#x89;Ï&#x82; á¼&#x80;Î³Î±Î¸Ï&#x8c;Ï&#x82;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

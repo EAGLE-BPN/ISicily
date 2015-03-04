@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR120821</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR120821</idno>
+				<idno type="TM">285091</idno>
+				<idno type="localID">EDR120821</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico Regionale  'Antonino Salinas', Inv. 8781</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">stela</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>60.00</height>
+								<width>22.00</width>
+								<depth>16.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3-4</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Selinus</placeName></origPlace>
+						<origDate notBefore-custom="-0530" notAfter-custom="-0501" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-530 BC - -501 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte, località Gaggera </placeName>
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Mon. Ant. Ac. Linc., 32, 1927, c. 383-384, nr. 8, tav. 96, 3, con foto  (E. Gabrici) (1)
+					</bibl> 
+			
+					<bibl>
+						Gr. Rom. Byz. Stud., 5, 1964, p. 120 (W.M. Calder III) (2)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 93-94, nr. 63, tav. 37, con foto (3) 
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 56, nr. 43, con facsimile (4)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, I. Iscrizioni di Megara Iblea e Selinunte, Pisa 1996 (II ed.), p. 44, nr. 45, tav. 17, 3, con foto (5)
+					</bibl> 
+			
+					<bibl>
+						C. Grotta, Zeus Meilichios a Selinunte, Roma 2010, p. 115-116, nr. 8, tav. 28 a, con foto (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x91;á¼°Î½Î­Î±Ï&#x82;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

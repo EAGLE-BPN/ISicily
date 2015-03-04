@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR114022</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR114022</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR114022</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">ignoratur</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis?</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro?</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum </placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani) </placeName>
+						<placeName>Marsala (Trapani) </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-03-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 0278 (1)
+					</bibl> 
+			
+					<bibl>
+						IGR 01, 0500 (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î¦Î»Î¬Î¿Ï&#x85;Î¹Î¿Î½  á¼¸<supplied reason="lost">Î¿Ï&#x8d;Î»Î¹Î¿Î½</supplied> <certainty match="preceding-sibling::node()" locus="value"/><lb n="2"/>Î¦Î¹Î»Ï&#x8c;Ï&#x83;Î¿<supplied reason="lost">Ï&#x86;Î¿Î½</supplied><lb break="no" n="3"/> Î¹Ï&#x84;Î¿ (:á¼&#x80;Ï&#x80;á½¸) ÎºÎ¿Î»Ï&#x89;Î½ÎµÎ¯Î±Ï&#x82;<lb n="4"/><supplied reason="lost">Î¦Î»</supplied>Î±Ì£Î¿Ï&#x85;Î¯Î±Ï&#x82; <certainty match="preceding-sibling::node()" locus="value"/> Î&#x91;á¼°Ï&#x84;<gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="5"/> Ï&#x82; Î&#x9a;Ï&#x89;Î½Ï&#x83;Ï&#x84;Ì£Î±<supplied reason="lost">Î½Ï&#x84;<gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="6"/>Ï&#x86;Î¹Î»Î®Î¼Î¿Ì£<supplied reason="lost">Ï&#x83;Ï&#x8d;Î½Î·Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="7"/>Î¿á¼° Î&#x9b;Î¹Î»Ï&#x85;<supplied reason="lost">Î²Î±á¿&#x96;Î¿Î¹ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="8"/><supplied reason="lost">á¼¡</supplied> Ï&#x80;Ï&#x8c;<supplied reason="lost">Î»Î¹Ï&#x82;</supplied> <certainty match="preceding-sibling::node()" locus="value"/><lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>o<gap reason="lost" extent="unknown" unit="character"/><lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>Î·<gap reason="lost" extent="unknown" unit="character"/><lb n="11"/><supplied reason="lost">Ï&#x80;</supplied>á¾¶Ï&#x83;Î¹ Î¼Ï&#x8c;Î½ÎµÎ¿ (:Î¼Ï&#x8c;Î½Î¿Ï&#x82;)<gap reason="lost" extent="unknown" unit="character"/><lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>Ï&#x80;Î± <certainty match="preceding-sibling::node()" locus="value"/> Î½Î±Ï&#x85;Î²Î±Î¯Ï&#x89;Î½ (:Î&#x9b;Î¹Î»Ï&#x85;Î²Î±Î¯Ï&#x89;Î½)<lb n="13"/><supplied reason="lost">á¼&#x84;Î½Î´</supplied>Ï&#x81;Î± Ï&#x83;Î¿Ï&#x86;á½¸Î½ <gap reason="lost" extent="unknown" unit="character"/><lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> ÎºÎ»Î­Î¿Ï&#x82; á¼&#x80;Î½<supplied reason="lost">Î´Ï&#x81;á¿¶Î½</supplied><lb n="15"/><lb n="16"/>ã&#x80;&#x88;:iuxtaã&#x80;&#x89;<lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="17"/>ÎºÎ±Î»Î»Ï&#x84;Î½<lb n="18"/>Î¦Î¹Î»Ï&#x8c;Ï&#x83;Î¿<supplied reason="lost">Ï&#x86;Î¿Î½</supplied><lb n="19"/>á¼¡ Ï&#x80;Ï&#x8c;Î»<supplied reason="lost">Î¹Ï&#x82;</supplied><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)-(2)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

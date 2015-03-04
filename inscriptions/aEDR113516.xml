@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113516</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113516</idno>
+				<idno type="TM">285183</idno>
+				<idno type="localID">EDR113516</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/138">ignoratur</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>34.00</height>
+								<width>49.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">ignoratur</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0300" notAfter-custom="0399" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">300 AD - 399 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Rabat (M), in una catacomba cristiana posta sotto la chiesa di Sant'Agata</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Civ. Catt., 3, 1949, p. 514 (A. Ferrua) (1)
+					</bibl> 
+			
+					<bibl>
+						Byzantino-Sicula, 4. Atti del I Congresso Internazionale di Archeologia della Sicilia bizantina, (Corleone, 28 luglio-2 agosto 1998), Palermo 2002, p. 661 (M. Buhagiar - A. Bonanno) (2)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica", tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004 (3) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Ï&#x80;Ï&#x81;á½¸ [<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/> ÎºÎ±]Î»Î±Î½<lb break="no" n="2"/> Î´á¿¶Î½ Ï&#x83;ÎµÏ&#x80;Ï&#x84;Îµ<lb break="no" n="3"/> Î²Ï&#x81;Î¯Î¿Ï&#x85; á¼&#x80;Ï&#x80;Ï&#x8c;Î¸ÎµÏ&#x83;Î¹<supplied reason="lost">Ï&#x82;</supplied><lb n="4"/>Î&#x9b;ÎµÏ&#x89;Î½Î¯Î±Ï&#x82;<lb n="5"/><lb n="6"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)&lt;br&gt;L'iscrizione è a lettere bianche su sfondo rosso. 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

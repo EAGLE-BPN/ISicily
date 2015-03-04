@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113430</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113430</idno>
+				<idno type="TM">285172</idno>
+				<idno type="localID">EDR113430</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Victoria (M), inserita nella porta vicino all'ingresso del Museo archeologico nazionale (Cittadella)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material>lapis, coralline limes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>69.00</height>
+								<width>69.00</width>
+								<depth>170.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Gaulus insula</placeName></origPlace>
+						<origDate notBefore-custom="0161" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">161 AD - 200 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Victoria (M), secondo Quintino e Gualter si trovava sulla porta della città; secondo Lupi, invece, -dentro il castello vicino alla collegiata posta per stipite di un arco</placeName>
+						<placeName>Gozo</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-14" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07508 (1), cfr. p. 994 (2)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L&#x92;arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Bari 2004, pp. 20, 57 (3)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004 con foto e disegno (4)
+					</bibl> 
+			
+					<bibl>
+						Melita Historica, 14, 2, 2005, pp. 231-238 (G. Azzopardi) con foto (5)
+					</bibl> 
+			
+					<bibl>
+						L'Africa Romana, 16, Roma 2006, pp. 2610-2614, con foto e disegno (M. Christol, E. Pirino) (6)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2, Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 141-142; 160 (M. Cassia) (7)
+					</bibl> 
+			
+					<bibl>
+						Sardinia, Corsica et Baleares antiquae, An International Journal of Archaeology, VIII, 2010, pp. 99-100 con foto e disegno (M. Christol - E. Pirino) (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<expan><abbr>M</abbr><ex>arco</ex></expan> Vallio <expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Quir</abbr><ex>ina</ex></expan> Rufo equo pu<lb break="no" n="2"/> blico exornato a Divo Antoni<lb break="no" n="3"/> no <expan><abbr>Aug</abbr><ex>usto</ex></expan> Pio plebs Gaulitana ex<lb n="4"/>aere conlato ob merita et in<lb n="5"/>solacium <expan><abbr>C</abbr><ex>ai</ex></expan> Valli Postumi patroni municipii<lb n="6"/>patris eius<lb n="7"/><supplied reason="lost"><expan><abbr>C</abbr><ex>aius</ex></expan> Vallius Postumus p</supplied>ater<lb n="0"/>[<gap reason="lost" extent="unknown" unit="line"/>--]
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6), (8) contulit ad imaginem et ad ectypum et emendavit (v. 7) E. Pirino a. 2006, 2010.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

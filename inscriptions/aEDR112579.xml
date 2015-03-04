@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112579</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112579</idno>
+				<idno type="TM">285167</idno>
+				<idno type="localID">EDR112579</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Mdina (M) (magazzino, agosto 2004)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">ara, sepulcrum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>18.80</height>
+								<width>68.50</width>
+								<depth>19.60</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/10">pictura</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0101" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">101 AD - 200 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mdina (M), fu rinvenuta il 27 novembre 1951, a Tac Caghqi, a poca distanza dal fossato che delimita le mura della città romana, in un'area ove furono rinvenute diverse tombe romane</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-18" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Journ. Hell. Stud., 1957, p. 312-313 (E. Coleiro) con foto e disegno (1)
+					</bibl> 
+			
+					<bibl>
+						Bull. ép., 4, 1959, n. 633, p. 259 (J. et L. Robert) (2)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L&#x92;arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Bari 2004, p. 37 (3)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004 con foto e disegno (4) 
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans, the Hybleans in Malta, Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006. Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 165-166 (M. Cassia) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x98;(ÎµÎ¿á¿&#x96;Ï&#x82;) Î&#x9a;(Î±Ï&#x84;Î±Ï&#x87;Î¸Î¿Î½Î¯Î¿Î¹Ï&#x82;)<lb n="2"/>Ï&#x87;Î±á¿&#x96;Ï&#x81;Îµ<lb n="3"/>Î (Ï&#x85;Î²Î»Î¯Î¿Ï&#x82;) Î&#x91;á¼´Î»Î¹Î¿Ï&#x82; á¼&#x99;Ï&#x81;Î¼Ï&#x8c;Î»Î±Î¿Ï&#x82;<lb n="4"/>Î ÎµÏ&#x81;Î³Î±Î¼Î·Î½á½¸Ï&#x82; ÎºÏ&#x89;Î¼á¿³Î´á½¸Ï&#x82;<lb n="5"/>ÎºÎ±á½¶ Î»Ï&#x85;Ï&#x81;Î¹Ï&#x83;Ï&#x84;á½´Ï&#x82; á¼&#x90;Î²Î¯Ï&#x89;Ï&#x83;ÎµÎ½<lb n="6"/>á¼&#x92;Ï&#x84;Î· ÎºÎµá¾½. á½&#x99;Î³Î¯Î±Î¹Î½Îµ<lb n="7"/><lb n="8"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4) contulit ad imaginem et ad ectypum E. Pirino a.2004&lt;br&gt;Traduzione: Agli Dei Inferi. Addio. Publio Elio Ermolao, originario di Pergamo, attore comico e  suonatore della lira, visse 25 anni. Stai bene.&lt;br&gt;Il testo dell'iscrizione si trova su una tabula ansata ai lati della quale compare la formula Î&#x98;(ÎµÎ¿á¿&#x96;Ï&#x82;) Î&#x9a;(Î±Ï&#x84;Î±Ï&#x87;Î¸Î¿Î½Î¯Î¿Î¹Ï&#x82;). &lt;br&gt;L'epigrafe è sormontata da un festone che potrebbe essere solo un elemento decorativo oppure una ghirlanda con la quale venivano incoronati gli artisti. &lt;br&gt;Sul lato sinistro dell'iscrizione compaiono diversi oggetti scolpiti, quali: una maschera comica e al di sotto di essa la pergamena dell'attore. Sul lato destro invece c'è una cetra e nella parte centrale, al di sotto dell'iscrizione, dei plettri che indicano l'abilità del personaggio nel suonare questo strumento.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

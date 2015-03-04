@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR110288</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR110288</idno>
+				<idno type="TM">284839</idno>
+				<idno type="localID">EDR110288</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Ragusa, Soprintendenza ai Beni Culturali ed Ambientali</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/112">aurum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>3.50</height>
+								<width>2.80</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,2</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022294">Jhomisus</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0500" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 500 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Comiso (Ragusa), complesso termale di via E. Calogero</placeName>
+						<placeName>Comiso (Ragusa)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-28" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rend. Ac. Linc., s. 9, 14, 3, 2003, p. 389 sgg., con foto e facsimile (G. Bevilacqua - F. De Romanis) - SEG 2003 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 53, 2003, 0990 (2)
+					</bibl> 
+			
+					<bibl>
+						F.P. Rizzo, Di abitato in abitato. In Itinere fra le più antiche testimonianze cristiane degli Iblei. Atti del convegno internazionale di studi (Ragusa-Catania, 3-5 aprile 2003), Roma 2005 (Seia 8-9, 2003-2004), p. 247 sgg., con foto e facsimile - SEG 2005 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 55, 2005, 1006bis (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á½&#x89;Ï&#x81;ÎºÎ¯Î¶Ï&#x89; Ï&#x83;Îµ Ï&#x84;á½¸Î½ Î¼Î­<lb break="no" n="2"/> Î³Î±Î½ Î¸Îµá½¸Î½ Î¶á¿¶(Î½)Ï&#x84;Î±, Ï&#x84;á½¸<lb break="no" n="3"/> Î½ á¼&#x90;Ï&#x80;Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦ Î¸ÎµÎ¿á¿¦ Î£Î±<lb break="no" n="4"/> Î²Î±Ï&#x89; Ï&#x84;á½¸Î½ Î&#x99;Î±Ï&#x89;, Ï&#x84;á½¸Î½ á¼&#x90;Ï&#x80;<lb break="no" n="5"/> Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦ Î&#x99;Î±Ï&#x89; Ï&#x84;á½¸Î½ Î&#x95;Î»Î¿Îµ<lb break="no" n="6"/> Î¿Î½, Ï&#x84;á½¸Î½ á¼&#x90;Ï&#x80;Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦ Î&#x95;<lb break="no" n="7"/> Î»Î¿ÎµÎ¿Ï&#x85; Ï&#x84;á½¸Î½ Î&#x95;Î»Î±Î½, Ï&#x84;á½¸Î½<lb n="8"/>á¼&#x90;Ï&#x80;Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦ Î&#x95;Î»Î±Î½<lb n="9"/>Ï&#x84;á½¸Î½ Î&#x9c;Î±Ï&#x81;Î¼Î±Ï&#x81;Î¹Ï&#x89;, Ï&#x84;á½¸<lb break="no" n="10"/> Î½ á¼&#x90;Ï&#x80;Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦ Î&#x9c;Î±Ï&#x81;<lb break="no" n="11"/> Î¼Î±Ï&#x81;Î¹Ï&#x89; Ï&#x84;á½¸Î½ Î&#x99;Î±ÎºÎ¿<lb break="no" n="12"/> Î²Î±, Ï&#x84;á½¸Î½ á¼&#x90;Ï&#x80;Î¬Î½Ï&#x89; Ï&#x84;Î¿á¿¦<lb n="13"/>Î&#x99;Î±Î²Î¿Ï&#x87; Ï&#x84;á½¸Î½ Î©Î½Ì£<supplied reason="lost">.</supplied>Î±.<lb n="14"/>Î&#x94;Î¹Î±Ï&#x86;Ï&#x8d;Î»Î±Î¾Î¿Î½ Î£Ï&#x87;<lb break="no" n="15"/> Ï&#x8d;Ì£Î²Ì£Î¿Ì£Î½ á½&#x83;Î½ á¼&#x94;Ï&#x84;ÎµÎºÌ£ÎµÎ½<lb n="16"/>Î&#x9c;Î±Ï&#x81;Ï&#x85;Î»Î»ÎµÌ£<supplied reason="lost">á¿&#x96;</supplied>Î½Î±.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

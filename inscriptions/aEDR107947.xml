@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR107947</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR107947</idno>
+				<idno type="TM">285040</idno>
+				<idno type="localID">EDR107947</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Piano di Imera, Antiquarium di Himera.</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>5.00</height>
+								<width>8.50</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,3-0,6</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Himera</placeName></origPlace>
+						<origDate notBefore-custom="-0470" notAfter-custom="-0451" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-470 BC - -451 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo), Piano di Imera</placeName>
+						<placeName>Termini Imerese (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/143">ignoratur</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-08" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rev. Etud. Anc., 71, 1969, pp. 301-304 (M.T. Manni Piraino) (1)
+					</bibl> 
+			
+					<bibl>
+						Rev. Etud. Anc., 72, 1970, pp. 385 (M.T. Manni Piraino) (2)
+					</bibl> 
+			
+					<bibl>
+						Quaderno Imerese. Studi e materiali dell'Istituto di Archeologia. Università di Palermo.I, Roma 1972, p. 107-109, tavv. LIV, 1-2; LV, 1 (3)
+					</bibl> 
+			
+					<bibl>
+						Himera II, Roma 1976, p. 681, nr. 45, tav. CXVI, 1 (M.T. Manni Piraino) (4)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 13-14, nr. 11, con facsimile (5)
+					</bibl> 
+			
+					<bibl>
+						M. Î&#x91;. López Jimeno, Las tabellae defixionis de la Sicilia griega, Amsterdam 1991, p. 202-206, 240, 248, nr. 39, fig. 24 (6)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, III. Iscrizioni delle colonie euboiche, Pisa 1994, p. 59-60, nr. 51, tav. XV, 2 - SEG 1994 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 0740 (8) 
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 103, 1994, p. 157-158, con foto (R. Arena) - SEG 1994 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 0753 (8)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Epigraphica. Atti del convegno di studi, Erice, 15-18 ottobre 1998, Pisa 1999, p. 181, nr. 51 (J. Curbera) (9)
+					</bibl> 
+			
+					<bibl>
+						Himera V, Palermo 2008, p. 259-264, nr. 3 (C. Grotta) (10)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:in fronteã&#x80;&#x89;<lb n="2"/>Î&#x95;á½&#x90;Î¿Ì&#x84;Ï&#x80;Î¯Î´Î±Ï&#x82; hÎ¹á½±Î»ÎµÌ&#x84;<lb n="3"/>Î&#x94;Î¹ÎµÏ&#x8d;Ï&#x87;ÎµÌ&#x84;Ï&#x82; Î»Î¿Ï&#x87;Î±Î³á½¸Ï&#x82;<lb n="4"/>Î&#x94;Î±á¿&#x96;Ï&#x84;Î¹Ï&#x82;<lb n="5"/><lb n="6"/>ã&#x80;&#x88;:in posticaã&#x80;&#x89;<lb n="7"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Îµá½&#x94;Ï&#x87;Î¿</supplied>Î¼Î±Î¹ á¼µÎ½Î± Î¼<lb break="no" n="8"/> <supplied reason="lost">á½²Ì&#x84; <gap reason="lost" extent="unknown" unit="character"/></supplied>á¼&#x90;Î¬Î¿Î¹Ï&#x82;<lb n="9"/>[<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]Î¾Î­Î½Ì£<supplied reason="lost">Î¿Î½ <gap reason="lost" extent="unknown" unit="character"/> Îµá½&#x96; á¼&#x84;</supplied>Î½ÎµÏ&#x83;Î¸Î±Î¹<lb n="10"/>[<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>]Î¹Î´Î¹Î¿Ï&#x82; Î½Ì£Î¿Ï&#x83;<gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4) (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

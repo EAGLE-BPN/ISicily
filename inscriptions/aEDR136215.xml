@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136215</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136215</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136215</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>in situ</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/226">sedile</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">20-19</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Agrigentum</placeName></origPlace>
+						<origDate notBefore-custom="-0002" notAfter-custom="0014" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-2 BC - 14 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Agrigento, agora inferiore</placeName>
+						<placeName>Agrigento</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-14" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Quaderni dell'Istituto di Archeologia della Facoltà di Lettere e Filosofia dell'Università di Messina, 7, 1992 [1995], p. 5-9 (G. Fiorentini) - SEG 44, 1994 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 743 bis (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 42, 1996, p. 5-14 (G. Fiorentini) - SEG 46, 1996 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1252 A-C (4) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:frg.  aã&#x80;&#x89;<lb n="2"/>Î&#x98;Ì£<gap reason="lost" extent="unknown" unit="character"/> Î&#x9a;Î±Î¯Ï&#x83;Î±Ï&#x81;Î± Î&#x91;á½&#x94;Î³Î¿Ï&#x85;Ï&#x83;Ï&#x84;Î¿Î½ Ï&#x86;Î»Î¬Î¼ÎµÎ½Î¿Ï&#x82; Î&#x9b;Î¿Ï&#x85;ÎºÎ¯Î¿Ï&#x85; á¼&#x98;Î³Î½Î±Ï&#x84;Î¯Î¿Ï&#x85; <supplied reason="lost">Î&#x9b;</supplied>Î¿Ï&#x85;<supplied reason="lost">ÎºÎ¯</supplied>Î¿Ï&#x85; Ï&#x85;á¼±Î¿Ï&#x85;Í&#x82; Î&#x93;Î±Î¼Ì£<gap reason="lost" extent="unknown" unit="character"/><lb n="3"/>ã&#x80;&#x88;:frg.  bã&#x80;&#x89;<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Î´Ï&#x85;Ï&#x89;Í&#x82;Î½ á¼&#x80;<supplied reason="lost">Î½Î´</supplied>Ï&#x81;Ï&#x89;Í&#x82;Î½ <gap reason="lost" extent="unknown" unit="character"/><lb n="5"/>ã&#x80;&#x88;:frg. cã&#x80;&#x89;<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> Î£Î­Î¾Ï&#x84;Î¿Ï&#x85; á¼&#x98;[<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]Î±Ï&#x84;Î¯Ì£Î¿Ï&#x85; <supplied reason="lost">Î£Î­</supplied>Î¾<supplied reason="lost">Ï&#x84;</supplied>Î¿<supplied reason="lost">Ï&#x85; Ï&#x85;á¼±Î¿Ï&#x85;Í&#x82;</supplied> á¿¬Î¿Ï&#x8d;Ï&#x86;Î¿Ï&#x85;<lb n="7"/><lb n="8"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)&lt;br&gt;Aliam inscriptionem eiusdem monumenti invenies ad EDR 136203
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

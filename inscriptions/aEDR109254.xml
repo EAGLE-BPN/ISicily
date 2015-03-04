@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109254</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109254</idno>
+				<idno type="TM">284889</idno>
+				<idno type="localID">EDR109254</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico Regionale 'Antonino Salinas', Inv. 8806</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>110.50</height>
+								<width>57.00</width>
+								<depth>19.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-3,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Selinus</placeName></origPlace>
+						<origDate notBefore-custom="-0500" notAfter-custom="-0471" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-500 BC - -471 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte, contrada Bagliazzo </placeName>
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-13" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 13, 1967, p. 196-197, tav. 28, fig. 2, con foto (M.T. Manni Piraino) (1)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 119-120, nr. 90, tav. 56, 90, con foto (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 27-27, 1980-81, p. 425 (C. Gallavotti) (3)
+					</bibl> 
+			
+					<bibl>
+						Contributi di orientalistica, glottologia e dialettologia. Quaderni di Acme, nr. 7, Milano 1986, p. 81 (R. Arena) (4)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 73-74, nr. 76, con apografo (5)
+					</bibl> 
+			
+					<bibl>
+						La scrittura nell'Etruria antica. Relazioni e comunicazioni nel convegno del 1985, Orvieto, 25-27 ottobre 1985. Annali della Fondazione 'Claudio Faina', IV, 1990, p. 45 (R. Arena) (6)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia. Iscrizioni di Sicilia, I. Iscrizioni di Megara Iblea e Selinunte, II ed., Pisa 1996, p. 33, nr. 21, tav. 9, 1, con foto (7)
+					</bibl> 
+			
+					<bibl>
+						Thalassa. Genti e culture del Mediterraneo antico, 3, 2006, p. 87, A 8, tav. 11, 51, con foto (A. Brugnone) (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x98;Ï&#x80;Î¹Ï&#x87;Î¬Ï&#x81;Î¼oÌ&#x84; Îµá¼°Î¼á½¶  Ï&#x84;oÌ&#x84; Î&#x9c;<lb break="no" n="2"/> Î½Î±Ï&#x83;Î±Î½Î´Ï&#x81;Î¯Î´Î±
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

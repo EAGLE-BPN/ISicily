@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136614</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136614</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136614</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Calatafimi (Trapani), area archeologica di Segesta, in situ ?</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/190">pavimentum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/134">musivum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/16">tessellis</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,6</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022277">Segesta</placeName></origPlace>
+						<origDate notBefore-custom="-0130" notAfter-custom="-0071" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-130 BC - -71 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Calatafimi (Trapani), area archeologica di Segesta</placeName>
+						<placeName>Calatafimi  (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-02-25" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						An. Sc. Norm. Pisa, s. III, 21, 1991, p. 916-917, nr. 2, tav. 290, 2, con foto (G. Nenci) - SEG 41, 1991 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 41, 1991, 0833 (2)
+					</bibl> 
+			
+					<bibl>
+						K.M.D. Dunbabin, Mosaics of the Greek and Roman World, Cambridge 1999, p. 273, nota 23 - SEG 49, 1999 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 49, 1999, 1325 (4)  
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Î&#x94;</supplied>Î¹Ì£Î¿Î½Ï&#x8d;Ï&#x83;Î¹Î¿Ï&#x82; <supplied reason="lost">á¼©Ï&#x81;</supplied>Î±Ì£ÎºÎ»ÎµÎ¯Î´Î¿Ï&#x85;<lb n="2"/><supplied reason="lost">á¼&#x88;Î»ÎµÎ¾</supplied>Î±Î½Î´Ï&#x81;Îµá½ºÏ&#x82; á¼&#x90;<supplied reason="lost">Ï&#x80;Î¿Î¯ÎµÎ¹</supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

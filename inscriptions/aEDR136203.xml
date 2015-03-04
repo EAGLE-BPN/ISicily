@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136203</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136203</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136203</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Agrigento, Museo Archeologico Regionale</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/226">sedile</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer?</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">17</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Agrigentum</placeName></origPlace>
+						<origDate notBefore-custom="-0002" notAfter-custom="0014" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-2 BC - 14 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Agrigento</placeName>
+						<placeName>Agrigento</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-14" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 9, 1963, p. 179-184, tav. 58-59, fig. 11, con facisimile e foto (P. Griffo) (1)
+					</bibl> 
+			
+					<bibl>
+						J.A De Waele, Acragas graeca. Die historische Topographie des griechischen Akragas auf Sizilien, Gravenhague 1971, p. 38-39, nr. 7, tav. 7-9, con facsimile e foto (2)
+					</bibl> 
+			
+					<bibl>
+						Riv.Filol.Istr.Class. 104, 1976, p. 182-186, fig. 1-2, con facsimile (L. Moretti) - SEG 26, 1976 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 26, 1976, 1055 (4)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Archeologica, 18, 1985, p. 53-60, fig. 2-4, con facsimile e foto (P. Griffo) - SEG 35, 1985 (5)
+					</bibl> 
+			
+					<bibl>
+						SEG 35, 1985, 997 (6)
+					</bibl> 
+			
+					<bibl>
+						Kokalos 42, 1996, p. 11-12 (G. Fiorentini) - SEG 46, 1996 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1252 D (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9b;Î¿Ï&#x8d;ÎºÎ¹Î¿Ï&#x82; [<gap reason="illegible" quantity="1" unit="character"/>6<gap reason="illegible" quantity="1" unit="character"/>]Ï&#x82;, Î&#x9b;Î¿Ï&#x85;ÎºÎ¯Î¿Ï&#x85; Ï&#x85;á¼±á½¸[Ï&#x82; <gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>]Î¿[<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/> Î³Ï&#x85;Î¼Î½Î±Ï&#x83;Î¯Î±Ï&#x81;Ï&#x87;Î¿Ï&#x82; Ï&#x84;á¿¶Î½ Ï&#x84;Îµ á¼&#x90;Ï&#x86;Î®Î²Ï&#x89;Î½ ÎºÎ±á½¶ Î½Îµ]Ï&#x89;Ï&#x84;Î­Ï&#x81;Ï&#x89;Î½ Ï&#x84;Î¿á½ºÏ&#x82; á¼&#x80;Î½Ì£<supplied reason="lost">Îº</supplied>Î»<supplied reason="lost">Î¯</supplied>Ï&#x84;Ì£Î±Ï&#x82; á¼&#x90;Îº  Ï&#x84;á¿¶Î½ á¼°Î´Î¯Ï&#x89;Î½ á¼&#x99;Ï&#x81;Î¼Î±Í&#x82;Î¹ ÎºÎ±á½¶ á¼©Ï&#x81;Î±ÎºÎ»Îµ<supplied reason="lost">Î¹Í&#x82;</supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3)&lt;br&gt;Aliam inscriptionem eiusdem monumenti invenies ad EDR136215
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

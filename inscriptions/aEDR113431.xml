@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113431</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113431</idno>
+				<idno type="TM">285169</idno>
+				<idno type="localID">EDR113431</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">ignoratur</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/138">ignoratur</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">ignoratur</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Gaulus insula</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gozo (M), Victoria, nell'angolo della chiesa di Saint George</placeName>
+						<placeName>Gozo</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-29" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL, 10, 07509 (1)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004  (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/>NA HOPE <expan><abbr>Quir</abbr><ex>ina</ex></expan> [<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>]<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>cui D[<gap reason="illegible" quantity="1" unit="character"/>4<gap reason="illegible" quantity="1" unit="character"/>]III<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>q</abbr><ex>ui</ex></expan> IV[<gap reason="illegible" quantity="1" unit="character"/>4<gap reason="illegible" quantity="1" unit="character"/>]<lb break="no" n="4"/> NINO[<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]I[<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>] plebs Gaulitana<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>in R[<gap reason="illegible" quantity="1" unit="character"/>5<gap reason="illegible" quantity="1" unit="character"/>]N[<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>]B<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>I Celso[<gap reason="illegible" quantity="1" unit="character"/>3<gap reason="illegible" quantity="1" unit="character"/>]<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> iuris[<gap reason="illegible" quantity="1" unit="character"/>4<gap reason="illegible" quantity="1" unit="character"/>]<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>lius [<gap reason="illegible" quantity="1" unit="character"/>4<gap reason="illegible" quantity="1" unit="character"/>]<lb n="0"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)&lt;br&gt;Ai vv. 3-4 potrebbe essere menzionato l'imperatore Antonino Pio: [Anto]/nino
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR081504</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR081504</idno>
+				<idno type="TM">175761</idno>
+				<idno type="localID">EDR081504</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, collezione Biscari, magazzino superiore, inv. 353</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>33.00</height>
+								<width>24.00</width>
+								<depth>4.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/6">tit. fragmenta inter se coniuncta</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">6,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina?/Centuripae??</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Catania?/Centuripe (Enna)??, ignoratur</placeName>
+						<placeName>Catania?/Centuripe (Enna)??</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/143">ignoratur</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-02-19" who="ANGELA FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07021 (1)
+					</bibl> 
+			
+					<bibl>
+						ANRW II 11. 1, 1988, p. 54 (G. Manganaro) (2) 
+					</bibl> 
+			
+					<bibl>
+						Epigraphica, 51, 1989, pp. 167-168, nr. 32 con foto (G. Manganaro)- AE 1989 (3)
+					</bibl> 
+			
+					<bibl>
+						AE 1989, 0341b (4) 
+					</bibl> 
+			
+					<bibl>
+						Catania antica. Atti del convegno della S.I.S.A.C. : Catania 23-24 maggio 1992, Catania 1996, pp. 246-249 (W. Eck) (5) 
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 113, 1996, pp. 118-121 (W. Eck) - AE 1996 (6)
+					</bibl> 
+			
+					<bibl>
+						AE 1996, 0793 (7)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni &#x96; Cultura epigrafica &#x96; Edizione, Helsinki 2004, pp. 159-160, nr. 14 (8)
+					</bibl> 
+			
+					<bibl>
+						HD015165 (9)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
+				<gap reason="lost" extent="unknown" unit="line"/><lb n="1"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied> So<supplied reason="lost">si </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>ris <expan><abbr>fil</abbr><ex>i-</ex></expan> S<supplied reason="lost">osi </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>s co<expan><ex>n</ex><abbr>s</abbr><ex>ulis</ex></expan> II<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>ini co<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="5"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>VA MO<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8) aliter (6) (7)&lt;br&gt;v. 1: [Sosiae Falconillae], Eck (5).&lt;br&gt;v. 2: [Pompei] So[si Prisci], Eck (5); [---]So[si Senecio-], Eck (6).&lt;br&gt;v. 3: [consula]ris fil(iae) S[osi Se-], Eck (5); [nis praeto]ris fil(i-) S[osi], Eck (6).&lt;br&gt;v. 4: [necioni]s co(n)s(ulis) II [pronep(ti)], Eck (5); [Senecioni]s co(n)s(ulis) II [nep(--)], Eck (6).&lt;br&gt;v. 5: [Iuli Front]ini co(n)[s(ulis) III ab-], Eck (5); [Iuli Front]ini co(n)[s(ulis) III pron(ep-)], Eck (6).&lt;br&gt;v. 6: [nep(ti) ---]VA MO[---], Eck (5).
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

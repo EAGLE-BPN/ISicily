@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136140</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136140</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136140</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Agrigento, Museo Archeologico Regionale, Inv. C 311</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">ara</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>15.00</height>
+								<width>17.00</width>
+								<depth>12.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Agrigentum</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Agrigento, S. Nicola</placeName>
+						<placeName>Agrigento</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-02-07" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00262 (1)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. VIII, 9, 1954, p.467-469 (D. Adamesteanu) - Bull.ép. 1955 (2)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1955, 0310 (3)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 13, 1967, p. 202-204, tav. 31, con foto (P. Griffo) - Bull.èp. 1968 (4)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1968, 0607 (5)
+					</bibl> 
+			
+					<bibl>
+						J. De Waele, Acragas graeca. Die historische Topographie des griechischen Akragas auf Sizilien, Gravenhage 1971, p. 33, nr. 4, tav. 5, con foto (6)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Archeologica, 18, 1985, p.53, 60-63, fig. 5, con foto (P. Griffo)  - SEG 35, 1985 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 35, 1985, 996 (8)
+					</bibl> 
+			
+					<bibl>
+						Agrigento e la Sicilia greca. Atti della settimana di studio, Agrigento, 2-8 maggio 1988, Roma 1992, p. 208 e nota 13 (G. Manganaro) (9)
+					</bibl> 
+			
+					<bibl>
+						P.Griffo, Il Museo Archeologico Regionale di Agrigento, Roma 2000, p. 128, fig. 111 (10)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î Î¿Î»Ï&#x85;Ï&#x83;Ï&#x84;ÎµÏ&#x86;Î¬Î½á¿³<lb n="2"/>Î£Ï&#x89;Ï&#x84;ÎµÎ¯Ï&#x81;á¾³<lb n="3"/>Î&#x9d;Î¹ÎºÎ¿Î¼Î®Î´Î·Ï&#x82; á½&#x81; ÎºÎ±á½¶ Î&#x94;<lb break="no" n="4"/> Î¹Ì£Î¿Î½Ï&#x85;Í&#x82;Ï&#x82;  Î£Ï&#x89;Ï&#x84;Î¯Ï&#x81;á¾³<lb n="5"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (9)&lt;br&gt;v. 1-2 età ellenistica&lt;br&gt;v. 3-4 età imperiale
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

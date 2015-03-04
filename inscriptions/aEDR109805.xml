@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109805</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109805</idno>
+				<idno type="TM">284873</idno>
+				<idno type="localID">EDR109805</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico P. Orsi</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/163">monile</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>5.40</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0500" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 500 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>urbs incerta</placeName>
+						<placeName>ignoratur</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-22" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rend. Acc. Linc., s. 8, 1963, p. 67 sgg., con foto (G. Manganaro) (1)
+					</bibl> 
+			
+					<bibl>
+						Jahrb. Ant. Christ., 45, 2002, p. 194 nr. 1, con foto e facsimile (S. Giannobile) - SEG 2002 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 52, 2002, 0884, 1 (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:rectoã&#x80;&#x89;<lb n="2"/>ã&#x80;&#x88;:supraã&#x80;&#x89;<lb n="3"/>Î£Ï&#x86;Ï&#x81;Î±Î³Î¯Ï&#x82; Î£Î¿Î»Î¿Î¼á¿¶Î½Î¿Ï&#x82;<lb n="4"/>ã&#x80;&#x88;:in clipei area, a sinistraã&#x80;&#x89;<lb n="5"/>Î&#x95;Ï&#x80;Î·Î½Î±<lb n="6"/>Ï&#x83;Ï&#x85;Î¼Î±Î·Î±<lb n="7"/>Î¿ Ï&#x83;Î±Î»Î±Î¼<lb break="no" n="8"/> Î±Î¾Î± Î²Î±<lb break="no" n="9"/> Î¼ÎµÎ±Î¶Î±<lb n="10"/><g type="charakter"/><lb n="11"/>Î¿Ï&#x85;Ï&#x82;<lb n="12"/>ã&#x80;&#x88;:in clipei area, a dextraã&#x80;&#x89;<lb n="13"/>Î&#x91;Î²<lb break="no" n="14"/> Ï&#x85;Î±Ï&#x83;<lb break="no" n="15"/> Î¼Î¿Î· á¼&#x90;<lb break="no" n="16"/> Î½ á¼&#x94;Ï&#x84;Îµ<lb break="no" n="17"/> ÎºÎµÎ½ Îµ<lb break="no" n="18"/> Î·Î·Îµ<lb break="no" n="19"/> Î´Î±Î²<lb n="20"/>ã&#x80;&#x88;:in exergoã&#x80;&#x89;<lb n="21"/>((:tres chatakteres <certainty match="preceding-sibling::node()" locus="value"/><lb n="22"/><lb n="23"/>ã&#x80;&#x88;:versoã&#x80;&#x89;<lb n="24"/>ã&#x80;&#x88;:super caputã&#x80;&#x89;<lb n="25"/>Î&#x99;Î±Ï&#x89;Î±Î»Ï&#x89;<supplied reason="lost">Î½</supplied><lb n="26"/>ã&#x80;&#x88;:a dextra, ab ima parteã&#x80;&#x89;<lb n="27"/>ÎµÌ£á¼°Ì£Ï&#x82;Ì£ Ï&#x80;á¾¶Ï&#x83;Î±Î½ Ï&#x88;Ï&#x85;Ï&#x87;Î®Î½<lb n="28"/>ã&#x80;&#x88;:in clipei area, ab utroque latere colliã&#x80;&#x89;<lb n="29"/>Î&#x99;Î±<lb break="no" n="30"/> Ï&#x89;Î·<lb n="31"/>ã&#x80;&#x88;:in clipei area, a sinistraã&#x80;&#x89;<lb n="32"/>Î·Î·Ï&#x89;<lb n="33"/>Î¼Î±<lb n="34"/>Î¼Ï&#x89;<lb n="35"/>Ï&#x89;Î½<lb n="36"/>Î²Î±Î»<lb n="37"/>Î¿Î»<lb n="38"/>Î²Î±Î»<lb n="39"/>Ï&#x83;Î¸Îµ<lb n="40"/>ã&#x80;&#x88;:in clipei area, a dextraã&#x80;&#x89;<lb n="41"/>Ï&#x83;Îµ
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), aliter (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

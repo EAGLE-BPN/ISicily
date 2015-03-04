@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR114423</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR114423</idno>
+				<idno type="TM">285056</idno>
+				<idno type="localID">EDR114423</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico Regionale &#x93;P. Orsi&#x94;, inv.  6489</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>90.00</height>
+								<width>60.00</width>
+								<depth>60.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="-0270" notAfter-custom="-0231" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-270 BC - -231 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, quartiere di Acradina</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-22" who="Alessia DIMARTINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 0002 (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI 3231 (2)
+					</bibl> 
+			
+					<bibl>
+						Syll3, 0427 (3) 
+					</bibl> 
+			
+					<bibl>
+						Athenaeum, 43, 1965, p. 315, nota 7 (G. Manganaro) (4) 
+					</bibl> 
+			
+					<bibl>
+						Quinte Giornate Internazionali di Studi sull&#x92;area elima e la Sicilia occidentale, Erice 12-15 ottobre 2003, Pisa 2006, p. 703, nr. 1.1 (A. Dimartino) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x92;Î±Ï&#x83;Î¹Î»Î­Î¿Ï&#x82; á¼&#x81;Î³Îµ<supplied reason="lost">Î¿Î¼Î­Î½Î¿Ï&#x85;</supplied><lb n="2"/>Ì&#x92;Î&#x99;Î­Ï&#x81;Ï&#x89;Î½Î¿Ï&#x82;  á¼¹ÎµÏ&#x81;Î¿ÎºÎ»Î­Î¿Ï&#x82;<lb n="3"/>Î£Ï&#x85;Ï&#x81;Î±ÎºÏ&#x8c;Ï&#x83;Î¹Î¿Î¹ Î¸ÎµÎ¿á¿&#x96;Ï&#x82; Ï&#x80;á¾¶Ï&#x83;Î¹<lb n="4"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5), aliter (1) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

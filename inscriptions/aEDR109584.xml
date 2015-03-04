@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109584</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109584</idno>
+				<idno type="TM">284859</idno>
+				<idno type="localID">EDR109584</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico A. Salinas, nr. inv. 29817, (ex collezione Università)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/128">gemma</objectType>
+								<material>diaspri</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>2.40</height>
+								<width>2.15</width>
+								<depth>0.35</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>urbs incerta</placeName>
+						<placeName>ignoratur</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Boll. Arte, 10, s. 2, 7, p. 364, con foto (J. Marconi Bovio) (1)
+					</bibl> 
+			
+					<bibl>
+						G. Sfameni Gasparro, I culti orientali in Sicilia, Leiden 1973, p. 245 sg. nr. 248, con foto (2)
+					</bibl> 
+			
+					<bibl>
+						Hestiasis, 4, 1989 (1994), p. 21, con foto (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						A. Mastrocinque, Sylloge gemmarum gnosticarum, Boll. Num., Monografia 8,2,1, Roma 2003, p. 85, con foto (4)
+					</bibl> 
+			
+					<bibl>
+						A. Mastrocinque, Sylloge gemmarum gnosticarum, Boll. Num., Monografia 8,2,2, Roma 2007, p. 101, con foto (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:rectoã&#x80;&#x89;<lb n="2"/>ã&#x80;&#x88;:circumcircaã&#x80;&#x89;<lb n="3"/>Î¹Î±Ï&#x89;Î±Î¹<lb n="4"/>Î±Î²Ï&#x81;Î±Î¸Î±Î·<gap reason="illegible" quantity="2" unit="character"/>Ï&#x84;Î»<lb n="5"/>ã&#x80;&#x88;:intra clipeumã&#x80;&#x89;<lb n="6"/>Î¹Ï&#x87;Î½Î¹<lb n="7"/>Î±ÎµÏ&#x80;<lb n="8"/>Î¹Î±vuÏ&#x89;<lb n="9"/>Î·Ï&#x89;<lb n="10"/><lb n="11"/>ã&#x80;&#x88;:versoã&#x80;&#x89;<lb n="12"/>ã&#x80;&#x88;:circumcircaã&#x80;&#x89;<lb n="13"/>Î¹ÎµÏ&#x85;Ï&#x81;Îµc<gap reason="lost" extent="unknown" unit="character"/><lb n="14"/><lb n="15"/>ã&#x80;&#x88;:in medioã&#x80;&#x89;<lb n="16"/>Î¹Î±Î¸Î±Î¹Î±<lb n="17"/>Î±Î¼Ï&#x80;Î±<lb n="18"/><g type="charakteres"/><lb n="19"/><g type="charakteres"/><lb n="20"/><g type="charakteres"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

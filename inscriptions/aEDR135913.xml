@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR135913</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR135913</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR135913</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Museo Civico. Inv. 439</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>30.50</height>
+								<width>63.50</width>
+								<depth>48.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-1,8</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Thermae Himeraeae</placeName></origPlace>
+						<origDate notBefore-custom="-0230" notAfter-custom="-0171" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-230 BC - -171 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo)</placeName>
+						<placeName>Termini Imerese (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00313 (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 20, 1974, p. 219-221, nr. 1, tav. 32, fig. 1, con foto (A. Brugnone) (2) 
+					</bibl> 
+			
+					<bibl>
+						A. Dimartino, Indagini paleografiche e prospettive storiche sulle iscrizioni greche di Sicilia (IV-I sec. a.C.), Sc.Norm.Sup.Pisa, Tesi di Perfezionamento, A.A. 2008-2009, p. 309-312, nr.78, fig. 143, con foto (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x94;Ï&#x89;Ï&#x81;Ï&#x8c;Î¸ÎµÎ¿Ï&#x82; Î&#x9b;Ï&#x85;Ï&#x83;<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="2"/>á¼&#x8c;Î½Ï&#x84;Î±Î»Î»Î¿Ï&#x82; Î&#x9d;Ï&#x8d;Î¼<supplied reason="lost">Ï&#x86;Ï&#x89;Î½Î¿Ï&#x82;</supplied><lb n="3"/>á¼&#x80;Î³Î¿Ï&#x81;Î±Î½Î¿Î¼Î®Ï&#x83;Î±Î½<supplied reason="lost">Ï&#x84;ÎµÏ&#x82;</supplied><lb n="4"/>á¼&#x88;Ï&#x86;Ï&#x81;Î¿Î´Î¯Ï&#x84;Î±Î¹<lb n="0"/>ã&#x80;&#x9a;<gap reason="lost" extent="unknown" unit="line"/>ã&#x80;&#x9b;<lb n="5"/>Î³Ì£Ï&#x81;Ì£Î±Î¼Î¼Î±Ï&#x84;Îµá½ºÏ&#x82;<lb n="6"/>á¼&#x88;Ï&#x80;Î¿Î»Ì£Î»Ï&#x8c;Î´Ï&#x89;Ï&#x81;Î¿Ï&#x82; Î¦Î±Î»Î¬ÎºÏ&#x81;Î¿Ï&#x85;<lb n="7"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3), aliter (1) (2)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

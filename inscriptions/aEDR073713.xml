@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR073713</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR073713</idno>
+				<idno type="TM">284570</idno>
+				<idno type="localID">EDR073713</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, catacomba di S. Giovanni</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/230">sepulcrum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/126">tectorium</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/10">pictura</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3,5-10</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0450" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 450 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, catacomba di S. Giovanni</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-04-27" who="SILVIA ORLANDI">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+			<facsimile>
+			
+					<graphic url="http://www.edr-edr.it/foto_epigrafi/immagini_uso/73/073713.jpg">
+					<desc>Immagine tratta da Riv. Arch. Crist. 1940, p. 46
+					<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access via Epigraphic Database Roma</ref>	
+					</desc>
+					</graphic>
+				
+			</facsimile>
+			
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv. Arch. Crist., 17, 1940, pp. 46-47, con foto (A. Ferrua) - AE 1948 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1948, 0171 (2)
+					</bibl> 
+			
+					<bibl>
+						HD021798 (A. Scheithauer) (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">((:aplha))</supplied> <g type="chrismon"/> <g type="omega"/> Auxentius His<lb break="no" n="2"/> panus patria <expan><abbr>ep</abbr><ex>iscopus</ex></expan> Rotdon<lb n="3"/>iacet huc<note>!</note> et aiuro<note>!</note> vos qui legi<lb break="no" n="4"/> tes<note>!</note> <gap reason="lost" extent="unknown" unit="character"/> petite q<supplied reason="lost">uo</supplied><lb break="no" n="5"/> d acce<supplied reason="lost">ptum</supplied>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1), contulit ad imaginem Orlandi a. 2012.&lt;br&gt;V. 2: Rotdon pro Rhode.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

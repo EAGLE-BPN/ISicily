@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR120665</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR120665</idno>
+				<idno type="TM">285084</idno>
+				<idno type="localID">EDR120665</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo,  Museo Archeologico Regionale  'Antonino Salinas', Inv. 8785</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>27.00</height>
+								<width>46.50</width>
+								<depth>37.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1-1,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Selinus</placeName></origPlace>
+						<origDate notBefore-custom="-0470" notAfter-custom="-0431" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-470 BC - -431 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte, davanti al santuario della Malophoros</placeName>
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00270 (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI III 1, 3048 (2)
+					</bibl> 
+			
+					<bibl>
+						Mon. Ant. Ac. Linc., 32, 1927, c. 379-380, nr. 1, tav. 96, 4 (E. Gabrici) (3)
+					</bibl> 
+			
+					<bibl>
+						Par. Pass. 8, 1953, p. 209-211 (M. Guarducci) - SEG 1954 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 14, 1954, 0594 (5)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 9, 1963, p. 150, nr. 4, tav. 49, fig. 13, con foto (M.T. Manni Piraino) (6)
+					</bibl> 
+			
+					<bibl>
+						Gr. Rom. Byz. Stud., 5, 1964, p. 119-120 (W.M. Calder III) (7)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 12, 1966, p. 187-190, nr. 9, tav. 55, fig. 1, con foto (M. Guarducci) (8)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 82-84, nr. 53, tav. 31, con foto (9)
+					</bibl> 
+			
+					<bibl>
+						Helikon, 17, 1977, p. 103-106 (C. Gallavotti) (10)
+					</bibl> 
+			
+					<bibl>
+						Cron. Arch., 16, 1977, p. 148-149, tav. 43, fig. 1 (G. Manganaro) - SEG 1984 (11) 
+					</bibl> 
+			
+					<bibl>
+						SEG 34, 1984, 0971 (12)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 62-63, nr. 55 (13)
+					</bibl> 
+			
+					<bibl>
+						L.H. Jeffery, The Local Scripts of archaic Greece, Oxford 1990 (II ed.), p. 277, nr. 41 (14)
+					</bibl> 
+			
+					<bibl>
+						M. Dewailly, Les statuettes aux parures du sanctuaire de la Malophoros à Sélinonte, Naples 1992, p. 146-147 (15)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. IX, 7, 1996, p. 40-42, fig. 13, con foto (G. Manganaro) - SEG 1996 (16)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1274 (17)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, I. Iscrizioni di Megara Iblea e Selinunte, Pisa 1996 (II ed.), Pisa 1996 (II ed.), p. 40, 102, nr. 38, tav. 15, 1, con foto (18)
+					</bibl> 
+			
+					<bibl>
+						C. Grotta, Zeus Meilichios a Selinunte, Roma 2010, p. 8-9, tav. 1 b (19)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x88;<supplied reason="lost">Î»Îµ</supplied>Î¾Î¯Î±Ï&#x82; Î&#x97;Î¿ Î&#x9e;Î­Î½Î¿Ì&#x84;Î½Î¿Ï&#x82;<lb n="2"/><supplied reason="lost">Ï&#x84;Î±Í&#x82;</supplied>Î¹ <supplied reason="lost">á¼&#x88;</supplied>Î½Î³Î­Î»Î¿Ì&#x84;Î¹ Ï&#x84;Î±Í&#x82;Î¹ Î&#x97;ÎµÎºÎ¬Ï&#x84;Î±Î¹<lb n="3"/>á¼&#x80;<supplied reason="lost">Î½</supplied>Î­Î¸ÎµÌ&#x84;ÎºÎµ
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (18), aliter alii
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

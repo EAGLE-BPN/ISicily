@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112554</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112554</idno>
+				<idno type="TM">285138</idno>
+				<idno type="localID">EDR112554</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Mdina (M), Museo della Cattedrale</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>46.50</height>
+								<width>52.80</width>
+								<depth>15.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0001" notAfter-custom="0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">1 AD - 101 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mdina (M), vicino al monastero di Saint Peter nel 1868</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-30" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 08318 (1)
+					</bibl> 
+			
+					<bibl>
+						A.A. Caruana, Report on the Phoenician and Roman Antiquities in the group of the islands of Malta, Malta 1882, p. 146 (2)
+					</bibl> 
+			
+					<bibl>
+						Journ. Rom. St., 05, 1915, p. 31 (T. Ashby) (3)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, pp. 20, 58 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a. 2003-2004 con foto e disegno (5)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, p. 160 (M. Cassia) (6)
+					</bibl> 
+			
+					<bibl>
+						Sardinia, Corsica et Baleares antiquae, An International Journal of Archaeology, 08, 2010, p. 99-103 (M. Christol - E. Pirino) con foto e disegno (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">Cl</supplied>aÌ£uÌ£dius IuÌ£<supplied reason="lost">st</supplied>us I<supplied reason="lost">Ivir (:duovir) et patro</supplied><lb break="no" n="2"/> nus mÌ£uÌ£nÌ£icip<supplied reason="lost">i</supplied> MÌ£eÌ£<supplied reason="lost"><expan><abbr>t</abbr><ex>ensium</ex></expan> </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="3"/>mÌ£aÌ£rÌ£moreuÌ£mÌ£ cum sÌ£imuÌ£<supplied reason="lost">lacro </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="4"/>et <supplied reason="lost">oÌ£</supplied>mÌ£ni sÌ£uÌ£o ornÌ£aÌ£tu pÌ£rÌ£<supplied reason="lost">o honore</supplied><lb n="5"/>decurioÌ£nÌ£aÌ£tÌ£uÌ£sÌ£ <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/>  CÌ£</supplied>lÌ£au<supplied reason="lost">di </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="6"/>secundum pollicita<supplied reason="lost">tionem suam</supplied><lb n="7"/>exstruxit consecra<supplied reason="lost">vitque in</supplied><lb n="8"/>quod opus amplius qua<supplied reason="lost">m promiserat</supplied><lb n="9"/>erogavi<supplied reason="lost">t ((sestertia)) <gap reason="lost" extent="unknown" unit="character"/></supplied> 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (7), contulerunt ad imaginem et ectypum et emendaverunt (vv. 1, 5) M. Christol, E. Pirino a. 2010.&lt;br&gt;v. 1: lacuna omessa da (2); [---]S (1); Iulius (2); IU..US (1); l'integrazione I[Ivir et] non compare in (1) e (2)&lt;br&gt;v.2: municipum (1); Me[lit(ensium)]: omesso da (2); (1) restituisce I (?); &lt;br&gt;v.3: marmoreum: omesso da (2), marmoream (1); semi[?]: (1).&lt;br&gt;v.4: pr[.......] omesso da (2), mentre (1) omette l'intera linea; v.5: (1) riporta decurio senza proporre alcuna integrazione; [---]AV[---] omesso da (2), (1) riporta DAV(?). &lt;br&gt;v.6 pollicitat[ionem] seguito da suam in (1).&lt;br&gt;v.7: consecra[vitque in] in (1); (2) riporta consecra[vit].&lt;br&gt;v.8: amplius: (1); (2)riporta ampliusque; qua[m promiserat] omesso da (2), presente in (1); &lt;br&gt;v.9: erogavi[t] (1)&lt;br&gt;Mommsen suggerisce di collegare l'iscrizione a CIL 10, 07495.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

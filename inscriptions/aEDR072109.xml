@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR072109</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR072109</idno>
+				<idno type="TM">284556</idno>
+				<idno type="localID">EDR072109</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Trapani, Museo Regionale â&#x80;&#x9c;Agostino Pepoliâ&#x80;&#x9d;</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis, statua</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>80.00</height>
+								<width>52.70</width>
+								<depth>44.80</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0301" notAfter-custom="0400" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">301 AD - 400 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), Capo Boeo</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2010-12-14" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not.Sc., 1905, pp. 216-218, con facsimile (A. Salinas) - AE 1906 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1906, 0075b (2)
+					</bibl> 
+			
+					<bibl>
+						ILS 8911 (3)
+					</bibl> 
+			
+					<bibl>
+						Il Museo regionale "A. Pepoli" di Trapani: le collezioni archeologiche, a cura di M.L. Famà, Bari 2009, p. 391, con foto (F. Oliveri) (4)
+					</bibl> 
+			
+					<bibl>
+						HD021812 (B. Ruck) (5)
+					</bibl> 
+			
+					<bibl>
+						
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				Pompeianis vita.<lb n="2"/>Ob insignem iustitiam<lb n="3"/>et merita litterarum et amorem<lb n="4"/>quem non solum circa patriam<lb n="5"/>sed per omnem provinciaÌ&#x82;m conlocavit,<lb n="6"/><expan><abbr>Iul</abbr><ex>io</ex></expan> <expan><abbr>Cl</abbr><ex>audio</ex></expan> Peristerio<lb n="7"/>Pompeiano, <expan><abbr>v</abbr><ex>iro</ex></expan> <expan><abbr>c</abbr><ex>larissimo</ex></expan>, ex <expan><abbr>cons</abbr><ex>ulari</ex></expan> <expan><abbr>p</abbr><ex>rovinciae</ex></expan> <expan><abbr>S</abbr><ex>iciliae</ex></expan>,<lb n="8"/>universa curia in coetu splendidu<note>!</note> suo<lb n="9"/>patrono digno et prestantissimo<note>!</note>,<lb n="10"/>statuam conlocavit.<lb n="11"/>Amazoniis vita.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4), contulit ad imaginem Puccia a.2010.&lt;br&gt;Aliam inscriptionem eiusdem monumenti invenies ad EDR072108.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

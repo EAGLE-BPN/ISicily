@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR073194</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR073194</idno>
+				<idno type="TM">175848</idno>
+				<idno type="localID">EDR073194</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, magazzino superiore, inv. 436</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>28.50</height>
+								<width>38.50</width>
+								<depth>3.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/6">tit. fragmenta inter se coniuncta</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,2-3</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="0101" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">101 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Catania, ignoratur</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-06" who="ANGELA FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+			<facsimile>
+			
+					<graphic url="http://www.edr-edr.it/foto_epigrafi/immagini_uso/73/073194.jpg">
+					<desc>
+					<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access via Epigraphic Database Roma</ref>	
+					</desc>
+					</graphic>
+				
+			</facsimile>
+			
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Archivio Storico per la Sicilia Orientale, 53, 1933, p. 47 nr. 1 (G. Libertini) - AE 1933 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1933, 0028 (2)
+					</bibl> 
+			
+					<bibl>
+						R. Haensch, Capita provinciarum. Statthaltersitze und Provinzialverwaltung in der römischen Kaiserzeit (Kölner Forschungen 7), Mainz am Rhein 1997, 162, 480 nr. A II 3 (3)
+					</bibl> 
+			
+					<bibl>
+						HD023688 (4)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni &#x96; Cultura epigrafica &#x96; Edizione, Helsinki 2004, p. 180, nr. 38 (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost"><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan> (?)</supplied><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ianus <expan><abbr>Aug</abbr><ex>usti</ex></expan><lb n="3"/><supplied reason="lost"><expan><abbr>b</abbr><ex>ertus</ex></expan> </supplied> á¹­<expan><abbr>abul</abbr><ex>arius</ex></expan> vixit an-<lb n="4"/><supplied reason="lost">n</supplied>is XXII, <expan><abbr>mensib</abbr><ex>us</ex></expan> II,<lb n="5"/><expan><abbr>dieb</abbr><ex>us</ex></expan> XI; uxor et<lb n="6"/><supplied reason="lost">fr</supplied>áº¡á¹­á¹&#x9b;es <supplied reason="lost">pii</supplied>ssimo<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5), aliter (1) (2)&lt;br&gt;vv. 4-5: mensibus, diebus (G. Libertini).&lt;br&gt;vv. 5-6: uxor (et filius) / patri piissimo (G. Libertini).
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

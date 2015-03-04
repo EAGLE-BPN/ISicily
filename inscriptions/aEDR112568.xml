@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112568</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112568</idno>
+				<idno type="TM">285152</idno>
+				<idno type="localID">EDR112568</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Rabat (M), Museum of Roman antiquities</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/125">fragmentum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0100" notAfter-custom="0150" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">100 AD - 150 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Rabat (M), i frammenti dell'iscrizione furono rinvenuti nel 1710 (secondo Gualter) o sul colle di Mtarfa, di fronte a Mdina (secondo Abela, Caruana e Bonanno nel 1613)</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-09-26" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07494 (1), cfr. p. 994 (2)
+					</bibl> 
+			
+					<bibl>
+						ILS 3975 (3)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, pp. 51, 165 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a. 2003-2004 con foto e disegno (5)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 149, 164 (M. Cassia) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				CÄ¥reá¹£<supplied reason="lost">tÌ²iÌ²oÌ²nÌ² AÌ²uÌ²gÌ²(usti) lÌ²Ì&#x82;îÌ²bÌ²(ertus)</supplied> pÌ£rô<expan><abbr>c</abbr><ex>urator</ex></expan><lb n="2"/>insá»¥á¸·Ì²<supplied reason="lost">arum</supplied> MÌ²Ì²eÌ²Ì²liÌ²tÌ²(ae) eÌ²tÌ² Gâ<expan><abbr>ul</abbr><ex>i</ex></expan><lb n="3"/>columnasÌ² cÌ²uÌ²mÌ² fÌ²áº¡á¹£á¹­á»&#x8b;<supplied reason="lost">g</supplied>iÌ²iÌ²sÌ²<lb n="4"/>áº¹á¹­ pÌ²aÌ²rietibÌ²uÌ²sÌ² tÌ²eÌ²á¹&#x83;pli DÌ²eÌ²aÌ²eÌ²<lb n="5"/>PÌ²rÌ²oÌ²sÌ²eÌ²rÌ²pÌ²iÌ²nÌ²aÌ²eÌ² vÌ²eÌ²tÌ²á»¥<supplied reason="lost">state in</supplied><lb n="6"/>rÌ²uÌ²iÌ²nÌ²aÌ²Ì²Ì²mÌ² iÌ²nÌ²<supplied reason="lost">min</supplied>eá¹&#x87;ti<supplied reason="lost">s</supplied> rÌ²eÌ²sÌ²<lb break="no" n="7"/> tituá»&#x8b;t Ì² simÌ²uÌ²l Ì²eÌ²t Ì²pÌ²iÌ²lÌ²aÌ²m<lb n="8"/>iÌ²nÌ²aÌ²uÌ²rÌ²aÌ²vÌ²iÌ²tÌ²
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) contulit ad imaginem et ad ectypum et emendavit (v. 7) E. Pirino, a. 2004&lt;br&gt;v.1: li[ertus]: Abela (Della descrittione di Malta, Malta 1647, p. 207 che vide l'iscrizione ancora integra) e (3); pro[curator]: Abela, p. 207 e Bres (Malta antica illustrata, Malta 1816, p.334); pro[onsul]: Ciantar (Malta illustrata ovvero la descrizione di Malta con le sue antichità e altre notizie, Malta 1772, p. 568).&lt;br&gt;v.3: Abela (1647 p. 207), Bres (1816, p. 334), Caruana (Report on the Phoenician and Roman antiquities in the group of the islands of Malta, Malta 1882, p. 136) leggono fasti[d]iis.&lt;br&gt;v.5: vetu[state in]: seguito da "in" in (1) e (3)&lt;br&gt;v.6: in[min]enti[s] (1)(3); imminentibus Ciantar (1772, p. 567), Bres (1816, p. 334); [immin]EN Caruana (1882, p. 136).&lt;br&gt;v.7: et omesso da Caruana (1882, p. 136).&lt;br&gt;L'attestazione di un procurator insularum sembrerebbe testimoniare l'esistenza nelle due isole di proprietà o interessi privati dell'imperatore.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

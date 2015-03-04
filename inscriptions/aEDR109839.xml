@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109839</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109839</idno>
+				<idno type="TM">284874</idno>
+				<idno type="localID">EDR109839</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="0601" notAfter-custom="0700" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">601 AD - 700 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>San Giovanni Galermo (Catania), contrada Pompeo</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-27" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv. Ind. Gr. It., 11, 1927, p. 105 sgg., con foto (G. Libertini) (1)
+					</bibl> 
+			
+					<bibl>
+						Rend. Acc. Linc., s. 8, 17, 1963, p. 71 sgg., con foto (G. Manganaro) (2)
+					</bibl> 
+			
+					<bibl>
+						N. Bucaria, Sicilia judaica, Palermo 1996, p. 59 (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:Î&#x91;ã&#x80;&#x89;<lb n="2"/>Î&#x9c;Î±ÎºÎ¬Ï&#x81;Î¹Î¿Ï&#x82; á¼&#x80;Î½á½´Ï&#x81; á½&#x83;Ï&#x82; Î¿á½&#x90;<lb break="no" n="3"/> Îº á¼&#x90;Ï&#x80;Î¿Ï&#x81;ÎµÏ&#x8d;Î¸(Î·) á¼&#x90;Î½ Î²Î¿Ï&#x85;Î»á¿&#x86;Ì£ á¼&#x80;Ï&#x83;Îµ<lb break="no" n="4"/> Î²î&#x87;&#x80;Î½ (:á¼&#x80;Ï&#x83;ÎµÎ²á¿¶Î½) ÎºÎ±á½¶ á¼&#x90;Î½ á½¡Î´á¿¶ (:á½&#x81;Î´á¿¶Ì£) á¼&#x80;Î¼Î±Ï&#x81;<lb break="no" n="5"/> Ï&#x84;Ï&#x8c;Î»Ï&#x89;Î½ Î¿(á½&#x90;)Îº á¼&#x90;Ï&#x83;Ï&#x84;Î·Î½ (:á¼&#x90;Ï&#x83;Ï&#x84;Î¹Î½) ÎºÎ±á½¶ á¼&#x90;Ï&#x80;á½¶<lb n="6"/>ÎºÎ±Î¸Î­Î´Ï&#x81;Î±Ì£ Î»Ï&#x85;Î¼á¿¶Î½ (:Î»Î¿Î¹Î¼á¿¶Î½) Î¿á½&#x90;Îº á¼&#x90;ÎºÎ±<lb break="no" n="7"/> Î¸Î¹Ï&#x83;Îµ á¼&#x80;Î»Î»á½° á¼&#x90;Î½ Î½Ï&#x8c;Î¼Î¿ (:Î½Ï&#x8c;Î¼á¿³) Î&#x9a;Ï&#x85;(Ï&#x81;Î¯Î¿Ï&#x85;)<lb n="8"/>Ï&#x84;á½¸ Î¸Î­Î»Î·Î¼Î± Î±á½&#x90;Ï&#x84;Î¿á¿¦ ÎºÎ±á½¶ á¼&#x90;Î½ Ï&#x84;î&#x87;&#x80; Î½Ï&#x8c;<lb break="no" n="9"/> Î¼Î¿ (:Ï&#x84;á¿· Î½Ï&#x8c;Î¼á¿³) Î±á½&#x90;Ï&#x84;Î¿(á¿¦) Î¼ÎµÎ»ÎµÏ&#x84;á¾· á¼¡Î¼Î­Ï&#x81;Î±Ï&#x82; ÎºÎ±á½¶<lb n="10"/>Î½Ï&#x85;ÎºÏ&#x84;á½¸Ï&#x82; ÎºÎ±á½¶ á¼&#x94;Ï&#x83;Ï&#x84;Îµ á½¡Ï&#x82; Ï&#x84;á½¸ Î¾Ï&#x8d;Î»Î¿Î½ Ï&#x84;á½¸<lb n="11"/>Ï&#x80;ÎµÏ&#x86;Ï&#x85;(Ï&#x84;ÎµÏ&#x85;)Î¼Î­Î½Î¿Î½ Ï&#x84;á½¸ Ï&#x80;Î±Ï&#x81;á½° Ï&#x84;á½°Ï&#x82; Î´Î¹ÎµÎ¾Ï&#x8c;Î´Î¿(Ï&#x85;)Ï&#x82;<lb n="12"/>Ï&#x84;á¿¶Î½ á½&#x91;Î´Î¬Ï&#x84;Ï&#x89;Î½ <gap reason="illegible" quantity="1" unit="character"/>5<gap reason="illegible" quantity="1" unit="character"/> Ï&#x84;á½¸Î½ ÎºÎ±Ï&#x81;Ï&#x80;á½¸Î½ Î±á½&#x90;<lb break="no" n="13"/> Ï&#x84;Î¿(á¿¦) Î´Ï&#x8c;(Ï&#x83;)ÎµÎ¹ (:Î´Ï&#x8e;Ï&#x83;ÎµÎ¹) á¼&#x90;Î½ ÎºÎµÏ&#x81;á¿¶ (:ÎºÎ±Î¹Ï&#x81;á¿·) Î±á½&#x90;Ï&#x84;Î¿(á¿¦) ÎºÎ±á½¶ Ï&#x80;Î¬(Î½)Ï&#x84;Î±<lb n="14"/>á¼&#x80;Î½ Ï&#x80;Ï&#x85;Îµ (:Ï&#x80;Î¿Î¹á¿&#x87;) ÎºÎ±Î¸ÎµÏ&#x85;Î´Î¿Î¸Î¯Ï&#x83;ÎµÏ&#x84;Îµ<lb n="15"/>Î¿á½&#x95;Ï&#x84;Î¿ (:Î¿á½&#x95;Ï&#x84;Ï&#x89;Ï&#x82;)<lb n="16"/>á¼&#x80;Î½Î±Î»Ï&#x85;Ï&#x84;Î¹Îºá½¸Î½ ÎºÎ±á½¶ á¼&#x80;<lb break="no" n="17"/> Ï&#x80;Î¿Î´Î¹Î¿ÎºÏ&#x84;Î¹Îºá½¸Î½<lb n="18"/>Ï&#x80;Ï&#x81;á½¸Ï&#x82; Ï&#x80;á¾¶Ï&#x83;Î±Î½<lb n="19"/>Ï&#x86;Î±Ï&#x81;Î¼Î±ÎºÎ¯Î±Î½<lb n="20"/><lb n="21"/>ã&#x80;&#x88;:Î&#x92;ã&#x80;&#x89;<lb n="22"/>ÎºÎ±Ï&#x84;á½° Î´Î±(Î¯)Î¼Î¿Î½<supplied reason="lost">Î± <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="23"/>á¼&#x88;Ï&#x81;Ï&#x87;Î±á½´Î»<lb n="24"/><g type="charakteres"/><lb n="25"/>NOAC <g type="charakteres"/><lb n="26"/><g type="charakteres"/><lb n="27"/>Î&#x9c;Î¹Ï&#x87;Î±á½´Î»  á¼&#x88;Ï&#x81;Ï&#x81;Î·Î¼á½¶Î»<lb n="28"/><g type="charakteres"/><lb n="29"/>Ï&#x86;Ï&#x85;Î»Î±Îº(Ï&#x84;)Ï&#x84;Î®Ï&#x81;Î¹Î¿Î½ Ï&#x80;Ï&#x81;á½¸Ï&#x82; Ï&#x86;Î±Ï&#x81;Î¼Î±Îºá½¶Î±Î½<lb n="30"/>á¾¿Î¥Îºá½¸Î²<lb n="31"/>Î&#x92;á½²Ï&#x82; <g type="charakteres"/><lb n="32"/><g type="charakteres"/> Ï&#x83;Ï&#x86;Ï&#x81;Î±Î³á½¶(Ï&#x82;) Î£Î¿Î»Î¿<supplied reason="lost">Î¼Ï&#x8c;</supplied><lb break="no" n="33"/> Î½Î¿Ï&#x82; Î·Î½Î±Ï&#x82; á¼&#x90;Ï&#x83;Ï&#x86;Ï&#x81;Î±<gap reason="lost" extent="unknown" unit="character"/> 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

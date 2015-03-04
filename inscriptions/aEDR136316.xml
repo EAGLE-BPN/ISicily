@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136316</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136316</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136316</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Arch. Reg., Inv.  24441  </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType>pondus, da telaio</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>7.00</height>
+								<width>3.60</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,8-0,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate notBefore-custom="-0500" notAfter-custom="-0401" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-500 BC - -401 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Petralia Sottana (Palermo), località Terravecchia di Cuti</placeName>
+						<placeName>Petralia Sottana (Palermo), località Terravecchia di Cuti</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-12-14" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						E. Militello, Terravecchia di Cuti, Palermo 1960, p. 56, tav. 12 e, con foto (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 8, 1962, p. 110 (P. Orlandini) (2)
+					</bibl> 
+			
+					<bibl>
+						An.Sc.Norm. Pisa, s. III, 7, 1977, p. 1337, nota 38 (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 199, nr. 175 b, con facsimile (4)
+					</bibl> 
+			
+					<bibl>
+						Di terra in terra. Nuove scoperte archeologiche nella provincia di Palermo, Palermo 1993, p. 53-55, nr. 69, con foto (A. Brugnone) (5)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr.Pap.Ep., 133, 2000, p. 125 (G. Manganaro) (6)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, II. Iscrizioni di Gela e Agrigento, Alessandria 2002, p. 78-79, nr. 111, tav. 31, 2, con foto (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9a;Ï&#x85;Ï&#x80;Ï&#x85;Ï&#x81;Î±
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (7)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

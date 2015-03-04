@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR139027</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR139027</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR139027</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur, Collezione privata </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType>instrumentum caduceus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>17.40</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,8</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Ichana/Sichana</placeName></origPlace>
+						<origDate notBefore-custom="-0430" notAfter-custom="-0401" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-430 BC - -401 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Nicosia (Enna), frazione Villadoro </placeName>
+						<placeName>Nicosia (Enna), frazione Villadoro </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-01-19" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Orbis terrarum, 2, 1996, p. 140-141, tav. 12, fig. 10 (G. Manganaro) - SEG 46, 1996 - Bull. ép. 1997 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1296 (2) 
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1997, 0724 (3) 
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, II, Genève 2008, p. 171-172, nr. 92, con foto (4) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				â&#x8c;©:in latere aâ&#x8c;ª<lb n="2"/>á¼¹Ï&#x87;Î±Î½Î¯Î½Î¿Ì&#x84;Î½ Î´Î±Î¼Ï&#x8c;Ï&#x83;Î¹Î¿Î½<lb n="3"/>â&#x8c;©:in latere bâ&#x8c;ª<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Î±Î¼Ï&#x8c;Ï&#x83;Î¹Î¿Î½<lb n="5"/>â&#x8c;©:in latere câ&#x8c;ª<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><lb n="7"/>â&#x8c;©:in latere dâ&#x8c;ª<lb n="8"/><gap reason="lost" quantity="2" unit="character"/>Î±Î½Î¯Î½Î¿Ì&#x84;Î½ 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

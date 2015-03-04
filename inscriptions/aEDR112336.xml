@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112336</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112336</idno>
+				<idno type="TM">285035</idno>
+				<idno type="localID">EDR112336</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico P. Orsi</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>31.00</height>
+								<width>22.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Acrae</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0600" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 600 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Palazzolo Acreide (Siracusa), contrada Aguglia</placeName>
+						<placeName>Palazzolo Acreide (Siracusa)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rend. Ac. Linc., s. 8, 8, 1953, p. 187 sg., con foto (G. Pugliese Carratelli) - SEG 1962 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 18, 1962, 0408 (2)
+					</bibl> 
+			
+					<bibl>
+						L. Bernabò Brea - G. Pugliese Carratelli, Akrai, Catania 1956, p. 169 sg., con foto (3)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. 8, 14, 1959, p. 408 sg., (M. Burzachechi) (4)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. 8, 17, 1963, p. 64 (G. Manganaro) (5)
+					</bibl> 
+			
+					<bibl>
+						AION (filol.), 19, 1997, p. 222 sgg. (C. Consani) (6)
+					</bibl> 
+			
+					<bibl>
+						An. Sc. Norm. Pisa, s. 4, 1, 1999, p. 74 (G. Bevilacqua) (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:Aã&#x80;&#x89;<lb n="2"/><g type="charakteres"/><lb n="3"/><g type="charakter"/> á¼&#x90;Î½ á½&#x80;Î½Ï&#x8c;Î¼Î±Ï&#x84;Î¹ Ï&#x84;Î¿á¿¦ Î&#x9a;(Ï&#x85;Ï&#x81;Î¯Î¿)Ï&#x85; á¼¸Ì£(Î·Ï&#x83;Î¿)á¿¦Ì£ Î§Ì£(Ï&#x81;Î¹Ï&#x83;Ï&#x84;Î¿á¿¦) <certainty match="preceding-sibling::node()" locus="value"/><lb n="4"/>á¼&#x85;Î³Î¹Î¿Î¹ á¼&#x84;Î³ÎµÎ»Ï&#x85; (:á¼&#x84;Î³Î³ÎµÎ»Î¿Î¹) Î¿ (:Î¿á¼±) á¼&#x90;Ï&#x80;Î¹Î³<supplied reason="lost">Ï&#x81;</supplied>Î¬Ï&#x86;<lb break="no" n="5"/> Î¿Î½Ï&#x84;ÎµÏ&#x82; á½&#x91;Î»Î¹Ï&#x83;Ï&#x84;Î¯Ï&#x81;Î¹Î¿Î½ (:á½&#x91;Î»Î¹Ï&#x83;Ï&#x84;Î®Ï&#x81;Î¹Î¿Î½) Ï&#x84;á½¸ Ï&#x84;Î¿ (:Ï&#x84;Î¿á¿¦) <certainty match="preceding-sibling::node()" locus="value"/><lb n="6"/>á¼&#x80;Î½Ï&#x80;Ï&#x80;Ì£ÎµÎ»Î¿Ï&#x83;ÎµÏ&#x81;Î³Î¿Î½Î¯Ï&#x84;Î± (:á¼&#x80;Î¼Ï&#x80;ÎµÎ»Î¿ÎµÏ&#x81;Î³Î¿á¿¦)<lb n="7"/>Î²Î¿Î¯Î¸Î¹ Î¼Ï&#x85; á¼°Ï&#x82; Ï&#x84;á½¸Î½ ÎºÎ±Ï&#x81;Ï&#x80;Î¿ (:ÎºÎ±Ï&#x81;Ï&#x80;á½¸Î½)<lb n="8"/>Ï&#x80;Ï&#x82; (:Ï&#x80;Ï&#x81;á½¸Ï&#x82;) Ï&#x80;ÎµÎ»Î¿Î½Î±Î½ (:á¼&#x80;Î¼Ï&#x80;ÎµÎ»á¿¶Î½Î±) Ï&#x84;Î¿ (:Ï&#x84;á½¸Î½) Î&#x98;(ÎµÎ¿)á¿¦<lb n="9"/><g type="charakteres"/> Î&#x98;(ÎµÏ&#x8c;)Ï&#x82;.<lb n="10"/>ã&#x80;&#x88;:Î&#x92;ã&#x80;&#x89;<lb n="11"/><g type="charakter"/> Î&#x98;(Îµá½¸)Ï&#x82; Î&#x9a;(Ï&#x8d;Ï&#x81;Î¹Î¿)Ï&#x82; <g type="charakter"/><lb n="12"/>Î&#x93;Î±Ï&#x85;(Ï&#x81;)á½¶Î» Î&#x9c;Î¹Ï&#x87;<lb break="no" n="13"/> Î±Î¯Î».
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)-(7)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

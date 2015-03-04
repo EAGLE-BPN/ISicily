@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR108965</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR108965</idno>
+				<idno type="TM">284886</idno>
+				<idno type="localID">EDR108965</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo. Museo Archeologico Regionale  'Antonino Salinas', Inv. 8757</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>66.00</height>
+								<width>83.00</width>
+								<depth>17.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">13-6</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Selinus</placeName></origPlace>
+						<origDate notBefore-custom="-0570" notAfter-custom="-0531" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-570 BC - -531 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte?</placeName>
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-13" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Sicilia Archeologica, III, 9, 1970, p. 27-33, fig. 1-2, con foto (B. Rocco) (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 16, 1970, p. 287-290, nr. 10, tav. 73, fig. 1, con foto (M.T. Manni Piraino) (2)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 110-111, nr. 80, tav. 49, 80, con foto (3)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, Epigrafia greca, III, Roma 1974, p. 171-172, fig. 66, con foto (4)
+					</bibl> 
+			
+					<bibl>
+						Boll. Class., s. III, 6, 1985, p. 31-34 (C. Gallavotti) - SEG 35, 1985 (5)
+					</bibl> 
+			
+					<bibl>
+						SEG 35, 1985, 1019 (6)
+					</bibl> 
+			
+					<bibl>
+						Contributi di orientalistica, glottologia e dialettologia. Quaderni di Acme, nr. 7, Milano 1986, p. 81, nota 51 (R. Arena) (7)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales del Sicile, Rome 1989, p. 71-72, nr. 73, con facsimile (8)
+					</bibl> 
+			
+					<bibl>
+						La scrittura nell'Etruria antica. Relazioni e comunicazioni nel convegno del 1985. Annali della Fondazione 'Clausio Faina', 1990, p. 45, nota 184 (9)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, I. Iscrizioni di Megara Iblea e Selinunte, Pisa 1996, II ed., p. 32, nr. 18, tav. 8, 1, con foto (10)
+					</bibl> 
+			
+					<bibl>
+						Thalassa. Genti e culture del Mediterraneo antico,III, 2006, p. 50, 86, A6, tav. V, 23 (11)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x88;Ï&#x81;Î¹Ï&#x83;Ï&#x84;Î¿Î³ÎµÎ¯Ï&#x84;oÌ&#x84;  á¼&#x90;Ì&#x84;<lb break="no" n="2"/> Î¼á½¶ Ï&#x84;Î¿Ì&#x83; á¼&#x88;Ï&#x81;ÎºÎ±Î´Î¯oÌ&#x84;Î½Î¿Ï&#x82;<lb n="3"/>Î&#x97;á½¸Ï&#x82; Î&#x97;Ï&#x85;Ï&#x80;á½¸ Î&#x9c;Î¿Ï&#x84;Ï&#x8d;<lb break="no" n="4"/> Ï&#x9d;Î±Î¹ á¼&#x80;Ï&#x80;Î­Î¸Î±Î½Îµ
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

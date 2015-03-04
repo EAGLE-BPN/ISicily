@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112569</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112569</idno>
+				<idno type="TM">175726</idno>
+				<idno type="localID">EDR112569</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>22.00</height>
+								<width>21.00</width>
+								<depth>3.70</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1,7 min; 3,7 max</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0014" notAfter-custom="0029" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">14 AD - 29 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsaxlokk (M), Tas Silg, nell'area del fanum Iunonis, nel riempimento di una tomba tarda, forse araba, manomessa negli ultimi secoli, durante la campagna di scavi del 1968 condotta dalla missione archeologica italiana</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-30" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Missione archeologica italiana a Malta, Roma 1968, pp. 79, 111-112 (M. Cagiano De Azevedo) - AE 1969/70 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1969/70, 0204 (2)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., 8, 24, 1969, p. 155-159 (M. Cagiano De Azevedo) (3)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, pp. 57, 119 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a. 2003-2004 con foto e disegno (5)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A., 2. Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 141, 172 (M. Cassia) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> S</supplied>áº¹mpro<supplied reason="lost">nio </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"> A</supplied>tratiá¹&#x87;<supplied reason="lost">o </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><supplied reason="lost">flamini Iuliae A</supplied><expan><abbr>ug</abbr><ex>usti</ex></expan> <expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <gap reason="lost" extent="unknown" unit="character"/><lb n="4"/><supplied reason="lost"><expan><abbr>M</abbr><ex>arcus</ex></expan> Livi</supplied>us <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> Optat<supplied reason="lost">us </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> sui hono<supplied reason="lost">ris </supplied><gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2) &lt;br&gt;vv. 1-2: [--- S]áº¹mpro[nius ---][--- A]tratiá¹&#x87;[us ---](6)&lt;br&gt;L'iscrizione deve essere messa in relazione con un'epigrafe gozitana (CIL 10, 07501 = ILS 121) menzionante M(arcus) Livius Optatus, come flamen locale di Livia. Sempronius Atratinus (vv. 1.2) potrebbe invece essere il figlio di L. Sempronio Atratino, console del 34 a.C., nominato da Cicerone, praefectus classis di Marco Antonio nel 36 a.C. e suicida nel 7 d.C. (cfr. Cael. 1-2; 7; Münzer 1923, coll. 1366-1368; L. Sempronius Atratinus: PIR VI, pp. 194-195, nr. 260). Le lettere VG IMP del v. 3 suggeriscono a Cagiano de Azevedo che sia anch'egli un flamen Iuliae Aug(usti) Imp(eratoris) (uxoris). La supposta attestazione del flaminato di Livia costituirebbe un'ulteriore testimonianza della devozione tributata alla casa imperiale Giulio-Claudia. La presenza nell'isola del figlio di L. Sempronio Atratino sembra essere indicativa dell'esistenza di rapporti particolari tra i Sempronii Atratini e Malta, testimoniati anche da due emissioni bronzee di Lilibeo e di Entella firmate col nome di Atratinos in greco (cfr. G. Manganaro, La provincia romana, in La Sicilia antica. II 2. La Sicilia romana, Napoli 1980, p. 451; ID., in ANRW II 11, 1, Berlin-New York 1988, pp. 12-14 e note 37 e 46). &lt;br&gt;Lo stato frammentario dell'iscrizione non consente di stabilire il caso del nome di Sempronio Atratino, anche se qui si preferisce considerarlo un dativo. Potrebbe essere anche un nominativo (cfr. 6) e trattarsi quindi di una dedica a Livia posta dai due flamini Sempronius Atratinus e Optatus, interpretazione verosimile in quanto l'iscrizione fu rinvenuta nell'area del fanum Iunonis e Livia, dopo la sua morte, in molte città asiatiche fu detta "Nuova Hera". 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR139344</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR139344</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR139344</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, magazzino del cortile, inv. 827</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/214">sarcophagus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>50.00</height>
+								<width>200.00</width>
+								<depth>55.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Catania, nel quartiere Orto del Re, all'estremità settentrionale della proprietà di Mario Manòla</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-09" who="Angela FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not. Sc., 1915, 221 con fotografia (P. Orsi) (1)
+					</bibl> 
+			
+					<bibl>
+						A. Holm, Catania antica, traduzione di G. Libertini con l'aggiunta di note, illustrazioni ed appendici, Catania 1925, p. 62 nota (2)
+					</bibl> 
+			
+					<bibl>
+						G. Libertini, Il Castello Ursino e le raccolte artistiche comunali di Catania, Catania 1937, p. 50 (3)
+					</bibl> 
+			
+					<bibl>
+						V. Tusa, I sarcofagi romani in Sicilia (AAPal Suppl. 5), Palermo 1957, p. 12 nr. 13 (4) 
+					</bibl> 
+			
+					<bibl>
+						Bibliotheca archaeologica 14, Roma 1995, p. 17 nr. 17, con foto (V. Tusa) (5)
+					</bibl> 
+			
+					<bibl>
+						B. Pace, Arte e civiltà della Sicilia antica, Milano &#x96; Genova 1949, vol. IV, p. 412 (6) 
+					</bibl> 
+			
+					<bibl>
+						Sicul. Gymn., 14, 1961, p. 101 (S.L. Agnello) (7)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni- Cultura epigrafica - Edizione, Helsinki 2004, p. 203, nr. 78 (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				Dulciti<lb n="2"/>habe.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

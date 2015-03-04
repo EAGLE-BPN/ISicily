@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR139660</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR139660</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR139660</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Gela (Caltanissetta), Museo Archeologico, Inv. 38326  </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>58.00</height>
+								<width>45.00</width>
+								<depth>22.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-1,8</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate notBefore-custom="0301" notAfter-custom="0400" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">301 AD - 400 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gela (Caltanissetta), frazione di Manfria </placeName>
+						<placeName>Gela  (Caltanissetta)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-09" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 32, 1986, p. 303, tav. 64, con foto (G. Fiorentini) (1)
+					</bibl> 
+			
+					<bibl>
+						R.M. Bonacasa Carra, R.Panvini (a cura di), La Sicilia centro-meridionale tra il II e il VI sec. d.C., Caltanissetta 2002, p. 295-296, nr. 1, fig. 1, con foto (A. Brugnone) - SEG 52, 2002 (2) 
+					</bibl> 
+			
+					<bibl>
+						SEG 52, 2002, 0909 (3) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Î </supplied>Ï&#x81;Î·Ì&#x82;Î¼Ì&#x82;Î¹Ï&#x84;ÎµÎ¯Î²Î±<lb n="2"/><supplied reason="lost">Ï&#x87;</supplied>Î·Ï&#x83;Ï&#x84;á½´ Ï&#x87;Î±á¿&#x96;Ï&#x81;Îµ<lb n="3"/>Î&#x9c;Î±Î½Î½Î± Ï&#x84;Î­ÎºÎ½Î¿Î½<lb n="4"/>Ï&#x87;Î±á¿&#x96;Ï&#x81;Îµ<lb n="5"/>Î&#x9c;Î±Î½Î½Î±Ï&#x82; Î³Ï&#x85;Î½Î±Î¹<lb break="no" n="6"/> Îºá½¶ ÎºÎ±á½¶ Ï&#x84;Î­ÎºÎ½Ï&#x89;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), aliter (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

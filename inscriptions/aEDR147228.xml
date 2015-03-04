@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR147228</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR147228</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR147228</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Favignana (Trapani)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType>arma rostrum navale</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>4.50</height>
+								<width>48.80</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1-2</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Phorbantia (Aegates Insulae)</placeName></origPlace>
+						<origDate notBefore-custom="-0264" notAfter-custom="-0241" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-264 BC - -241 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Favignana (Trapani), tratto di mare circa 7 km a Ovest dell'isola di Levanzo (Isole Egadi)</placeName>
+						<placeName>Levanzo (Isole Egadi)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term>cetera probatio</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-02-24" who="Alister FILIPPINI">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						T. Gnoli, Navalia, Roma 2012, p. 82, nr. Egadi 8 (1)
+					</bibl> 
+			
+					<bibl>
+						Hoc quoque laboris praemium, Trieste 2014, p. 103, nr. 5 (F. Coarelli) (2)
+					</bibl> 
+			
+					<bibl>
+						Journ. Rom. Arch., 27, 2014, p. 39, nr. Egadi 8, con foto e traduzione inglese (J.R.W. Prag) (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<expan><abbr>L</abbr><ex>ucios</ex></expan> <note>!</note>  <expan><abbr>Quinctio</abbr><ex>s</ex></expan> <note>!</note>  <expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>f</abbr><ex>ilios</ex></expan> <note>!</note>  quaistor<note>!</note> probavet<note>!</note>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1).&lt;br&gt;Rostrum navale inscriptum (nr. Egadi 10), cum proelio navali apud Aegates insulas a. 241 a.C. (10.III.241) acto fortasse coniunctum. Cfr. cetera rostra simillima ad EDR147226, EDR147227. Alia rostra inscripta ex Aegatibus insulis invenies ad EDR147214, EDR147224, EDR147225, EDR147229.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR105546</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR105546</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR105546</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo,  Museo Arch. Reg., Inv.  8797 </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>20.00</height>
+								<width>98.50</width>
+								<depth>40.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4-3,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022277">Segesta</placeName></origPlace>
+						<origDate notBefore-custom="-0200" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-200 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Calatafimi (Trapani), area archeologica di Segesta</placeName>
+						<placeName>Calatafimi  (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-19" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00288, 1-2 (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI III, 2, 5191 (2)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 70-72, nr. 46, tav. 28, 46, con foto (3)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 272-273, nr. 214 a (4)
+					</bibl> 
+			
+					<bibl>
+						An.Sc.Norm.Pisa, s. III, 21, 1991, p. 972 (S.De Vido) (5)
+					</bibl> 
+			
+					<bibl>
+						Quarte Giornate Internazionali di Studi sull'area elima, Erice, 1-4 dicembre 2000, Pisa 2003, p. 371-379, 397, nr. 2 (S. De Vido) - SEG 53-2, 2003 (6)
+					</bibl> 
+			
+					<bibl>
+						SEG 53-2, 2003, 1029 (6) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á½&#x81; Î´Î±Í&#x82;Î¼Î¿Ï&#x82; Ï&#x84;Ï&#x89;Í&#x82;Î½  á¼&#x98;Î³ÎµÏ&#x83;Ï&#x84;Î±Î¯Ï&#x89;Î½ Î¦Î¬Î»Î±<supplied reason="lost">ÎºÏ&#x81;Î¿Î½</supplied><lb n="2"/><supplied reason="lost">Î&#x94;</supplied>Î¹Î¿Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85; á¼&#x98;Ï&#x81;Ï&#x8d;Ï&#x83;Ï&#x83;Î¹Î¿Î½ á¼&#x80;Ï&#x81;ÎµÏ&#x84;Î±Í&#x82;Ï&#x82; á¼&#x95;Î½Îµ<supplied reason="lost">ÎºÎ±</supplied><lb n="3"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

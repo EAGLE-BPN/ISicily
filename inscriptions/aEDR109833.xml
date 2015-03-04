@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109833</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109833</idno>
+				<idno type="TM">285027</idno>
+				<idno type="localID">EDR109833</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur, collezione privata Vinciguerra</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>11.00</height>
+								<width>6.20</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,3</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Leontini</placeName></origPlace>
+						<origDate notBefore-custom="0601" notAfter-custom="0700" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">601 AD - 700 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Lentini (Siracusa), colle san Basilio</placeName>
+						<placeName>Lentini (Siracusa)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Scritti classici e orientali offerti a Francesco Corsaro, Catania 1994, p. 461 sgg., con foto (G. Manganaro) - SEG 1994 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 0772 (2)
+					</bibl> 
+			
+					<bibl>
+						Gr. Rom. Byz. Stud., 46, 2006, p. 73 sgg., con facsimile (S. Giannobile - D.R. Jordan) - Rev. Etud. Gr., 2007 (3)
+					</bibl> 
+			
+					<bibl>
+						Rev. Etud. Gr., 2007, p. 613, nr. 47 (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<g type="crux"/> .Î¿Ì&#x85;ÎµÌ&#x85;Ï&#x87;Ì£Ì&#x85;Î¿Ì£Ì&#x85;Î±Ì£Ì&#x85; á¼&#x98;Î½ á½&#x80;<lb break="no" n="2"/> Î½Ï&#x8c;Î¼Î±Ï&#x84;Î¹ Ï&#x84;Î¿<supplied reason="lost">á¿¦</supplied> Ï&#x80;Ì&#x85;Ï&#x81;Ì&#x85;cÌ&#x85; (:Ï&#x80;Î±Ï&#x84;Ï&#x81;á½¸Ï&#x82;) ÎºÎ±á½¶ <supplied reason="lost">Ï&#x84;Î¿á¿¦</supplied><lb n="3"/>Ï&#x85;á¼±Î¿á¿¦ ÎºÎ±á½¶ Ï&#x84;Î¿<supplied reason="lost">á¿¦</supplied> Î±Î³Î¹Ï&#x80;Ì&#x85;Î½Ì&#x85;cÌ&#x85; (:á¼&#x81;Î³Î¯Î¿Ï&#x85; Ï&#x80;Î½ÎµÏ&#x8d;Î¼Î±Ï&#x84;Î¿Ï&#x82;) Ï&#x80;Ï&#x81;á½¸Ì£Ï&#x82;Ì£<lb n="4"/><supplied reason="lost">á¼&#x80;</supplied>ÎºÏ&#x81;Î¬Ï&#x84;ÎµÎ±Î½ (:á¼&#x80;ÎºÏ&#x81;Î¬Ï&#x84;ÎµÎ¹Î±Î½) ÎºÎ±á½¶ á¼&#x80;Ï&#x80;Î¬Ï&#x84;Î¹Î¼Î± (:á¼&#x80;Ï&#x80;Î¬Î½Ï&#x84;Î·Î¼Î±)<lb n="5"/>ÎºÎ±á½¶ Î²Ì£<supplied reason="lost">Î±c</supplied>ÎºÌ£Î¿cÌ£Î¯Î½Î·Î½ (:Î²Î±Ï&#x83;ÎºÎ¿Ï&#x83;Ï&#x8d;Î½Î·Î½) á½&#x81;Ï&#x81;ÎºÎ®Î¶Î¿ (:á½&#x81;Ï&#x81;ÎºÎ¯Î¶Ï&#x89;)<lb n="6"/>cÎµ ÎºÎ±Ï&#x84;á½° Ï&#x84;á½¶Ì£Î½ (:Ï&#x84;á½´Î½) Ï&#x83;Ï&#x86;Ï&#x81;Î±Î³á¿&#x96;Î´Î±<lb break="no" n="7"/> Î½ (:Ï&#x83;Ï&#x86;Ï&#x81;Î±Î³á¿&#x96;Î´Î±) Ï&#x84;Î¿á¿¦ cÎ¿Î»Î¿Î¼î&#x87;&#x80;Î½Ï&#x84;Î¿Ï&#x82; (:Î£Î¿Î»Î¿Î¼á¿¶Î½Ï&#x84;Î¿Ï&#x82;) á½&#x81;Ï&#x81;ÎºÎ®Î¶<supplied reason="lost">Î¿</supplied> (:á½&#x81;Ï&#x81;ÎºÎ¯Î¶Ï&#x89;)<lb n="8"/>cÎµ ÎºÎ±Ï&#x84;á½° Ï&#x84;á½¸Î½ Î²Î±cÏ&#x84;Î¬<supplied reason="lost">Î¶Î¿</supplied><lb break="no" n="9"/> Ï&#x84;Î± (:Î²Î±Ï&#x83;Ï&#x84;Î¬Î¶Î¿Î½Ï&#x84;Î±) Ï&#x84;á½¸Î½ Î¸Ï&#x81;Ï&#x8c;Î½Î¿Î½ Ï&#x84;Î¿á¿¦ Î¸Ï&#x85;Ì&#x85; (:Î&#x98;ÎµÎ¿á¿¦) ã&#x80;&#x88;Î&#x9c;Î¹Ï&#x87;Î±á½´Î»ã&#x80;&#x89; <supplied reason="lost">á½&#x81;Ï&#x81;</supplied><lb break="no" n="10"/> ÎºÎ®Î¶Î¿ (:á½&#x81;Ï&#x81;ÎºÎ¯Î¶Ï&#x89;) cÎµ ÎºÎ±Ï&#x84;á½° Ï&#x84;î&#x87;&#x80;Î½ (:Ï&#x84;á¿¶Î½) Î§<supplied reason="lost">ÎµÏ&#x81;</supplied><lb break="no" n="11"/> Î¿Ï&#x85;Î²á½¶(Î½) <surplus>Î&#x9c;Î¹Ï&#x87;Î±á½´Î»</surplus> á½&#x81;Ï&#x81;ÎºÎ®Î¶<supplied reason="lost">Î¿</supplied> (:á½&#x81;Ï&#x81;ÎºÎ¯Î¶Ï&#x89;)<lb n="12"/>cÎµ ÎºÎ±Ï&#x84;á½° Ï&#x84;î&#x87;&#x80;Î½ (:Ï&#x84;á¿¶Î½) Î¹Ì&#x85;Î²Ì&#x85; Ï&#x80;Î±Ï&#x84;<supplied reason="lost">Ï&#x81;</supplied><lb break="no" n="13"/> Î¹Î±Ï&#x81;Ï&#x87;î&#x87;&#x80;Î½ (:Ï&#x80;Î±Ï&#x84;Ï&#x81;Î¹Î±Ï&#x81;Ï&#x87;á¿¶Î½) ÎºÎ±á½¶ Ï&#x84;î&#x87;&#x80;Î½ (:Ï&#x84;á¿¶Î½) ã&#x80;&#x88;Î¹Ì&#x85;Î·Ì&#x85;<certainty match="preceding-sibling::node()" locus="value"/>ã&#x80;&#x89; Ï&#x80;Ï&#x81;Ì£Î¿Ï&#x86;<supplied reason="lost">Î·</supplied><lb break="no" n="14"/> Ï&#x84;î&#x87;&#x80;Î½ (:Ï&#x80;Ï&#x81;Î¿Ï&#x86;Î·Ï&#x84;á¿¶Î½) Ï&#x84;î&#x87;&#x80;Î½ Î»Î·Ï&#x84;Î¿Ï&#x85;Ï&#x81;Î³Î¿Ï&#x8d;Î½Ï&#x84;Î¿Î½ (:Ï&#x84;á¿¶Î½ Î»ÎµÎ¹Ï&#x84;Î¿Ï&#x85;Ï&#x81;Î³Î¿Ï&#x8d;Î½Ï&#x84;Ï&#x89;Î½)<lb n="15"/><supplied reason="lost">á¼&#x90;</supplied>Î½ Ï&#x84;á¿&#x96;Ï&#x82; Î¿~Ì&#x85;Ì&#x85;Î¹Ì&#x85;Ì&#x85;Ï&#x82;Ì&#x85;Ì&#x85; (:Ï&#x84;Î¿á¿&#x96;Ï&#x82; Î¿á½&#x90;Ï&#x81;Î±Î½Î¿á¿&#x96;Ï&#x82;) á½&#x80;Ï&#x81;ÎºÎ®Î¶Î¿ (:á½&#x80;Ï&#x81;ÎºÎ¯Î¶Ï&#x89;) c<supplied reason="lost">Îµ</supplied><lb n="16"/>ÎºÌ£Î± (:ÎºÎ±Ï&#x84;á½°) Ï&#x84;Î¿á¿¦ á¼ Î¿Ï&#x81;Ì£Î´Î¬Î½Î¿Ï&#x85; (:á¼¸Î¿Ï&#x81;Î´Î¬Î½Î¿Ï&#x85;) Ï&#x80;Î¿Ï&#x84;<supplied reason="lost">Î±</supplied><lb break="no" n="17"/> Î¼Î¿á¿¦ ÎºÎ±á½¶ Ï&#x84;Î¿<supplied reason="lost">á¿¦</supplied> Î²Î±Ï&#x80;Ï&#x84;Î·Î¼Î±Ì£<lb break="no" n="18"/> Ï&#x84;Î¿c á¼&#x80;Ï&#x84;Î¿á¿¦ (:Î²Î±Ï&#x80;Ï&#x84;Î¯Ï&#x83;Î¼Î±Ï&#x84;Î¿Ï&#x82; Î±á½&#x90;Ï&#x84;Î¿á¿¦) á¼¢Ì£ á¼&#x80;Ï&#x80;á½¸Ì£ Î²Î±cÎºÎ¿Ì£<lb break="no" n="19"/> Ï&#x83;Î¯Î½Î·Î½ (:Î²Î±Ï&#x83;ÎºÎ¿Ï&#x83;Ï&#x8d;Î½Î·) á¼¢ á¼&#x80;Ï&#x80;á½¸ Ï&#x80;Ï&#x81;Î¿Ï&#x80;Î·Î»Î±<lb break="no" n="20"/> ÎºÎ­Ì£Î±c (:Ï&#x80;Ï&#x81;Î¿Ï&#x80;Î·Î»Î±ÎºÎµÎ¯Î±Ï&#x82;) á¼¢ á¼&#x80;Ï&#x80;á½¸ ÎºÎ±ÎºÌ£Î¿Ì£á¿¦Ì£ <supplied reason="lost">Î±</supplied><lb break="no" n="21"/> Ï&#x80;Î±Î½Ï&#x84;Î®Ì£Î¼Î±Ì£Ï&#x84;Î¿c Î±á½&#x90;Ï&#x84;Î¿á¿¦<lb n="22"/>á¼&#x80;Ï&#x80;Ì£á½¸Ì£ ÎºÎ¿Ï&#x81;Î·Î³Ì£Î·Ï&#x86;á¿&#x86;Ï&#x82; (:ÎºÎ¿Ï&#x81;Ï&#x85;Ï&#x86;á¿&#x86;Ï&#x82;) á¼&#x95;<lb break="no" n="23"/> Î¿c (:á¼&#x95;Ï&#x89;Ï&#x82;) á½&#x80;Î½Î®Ï&#x87;Î¿Î½ Ï&#x86;Î®Î³Îµ (:á½&#x80;Î½Ï&#x8d;Ï&#x87;Ï&#x89;Î½ Ï&#x86;Ï&#x8d;Î³Îµ) <surplus>Ï&#x80;Ì£</surplus><lb n="24"/>Ï&#x86;Î·Î³Î±Î´Î­Ï&#x86;Î¸Î·Ï&#x84;Î¹ (:Ï&#x86;Ï&#x85;Î³Î±Î´ÎµÏ&#x8d;Î¸Î·Ï&#x84;Î¹)<lb n="25"/>Ï&#x80;Î¬Î½ÎºÎ±ÎºÎ¿Î½ á¼&#x80;Ï&#x80;á½¸<lb n="26"/>Ï&#x84;Î¿á¿¦ Î´Î¿Ï&#x8d;Î»Î¿Ï&#x85; Ï&#x84;Î¿á¿¦<lb n="27"/>Î¸Ï&#x85;Ì&#x85; (:Î&#x98;ÎµÎ¿á¿¦) Î³Î¿Ï&#x85;Î»Î·Î±Ì£Î½Î¿á¿¦ (:á¼¸Î¿Ï&#x85;Î»Î¹Î±Î½Î¿á¿¦)<lb n="28"/>á¼&#x80;Î¼Î¯Î½ (:á¼&#x80;Î¼Î®Î½) <g type="crux"/>c 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3), aliter (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

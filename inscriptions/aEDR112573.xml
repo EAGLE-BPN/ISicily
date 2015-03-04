@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112573</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112573</idno>
+				<idno type="TM">285041</idno>
+				<idno type="localID">EDR112573</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Antiquarium  di Imera</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>13.70</height>
+								<width>10.70</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer?</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,4-0,7</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Himera</placeName></origPlace>
+						<origDate notBefore-custom="-0530" notAfter-custom="-0471" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-530 BC - -471 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo), Piano di Imera</placeName>
+						<placeName>Termini Imerese (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term>fasti, leges, acta</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-16" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Preatti dell'XI Congresso di Epigrafia greca e latina, Roma, 18-24 settembre 1997, Roma 1997, p. 27-34, con foto (A. Brugnone) (1)
+					</bibl> 
+			
+					<bibl>
+						Par. Pass., 52, 1997, p. 262-305, con foto e facsimile (A. Brugnone) - SEG 1997 - Bull.ép. 1999 (2)
+					</bibl> 
+			
+					<bibl>
+						Par. Pass., 52, 1997, p. 317-318, nota 57 (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 47, 1997, 1427 (4)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 43-44, 1997-98, p. 579-586, fig. 1, con facsimile (A. Brugnone) (5)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1999, 0644 (L. Dubois) (6)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Epigraphica. Atti del Congresso Internazionali, Erice, 15-18 ottobre 1998, Pisa 1999, p. 420, 424, nota 70 (G. Manganaro) (7)
+					</bibl> 
+			
+					<bibl>
+						Terze Giornate Internazionali di studi sull'area elima, Gibellina-Erice-Contessa Entellina, 23-26 ottobre 1997. Atti, Pisa-Gibellina 2000, p. 748-753 (8)
+					</bibl> 
+			
+					<bibl>
+						Problemi della chora coloniale dall'Occidente al Mar Nero. Atti del XL Convegno di Studi sulla Magna Grecia, Taranto 29 settembre-3 ottobre 2000, Taranto 2001, p. 78-80, 85 (M. Lombardo) (9)
+					</bibl> 
+			
+					<bibl>
+						Problemi della chora coloniale dall'Occidente al Mar Nero. Atti del XL Convegno di Studi sulla Magna Grecia, Taranto, 29 settembre-3 ottobre 2000, Taranto 2001, p. 120-121, nr. 4 a-b (F. Aversa - F. Frisone) - Bull.ép. 2002 (10)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 2002, 0550 (11)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 47-48.1, 2008, p. 329 (G. Manganaro) (12)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, II, Genève 2008, p. 26-37, nr. 15, con facsimile (13)
+					</bibl> 
+			
+					<bibl>
+						Rivista di diritto ellenico, 1, 2011, p. 1-15, con facsimile (A. Brugnone) (14)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/>ÎµÎ½Ï&#x84;Î¿Î½ Î&#x97;ÎµÌ&#x84;Î¼á½·Ï&#x83;Ï&#x87;Î¿Î¹<supplied reason="lost">Î½Î¿Î½</supplied><lb break="no" n="2"/> <supplied reason="lost">...</supplied>ÎµÎ´Îµ Ï&#x84;Ï²Í&#x82;Î½ Î¿á¼°Ï&#x99;Î¿Ï&#x80;á½³Î´Î¿Ì&#x84;Î½ [<gap reason="illegible" quantity="1" unit="character"/>2<certainty match="preceding-sibling::node()" locus="value"/><gap reason="illegible" quantity="1" unit="character"/>]<lb break="no" n="3"/> Î»Î± Î´Î±Î½ÎºÎ»Î±Î¹Í&#x82;Î± Ï&#x80;Î¿Î¹ÎµÍ&#x82;Ï&#x83;Î±Î¹ Î±<supplied reason="lost">.</supplied><lb break="no" n="4"/> Î±Ï&#x81;Îµ. Î&#x97;Î±Î¹ Ï&#x86;Ï&#x81;Î±Ï&#x84;Ï&#x81;Î¹Í&#x82;Î±Î¹ á¼&#x80;<supplied reason="lost">Î½</supplied>á½³Î´ÎµÎ¹Î¾Î±<lb break="no" n="5"/> Î½ Ï&#x84;á½° ÎºÎ±Ï&#x84;Î±Î³ÎµÎ³Ï&#x81;Î±Î¼(Î¼)á½³Î½Î±. á¼°<lb break="no" n="6"/> á½°Î½ <supplied reason="lost">Î´á½³ Ï&#x84;Î¹</supplied>Ï&#x82; Ï&#x80;á½°Ï&#x81; Ï&#x84;á½¸ Ï&#x87;á½±Î»Ï&#x99;Î¿Ì&#x84;Î¼Î±<lb n="7"/>á¼&#x90;Ï&#x81;Î³Î¬Ï&#x83;Î´ÎµÌ&#x84;Ï&#x84;Î±Î¹ á¼&#x92;Ì&#x84; Ï&#x84;á½¸ <supplied reason="lost">Ï&#x87;</supplied>Î¬<supplied reason="lost">Î»Ï&#x99;</supplied><lb break="no" n="8"/> <supplied reason="lost">Î¿Ì&#x84;Î¼</supplied>Î± <supplied reason="lost">á¼&#x80;Ï&#x86;</supplied>Î±Î½á½²Ï&#x82; Ï&#x80;Î¿Î¹Î­Ì&#x84;Ï&#x83;ÎµÎ¹ á¼&#x92;Ì&#x84; Î¸<supplied reason="lost">Î­Î»</supplied><lb break="no" n="9"/> <supplied reason="lost">ÎµÌ&#x84;Î¹ Î»</supplied>Î±Î¸<supplied reason="lost">ÎµÍ&#x82;Î½ Ï&#x84;</supplied>Î¹ Ï&#x80;ÎµÏ&#x81;á½¶ Ï&#x84;Î¿Í&#x82; Ï&#x87;Î±Î»Ï&#x99;<lb break="no" n="10"/> <supplied reason="lost">óÌ&#x84;</supplied>Î¼Î±Ï&#x84;Î¿<supplied reason="lost">Ï&#x82;</supplied> Îµ<supplied reason="lost">.</supplied>Îµ<gap reason="lost" extent="unknown" unit="character"/>ÎµÎ¹Îµ Î¼Ï&#x86;Î¹Ï&#x81;<lb break="no" n="11"/> [Î± (:Î¼Î¿Î¹Í&#x82;Ï&#x81;Î±) <gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]Î¹Îµ ÎºÎ±ÎºÎµÌ&#x84; á¼&#x80;Î³Î±Î¸ÎµÌ&#x84; [<gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>á¼&#x90;]<lb break="no" n="12"/> Î½ Ï&#x84;Î¿Í&#x82;Î¹ Î±á½&#x90;Ï&#x84;Î¿Ï&#x84; (:Î±á½&#x90;Ï&#x84;Î¿Í&#x82;Î¹) Î±á½&#x90;Ï&#x84;á½¸Î½ á¼&#x94;Ï&#x87;Îµ<supplied reason="lost">Ï&#x83;</supplied><lb break="no" n="13"/> Î¸Î±Î¹ á¼&#x90;Î½ Î&#x97;Î¿Í&#x82;Î¹Ï&#x80;ÎµÏ&#x81; Î&#x97;<supplied reason="lost">Î¿ Î¼á¼&#x92;Ì&#x84;</supplied> Î»<lb break="no" n="14"/> <supplied reason="lost">Î±Ï&#x87;á½¸Ì&#x84;</supplied>Î½ Î³Î­ÎµÌ&#x84;Ï&#x82; Î¬Î½Î±Î´Î±Î¹Î¸Î¼Î¿Ì&#x84;.<lb n="15"/>Î¼Î½Î­Ì&#x84;Ï&#x83;ÎµÏ&#x84;Î±Î¹ Ï&#x80;ÎµÏ&#x81;á½¶ <supplied reason="lost">Î´</supplied>á½² Ï&#x84;<lb break="no" n="16"/> Î¿Í&#x82;<supplied reason="lost">Î½</supplied> Î´ÎµÏ&#x87;Î¿<supplied reason="lost">Î¼Î­Î½</supplied>Î¿Ì&#x84;Î½ ÎºÎ±Ï&#x84;á½° Ï&#x84;<lb break="no" n="17"/> á½¸ Ï&#x87;Î¬<supplied reason="lost">Î»Ï&#x99;</supplied>Î¿Ì&#x84;Î¼Î± ÎºÎ±Ï&#x81;Ï&#x84;<lb break="no" n="18"/> ÎµÏ&#x81;Î¿[<gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>]ÎµÎ½Ï&#x84;Î± <gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), aliter (1) (3) (6) (8) (13)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

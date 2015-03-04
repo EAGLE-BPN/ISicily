@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR071633</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR071633</idno>
+				<idno type="TM">175824</idno>
+				<idno type="localID">EDR071633</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico Regionale Antonio Salinas, inv. 3507</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis, calcare</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>45.00</height>
+								<width>134.00</width>
+								<depth>15.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">6,5-7,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="-0039" notAfter-custom="-0036" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-39 BC - -36 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), Capo Boeo</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-19" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not.Sc., 1894, pp. 388-391, con foto (A.Salinas) - AE 1895 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1895, 0023 (2)
+					</bibl> 
+			
+					<bibl>
+						ILS 8891 (3)
+					</bibl> 
+			
+					<bibl>
+						ILLRP 0426 (4)
+					</bibl> 
+			
+					<bibl>
+						L. Bivona, Iscrizioni latine lapidarie del Museo di Palermo, Palermo 1970, nr.7, tav.IV, con foto (5)
+					</bibl> 
+			
+					<bibl>
+						HD018852 (A.Scheithauer) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				MaÌ&#x82;<expan><abbr>g</abbr><ex>no</ex></expan> Pompeio MaÌ&#x82;<expan><abbr>g</abbr><ex>ni</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> Pio, <expan><abbr>imp</abbr><ex>eratore</ex></expan>, augurÌ&#x82;e,<lb n="2"/>co<expan><ex>n</ex><abbr>s</abbr><ex>ule</ex></expan> <expan><abbr>desig</abbr><ex>nato</ex></expan>, por<supplied reason="lost">ta</supplied>m et turres.<lb n="3"/><expan><abbr>L</abbr><ex>ucius</ex></expan> Plinius <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> Rufus, <expan><abbr>leg</abbr><ex>atus</ex></expan> pro <expan><abbr>pr</abbr><ex>aetore</ex></expan>, <expan><abbr>pr</abbr><ex>aetor</ex></expan> <expan><abbr>des</abbr><ex>ignatus</ex></expan>, <expan><abbr>f</abbr><ex>aciendum</ex></expan> <expan><abbr>c</abbr><ex>uravit</ex></expan>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3)-(5), aliter (1)-(2).&lt;br&gt;V.2: por[tu]m (1)-(2).
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

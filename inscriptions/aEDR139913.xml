@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR139913</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR139913</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR139913</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum?</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani)</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-10" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 05731 (1)
+					</bibl> 
+			
+					<bibl>
+						Latium, 2, 1985, p. 42, nr. 11 (M. Rizzello) (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> á½&#x91;Ï&#x80;á½²Ï&#x81; Ï&#x83;Ï&#x89;Ï&#x84;Î·Ï&#x81;Î¯Î±Ï&#x82;</supplied><lb n="2"/><supplied reason="lost">Î&#x91;á½&#x90;Ï&#x84;Î¿ÎºÏ&#x81;Î¬Ï&#x84;Î¿Ï&#x81;Î¿Ï&#x82;</supplied> Î&#x9a;Î±Î¯Ï&#x83;Î±Ï&#x81;Î¿<supplied reason="lost">Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/> </supplied><lb n="3"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Î&#x91;</supplied>á½&#x90;Ï&#x84;Î¿ÎºÏ&#x81;Î¬<supplied reason="lost">Ï&#x84;Î¿Ï&#x81;Î¿Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Î¿Ï&#x85; Î£ÎµÎ²Î±<supplied reason="lost">Ï&#x83;Ï&#x84;Î¿á¿¦ Ï&#x85;á¼±Î¿á¿¦ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="5"/><name type="praenomen"><gap reason="lost" atLeast="1" atMost="3" unit="character"/></name> Î£ÎµÏ&#x80;Ï&#x84;Î¯<supplied reason="lost">Î¼Î¹Î¿Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/> á¼&#x80;Î½Î­Î¸Î·</supplied><lb break="no" n="6"/> <supplied reason="lost">ÎºÎµÎ½ Ï&#x84;á½´Î½ Ï&#x80;Î±Î»Î±Î¯</supplied>Ï&#x83;Ï&#x84;Ï&#x81;Î±Î½ ÎºÎ±<supplied reason="lost">á½¶ Ï&#x84;á½° á¼&#x90;Î½ Î±á½&#x90;Ï&#x84;á¿&#x83;Í&#x82;</supplied><lb n="7"/><supplied reason="lost">ÎºÎ±Î¸Î¹ÎµÏ&#x81;Ï&#x8e;Ï&#x83;Î±Î½Ï&#x84;Î¿Ï&#x82;</supplied> Î¤(Î¯Ï&#x84;Î¿Ï&#x85;) Î¦Î»Î±Î¿Ï&#x85;Î¯Î¿<supplied reason="lost">Ï&#x85; <gap reason="lost" extent="unknown" unit="character"/></supplied>
+				<name type="praenomen"><gap reason="lost" atLeast="1" atMost="3" unit="character"/></name>
+				<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> á½&#x91;Ï&#x80;á½²Ï&#x81; Ï&#x83;Ï&#x89;Ï&#x84;Î·Ï&#x81;Î¯Î±Ï&#x82;</supplied><lb n="8"/><supplied reason="lost">Î&#x91;á½&#x90;Ï&#x84;Î¿ÎºÏ&#x81;Î¬Ï&#x84;Î¿Ï&#x81;Î¿Ï&#x82;</supplied> Î&#x9a;Î±Î¯Ï&#x83;Î±Ï&#x81;Î¿<supplied reason="lost">Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/> </supplied><lb n="9"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Î&#x91;</supplied>á½&#x90;Ï&#x84;Î¿ÎºÏ&#x81;Î¬<supplied reason="lost">Ï&#x84;Î¿Ï&#x81;Î¿Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>Î¿Ï&#x85; Î£ÎµÎ²Î±<supplied reason="lost">Ï&#x83;Ï&#x84;Î¿á¿¦ Ï&#x85;á¼±Î¿á¿¦ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="11"/><name type="praenomen"><gap reason="lost" atLeast="1" atMost="3" unit="character"/></name> Î£ÎµÏ&#x80;Ï&#x84;Î¯<supplied reason="lost">Î¼Î¹Î¿Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/> á¼&#x80;Î½Î­Î¸Î·</supplied><lb break="no" n="12"/> <supplied reason="lost">ÎºÎµÎ½ Ï&#x84;á½´Î½ Ï&#x80;Î±Î»Î±Î¯</supplied>Ï&#x83;Ï&#x84;Ï&#x81;Î±Î½ ÎºÎ±<supplied reason="lost">á½¶ Ï&#x84;á½° á¼&#x90;Î½ Î±á½&#x90;Ï&#x84;á¿&#x83;Í&#x82;</supplied><lb n="13"/><supplied reason="lost">ÎºÎ±Î¸Î¹ÎµÏ&#x81;Ï&#x8e;Ï&#x83;Î±Î½Ï&#x84;Î¿Ï&#x82;</supplied> Î¤(Î¯Ï&#x84;Î¿Ï&#x85;) Î¦Î»Î±Î¿Ï&#x85;Î¯Î¿<supplied reason="lost">Ï&#x85; <gap reason="lost" extent="unknown" unit="character"/></supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

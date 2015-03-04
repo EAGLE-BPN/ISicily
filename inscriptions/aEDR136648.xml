@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136648</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136648</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136648</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo,  Museo Arch. Reg., Inv.  58302</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/188">oscillum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Soluntum</placeName></origPlace>
+						<origDate notBefore-custom="-0300" notAfter-custom="-0201" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-300 BC - -201 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName>
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/143">ignoratur</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-02-21" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Or. Ant., 4, 1965, p. 199-201, tav. 25, con foto (V. Tusa) (1)
+					</bibl> 
+			
+					<bibl>
+						Par. Pass., 39, 1984, p. 441-443, con foto (G. Garbini) - SEG 34, 1984 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 34, 1984, 0973 (3)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Epigraphica. Atti del convegno di studi, Erice, 15-18 ottobre 1998, Pisa 1999, p. 38 (M.G. Amadasi Guzzo) (4)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Epigraphica. Atti del convegno di studi, Erice, 15-18 ottobre 1998, Pisa 1999, p. 206-207, fig. 119, con foto (R. De Simone) (5)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 135, 2001, p. 65 (G. Manganaro) - SEG 50, 2000 (6)
+					</bibl> 
+			
+					<bibl>
+						SEG 50, 2000, 0988 (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				LÊ» B/RB<lb n="2"/>Ï&#x86;Î±Î´Î¹Ï&#x82;<lb n="3"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4), v. 1 aliter alii
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

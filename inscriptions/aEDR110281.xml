@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR110281</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR110281</idno>
+				<idno type="TM">284877</idno>
+				<idno type="localID">EDR110281</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur, periit</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes?</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>urbs incerta</placeName>
+						<placeName>ignoratur</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv. Ind. Gr. It., 11, 1927, p. 105 sgg., con foto (G. Libertini) (1)
+					</bibl> 
+			
+					<bibl>
+						Rend. Acc. Linc., s. 8, 17, 1963, p. 71 sgg., con foto (G. Manganaro) (2)
+					</bibl> 
+			
+					<bibl>
+						N. Bucaria, Sicilia judaica, Palermo 1996, p. 59 (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="0"/>
+				<gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="0"/><gap reason="lost" extent="unknown" unit="line"/><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>Î¹Î±Î¿Î±Î²Î´ÎºÏ&#x85;Ï&#x80;Ï&#x80;Î»<gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>Ï&#x84;Î·Î½Ï&#x85;Ï&#x87;Î¹Î¼Î¹Î¿Ï&#x85;Î¹Î±Î¿Ï&#x85;Î¼<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>Î¹Ï&#x80;Î¿Ï&#x84;Î¹Î¸Ï&#x85;Ï&#x81;Î¿Ï&#x85;Ï&#x84;Î¿Ï&#x85;Ï&#x85;Ï&#x88;Î¹Ï&#x84;Î½Î¸Î¿<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Î»Î²Î±Î»Î±Î»Î²Î± <gap reason="illegible" quantity="2" unit="character"/> Î±Î»<gap reason="lost" extent="unknown" unit="character"/><lb n="5"/>Î¹Î¿Î»Î±Î½Ï&#x85;Î±Î»Î¿Î»Î»Ï&#x85;Î½Î±Î¹Î¿Î±Ï&#x89;<lb n="6"/><gap reason="illegible" quantity="3" unit="character"/>Î±Î½Î±Î¸ÎµÎ½Î±·Î¿Î´Î²Î±Î»Î½Î¿<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>Î»Î»Î²Î¿Î¸Î¸Î±Î²Ï&#x85;Ï&#x88;Î¿Î»Î»Î³Î¹·ÎºÎ¿Ï&#x87;Î¹Î¿<lb n="8"/>Î¿Ï&#x88;ÎµÏ&#x88;Î¿Î¸Ï&#x84;ÎµÏ&#x88;ÎµÎ³Îµ·Ï&#x85;Î±Î½Î¿Î¹<lb n="9"/><gap reason="illegible" quantity="1" unit="character"/>Ï&#x80;Î¹Ï&#x84;Î¿Î¸Ï&#x85;Ï&#x84;Ï&#x89;Ï&#x84;Î±Ï&#x81;Î±Î¹Î±Î¿Ï&#x87;ÎºÎµÏ&#x84;<lb n="10"/><gap reason="illegible" quantity="1" unit="character"/>Î±Î¸Ï&#x89;Î±Î»Î²Î±Î¸Î±Ï&#x85;Î»Î±Î³Î¹ÎµÏ&#x85;Î¸Î±Î¹<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>Î¸Ï&#x89;ÎµÏ&#x84;Ï&#x88;Î¹ÎµÎ¿Ï&#x88;Ï&#x85;<lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>Î»Î±Î»Î¹ÎµÎ±<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>Ï&#x81;Î¹c<gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

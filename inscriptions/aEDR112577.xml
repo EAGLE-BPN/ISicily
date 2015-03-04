@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112577</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112577</idno>
+				<idno type="TM">285166</idno>
+				<idno type="localID">EDR112577</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/214">sarcophagus, operculum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate notBefore-custom="0001" notAfter-custom="0100" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">1 AD - 100 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mdina (M), usato come bacino di una fontana nel fossato al di sotto della porta principale della città</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIG 03, 5754 (1), cfr. p. 1251 (2)
+					</bibl> 
+			
+					<bibl>
+						IG 14, 00601 (3)
+					</bibl> 
+			
+					<bibl>
+						Journal of the Faculty of Arts, 05, 1972, p. 162-167 (J. Busuttil) (4)B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, pp. 20, 57 (5)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a. 2003-2004 con foto e disegno (6)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A., 2. Malta in the Hybleans,the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 140-141, 149, 160 (M. Cassia) (7)
+					</bibl> 
+			
+					<bibl>
+						
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9b;(Ï&#x8d;ÎºÎ¹Î¿Ï&#x82;) Î&#x9a;Î±<supplied reason="lost">Ï&#x83;Ï&#x84;Ï&#x81;Î¯</supplied>ÎºÎ¹Î¿Ï&#x82; Î Ï&#x81;Î¿Ï&#x8d;Î´Î·Î½Ï&#x82; á¼±Ï&#x80;Ï&#x80;Îµá½ºÏ&#x82;<lb n="2"/>á¿¬Ï&#x89;Î¼(Î±Î¯Ï&#x89;Î½) Ï&#x80;Ï&#x81;á¿¶Ï&#x84;Î¿Ï&#x82; Î&#x9c;ÎµÎ»Î¹Ï&#x84;Î±Î¯Ï&#x89;Î½<lb n="3"/>ÎºÎ±á½¶ Ï&#x80;Î¬Ï&#x84;Ï&#x81;Ï&#x89;Î½ á¼&#x84;Ï&#x81;Î¾Î±Ï&#x82; ÎºÎ±á½¶ á¼&#x80;Î¼Ï&#x86;Î¹Ï&#x80;Î¿Î»ÎµÏ&#x8d;Ï&#x83;Î±Ï&#x82; Î¸Îµá¿· Î&#x91;á½&#x90;Î³Î¿Ï&#x8d;Ï&#x83;Ï&#x84;á¿³<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>Î&#x95;Î£Î§<gap reason="lost" extent="unknown" unit="character"/>Î&#x9d;<gap reason="lost" extent="unknown" unit="character"/>Î&#x95;<gap reason="lost" extent="unknown" unit="character"/>Î&#x99;<gap reason="lost" extent="unknown" unit="character"/>Î&#x9d;Î&#x95;<lb n="5"/><lb n="6"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)&lt;br&gt;Traduzione: L. Castricius Prudens, della tribù Quirina, cavaliere romano, primo (cittadino) dei Melitensi e patrono, dopo essere stato arconte (magistrato) e flamine del divo Augusto, (dedicò?). &lt;br&gt;Il testo viene riportato da (4) ad eccezione delle lettere mancanti dell'ultima riga.&lt;br&gt;L'iscrizione attesta la persistenza della cultura greca in epoca romana e quindi la lentezza che caratterizzò il processo di romanizzazione. La lingua utilizzata è infatti il greco, come sono greci i termini usati per indicare le cariche rivestite, il nome del personaggio, L. Castricius Prudens è invece completamente romano. 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

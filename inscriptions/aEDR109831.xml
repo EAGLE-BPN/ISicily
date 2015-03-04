@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109831</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109831</idno>
+				<idno type="TM">285026</idno>
+				<idno type="localID">EDR109831</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico P. Orsi nr. inv. 1920</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>13.50</height>
+								<width>7.50</width>
+								<depth>1.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/8">litt. ex forma</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, Porto Piccolo</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Cron. Arch., 2, 1963, p. 64 sgg., con foto (G. Manganaro) - SEG 1996 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1294 (2)
+					</bibl> 
+			
+					<bibl>
+						Hestiasis, 4, 1989 (1994), p. 18 sg., (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						R.J.A. Wilson, Sicily under the Roman Empire, Warmister 1990, p. 311 sg., con foto (4)
+					</bibl> 
+			
+					<bibl>
+						Gli Ebrei in Sicilia dal tardoantico al medioevo. Studi in onore di Monsignor Benedetto Rocco, Palermo 1998, p. 306 sgg., con foto (G. Lacerenza) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x91;Ï&#x84;Ï&#x89;Î¼ Ï&#x86;Î±Î¿Ï&#x82; ÎµÏ&#x81;Î¿Î·<lb n="2"/>Î·Î¿Î·Ï&#x87;Î·Î¹Î»Î½Î¹Ï&#x83;Î±<lb n="3"/>Ï&#x87;Î½Î¹Ï&#x89;Î·ÎºÏ&#x87;Î¿Î¿Ï&#x84;<lb n="4"/><g type="signum"/> Î·Î´Î¹Î½ ÎºÏ&#x89;Ï&#x81;Ï&#x81;Î¹<lb n="5"/>Î¼Î»Ï&#x85;cÎ¿ Î·Ï&#x85;Ï&#x81;Ï&#x85;Ï&#x89;<lb n="6"/>ÎµÏ&#x89;Ï&#x85;Ï&#x82;<g type="signum"/> Î¿Î¿<g type="signum"/>Ï&#x85;(<expan><ex>signum</ex></expan>Î¿Îº<lb n="7"/>Ï&#x86;Î±Ï&#x85;Ï&#x86;Î¹Î» <g type="signum"/> Î±Î´<lb n="8"/>cÏ&#x84;ÎºÎ¹Î·Î¹Î¹ <g type="signum"/> Î¼Ï&#x85;Î¿Ï&#x82;<lb n="9"/>Î¹Î¿Î±Ï&#x80;Î¿Ï&#x86;Î¿Ï&#x82; Î¿Î¹Ï&#x83;ÎºÎ½Î¿Î·<lb n="10"/>Î±Î¾Î¼Î´Î¿Î´Î·ÎµÎ¹<lb n="11"/>Î¼cÎ¿Î¾ <g type="signa"/> Î¹<lb n="12"/>Î±Î²Ï&#x83;Ï&#x89;Î½Î¹ <g type="signum"/><lb n="13"/>Î´Î±Î¼Î¹ Î¹Î±ÎºÏ&#x89;Ï&#x80;Ï&#x80;Î¹<lb n="14"/>Ï&#x85;Î¿ÎµÎ¿Î±ÎºÎ¹Î±Î¹Ï&#x81;Î±Î²Ï&#x87;<lb n="15"/>Ï&#x80;Î±Î¹Î½Î¿Î¹Î¿ Ï&#x84;Ï&#x80;Î¿Î½ Î±Îº<lb n="16"/>ÎµÏ&#x83;Ï&#x84;Î¹ÎºÎ± Î±Î¹ Î¼Î±Ï&#x81;Î±Î½Î¹ Î¹Î±
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

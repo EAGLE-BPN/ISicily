@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112521</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112521</idno>
+				<idno type="TM">285061</idno>
+				<idno type="localID">EDR112521</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>35.00</height>
+								<width>87.00</width>
+								<depth>55.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer?</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/002350">Gela</placeName></origPlace>
+						<origDate notBefore-custom="-0600" notAfter-custom="-0501" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-600 BC - -501 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gela (Caltanissetta), ignoratur</placeName>
+						<placeName>Gela (Caltanissetta)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-04-03" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 3, 1957, p. 94-96, fig. 22-23, con foto e facsimile (P. Orlandini) - SEG 1963 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 19, 1963, 0609 (2)
+					</bibl> 
+			
+					<bibl>
+						Annuar. Sc. Arch. Atene, 37-38, 1959-60, p. 270, nr. 4, fig. 14, con facsimile (M. Guarducci) (3)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 147-148, nr. 129, con facsimile (4)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, II. Iscrizioni di Gela e Agrigento, Alessandria 2002, p. 26-27, nr. 5, tav. II, 2, con facsimile (5)
+					</bibl> 
+			
+					<bibl>
+						Sicilia antiqua, 8, 2011, p. 14-16, fig. 3, con foto (A. Brugnone) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Î&#x9a;</supplied>Ï&#x85;Î½Î±Î¯Î¸Î¿Ì&#x84; á¼&#x90;Ì&#x84;Î¼á½¶ Ï&#x84;á½¸ <gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>Î¼Ì£Î± Ï&#x84;Î¿Ì&#x84; á¼&#x98;Ï&#x80;Ï&#x8c;Ï&#x87;Î¿Ì&#x84;<lb n="3"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3) (6), aliter (1) (4) (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

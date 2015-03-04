@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR146645</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR146645</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR146645</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palagonia (Catania), contrada Coste di Palagonia, dietro M. Croce</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/211">rupes</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer?</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>ignoratur</placeName></origPlace>
+						<origDate notBefore-custom="-0250" notAfter-custom="-0151" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-250 BC - -151 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Palagonia (Catania), contrada Coste di Palagonia, dietro M. Croce</placeName>
+						<placeName>Palagonia (Catania)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-01-20" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rupes loquentes. Atti del Convegno Internazionale di studio sulle Iscrizioni rupestri di età romana in Italia, Roma-Bomarzo 1989, Roma 1992, p. 492-497, nr. VIII, fig. 32-36, con foto (G. Manganaro) - SEG 42, 1992 - Bull.ép. 1993 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 42, 1992, 0850 (2)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1993, 0715 (3)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 111, 1996, p. 136, nr. 3 (G. Manganaro) - SEG 46, 1996 (4) 
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1250 (5)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, II, Genève 2008, p. 179, nr. 100 (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9d;Ï&#x85;Î¼Ï&#x86;Ï&#x8c;Î´Ï&#x89;Ï&#x81;Î¿Ï&#x82; ÎºÎµÏ&#x87;Î±Ï&#x81;Î¹Ï&#x83;Î¼Î­Î½Î±<supplied reason="lost">Î½</supplied> Ï&#x84;Î±Ï&#x81;Î¹Ï&#x87;<supplied reason="lost">Î¿</supplied>Ï&#x80;Ï&#x8e;Î»Î±Ï&#x82; <supplied reason="lost">á¼&#x90;</supplied>Ï&#x80;Ï&#x8d;Î³Î¹Î¶Îµ Î&#x94;Î±Î¼Ï&#x85;Î»Î¯Î½.<lb n="2"/>Î&#x94;Î±Î¼Ï&#x85;Î»á½¶Ï&#x82; á¼&#x81; ÎºÎµÏ&#x87;Î±Ï&#x81;Î¹Ï&#x83;Î¼Î­Î½Î± Î&#x9d;Ï&#x85;Î¼Ï&#x86;Î¿Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85; Î³Ï&#x85;Î½Î¬.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

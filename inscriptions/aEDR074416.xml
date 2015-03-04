@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR074416</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR074416</idno>
+				<idno type="TM">175811</idno>
+				<idno type="localID">EDR074416</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), Capo Boeo</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>115.00</height>
+								<width>65.00</width>
+								<depth>13.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4-6</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani, Capo Boeo</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-09-15" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Il Vomere, 1952, nr. 52 (G. Agosta) (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 7, 1961, pp. 34-45, con foto (G. Barbieri) - AE 1964 (2)
+					</bibl> 
+			
+					<bibl>
+						AE 1964, 0182 (3)
+					</bibl> 
+			
+					<bibl>
+						HD016012 (H. Niquet) (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="0"/>
+				<gap reason="lost" extent="unknown" unit="line"/><lb n="1"/>opere plataeam<note>!</note> vici SepÌ£<supplied reason="lost">tizodi</supplied><lb n="2"/>lapide Drepanitano sua <expan><abbr>p</abbr><ex>ecunia</ex></expan> <expan><abbr>strav</abbr><ex>it</ex></expan>;<lb n="3"/><expan><abbr>Q</abbr><ex>uintus</ex></expan> Fabius <expan><abbr>Q</abbr><ex>uinti</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> <expan><abbr>Maec</abbr><ex>ia</ex></expan> Caesilius<lb n="4"/>Modius Titianus, <expan><abbr>q</abbr><ex>uaestor</ex></expan> pro <expan><abbr>pr</abbr><ex>aetore</ex></expan><lb n="5"/><expan><abbr>prov</abbr><ex>inciae</ex></expan> <expan><abbr>Sici</abbr><ex>liae</ex></expan>, plataeam<note>!</note> vici<lb n="6"/>Septizodi sternendam et<lb n="7"/>perficiendam curavit ded<supplied reason="lost">i</supplied><lb break="no" n="8"/> cavitque.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), contulit ad imaginem Puccia a. 2010.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

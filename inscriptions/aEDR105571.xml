@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR105571</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR105571</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR105571</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Calatafimi (Trapani),  Segesta</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>75.50</height>
+								<width>3.78</width>
+								<depth>30.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">9-8,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022277">Segesta</placeName></origPlace>
+						<origDate notBefore-custom="-0150" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-150 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Calatafimi (Trapani), area archeologica di Segesta</placeName>
+						<placeName>Calatafimi  (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/143">ignoratur</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-05" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00292 (frg. a) (1)
+					</bibl> 
+			
+					<bibl>
+						Terze Giornate Internazionali di Studi sull'area elima, Gibellina, Erice, Contessa Entellina, 23-26 ottobre 1997, Pisa-Gibellina 2000, p. 810-811, tav. 156, con foto (G. Nenci) - SEG 50, 2000 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 50,2000, 1020 (3)
+					</bibl> 
+			
+					<bibl>
+						Quarte Giornate Internazionalidi Studi sull'area elima, Erice, 1-4 dicembre 2000, Pisa 2003, p. 400, nr. 13 (S. De Vido) - SEG 53-2, 2003 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 53-2, 2003, 1029 (5)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, II, Genève 2008, p. 167, nr. 88 (6)  
+					</bibl> 
+			
+					<bibl>
+						Agora greca e agorai di Sicilia. An.Sc.Norm.Pisa. Seminari e Convegni, 28, Pisa 2012, p. 274 (C. Ampolo, M.C. Parra) (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:frg. a<gap reason="illegible" quantity="1" unit="character"/>bã&#x80;&#x89;<lb n="2"/>á¼&#x8c;Ï&#x83;ÎºÎ»Î±Ï&#x80;Î¿Ï&#x82; Î&#x94;Î¹Î¿Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85; Î¤Î±Ï&#x85;Ï&#x81;Î­Î±Ï&#x82;<lb n="3"/>á¼&#x90;Ï&#x80;Î¹Ï&#x83;Ï&#x84;Î¬Ï&#x84;Î±Ï&#x82;<lb n="4"/>Î&#x92;Î¯Î²Î±ÎºÎ¿Ï&#x82; Î¤Î¹Ï&#x84;Ï&#x84;Î­Î»Î¿Ï&#x85; Î Î¿Ï&#x83;Î¸Î±Î¹Í&#x82;Î¿Ï&#x82;<lb n="5"/>á¼&#x80;Ï&#x81;Ï&#x87;Î¹Ï&#x84;ÎµÎºÏ&#x84;Ï&#x8c;Î½Î·Ï&#x83;Îµ 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR114400</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR114400</idno>
+				<idno type="TM">285055</idno>
+				<idno type="localID">EDR114400</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, teatro greco</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/129">gradus, theatrum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">10-18</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="-0250" notAfter-custom="-0201" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-250 BC - -201 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, quartiere di Neapolis, teatro greco</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-22" who="Alessia DIMARTINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 0003 (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI 3232 (2)
+					</bibl> 
+			
+					<bibl>
+						Syll3, 0429 (3)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, Epigrafia greca, II, Roma 1969, pp. 571-573 (4)
+					</bibl> 
+			
+					<bibl>
+						Cron. Arch., 16, 1977, p. 157 (G. Manganaro) (5)
+					</bibl> 
+			
+					<bibl>
+						Rupes loquentes. Atti del Convegno internazionale di studiosulle Iscrizioni rupestri di età romana in Italia, Roma-Bomarzo, 13-15.X.1989, Roma 1992, pp. 448-450, nr. Î&#x99;, fig. 1-5, con foto (G. Manganaro) (6)
+					</bibl> 
+			
+					<bibl>
+						Quinte Giornate Internazionali di Studi sull&#x92;area elima e la Sicilia occidentale, Erice 12-15 ottobre 2003, Pisa 2006, p. 704-705, nr. 1.3, fig. 411-415, con foto (A. Dimartino) (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:parallelepipedum Iã&#x80;&#x89;<lb n="2"/><supplied reason="lost">Î²Î±Ï&#x83;Î¹Î»Î­Ï&#x89;Ï&#x82; Î&#x93;Î­Î»Ï&#x89;Î½Î¿Ï&#x82;</supplied><lb n="3"/><lb n="4"/>ã&#x80;&#x88;:parallelepipedum IIã&#x80;&#x89;<lb n="5"/>Î²Î±Ï&#x83;Î¹Î»Î¯Ï&#x83;Ï&#x83;Î±Ï&#x82; Î&#x9d;Î·Ï&#x81;Î·á¿&#x93;Î´Î¿Ï&#x82;<lb n="6"/><lb n="7"/>ã&#x80;&#x88;:parallelepipedum IIIã&#x80;&#x89;<lb n="8"/>Î&#x92;Î±Ï&#x83;Î¹Î»Î¯Ï&#x83;Ï&#x83;Î±Ï&#x82; Î¦Î¹Î»Î¹Ï&#x83;Ï&#x84;Î¯Î´Î¿Ï&#x82;<lb n="9"/><lb n="10"/>ã&#x80;&#x88;:parallelepipedum IVã&#x80;&#x89;<lb n="11"/><supplied reason="lost">Î&#x92;</supplied>Î±Ï&#x83;Î¯Î»<supplied reason="lost">Î­Ï&#x89;Ï&#x82; á¼¹Î­Ï&#x81;Ï&#x89;</supplied>Î½Î¿Ï&#x82;<lb n="12"/><lb n="13"/>ã&#x80;&#x88;:parallelepipedum Vã&#x80;&#x89;<lb n="14"/>Î&#x94;Î¹Î¿Ì&#x80;Ï&#x82; á½&#x88;Î»Ï&#x85;Î¼Ï&#x80;Î¯Î¿Ï&#x85;<lb n="15"/><lb n="16"/>ã&#x80;&#x88;:parallelepipedum VIã&#x80;&#x89;<lb n="0"/><gap reason="lost" quantity="1" unit="line"/><lb n="17"/><lb n="18"/>ã&#x80;&#x88;:parallelepipedum VIIã&#x80;&#x89;<lb n="19"/><supplied reason="lost">á¼©Ï&#x81;</supplied>Î±ÎºÎ»Î­Î¿Ï&#x82; <supplied reason="lost">Î&#x9a;</supplied>Ï&#x81;Î±Ï&#x84;Îµ<supplied reason="lost">Ï&#x81;Ï&#x8c;</supplied>Ï&#x86;Ï&#x81;Î¿Î½Î¿Ï&#x82;<lb n="20"/><lb n="21"/>ã&#x80;&#x88;:parallelepipedum VIIIã&#x80;&#x89;<lb n="0"/><gap reason="lost" quantity="1" unit="line"/><lb n="22"/><lb n="23"/>ã&#x80;&#x88;:parallelepipedum IXã&#x80;&#x89;<lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (7) contulit A. Dimartino a. 2006
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR147914</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR147914</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR147914</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>San Marco d'Alunzio (Messina)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>57.00</height>
+								<width>72.00</width>
+								<depth>16.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">1,5-1</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022342">Haluntium </placeName></origPlace>
+						<origDate notBefore-custom="-0300" notAfter-custom="-0201" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-300 BC - -201 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>San Marco d'Alunzio (Messina)</placeName>
+						<placeName>San Marco d'Alunzio (Messina)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius?</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-03-01" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Arch. Class., 17, 1965, p. 201-202 (G. Manganaro) (1)
+					</bibl> 
+			
+					<bibl>
+						Riv. Filol. Istr. Class., 104, 1976, nota 2 (L. Moretti) - SEG 26, 1976-77 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 26, 1976-77, 1060 (3)
+					</bibl> 
+			
+					<bibl>
+						G. Cordiano, La ginnasiarchia nelle poleis dell'Occidente mediterraneo antico, Pisa 1997, p. 43-44 (4)
+					</bibl> 
+			
+					<bibl>
+						G. Manganaro, Sikelika. Studi di antichità e di epigrafia della Sicilia greca, Pisa-Roma 1999, p. 65-66, nr. 54, fig. 136 - SEG 49, 1999 (5)
+					</bibl> 
+			
+					<bibl>
+						SEG 49, 1999, 1270 (6) 
+					</bibl> 
+			
+					<bibl>
+						A. Dimartino, Indagini paleografiche e prospettive storiche sulle iscrizioni greche di Sicilia (IV-I sec. a.C.). Tesi di Perfezionamento, Sc.Norm.Sup. Pisa, a.a. 2008-2009, p. 129-135, fig. 65, tav. 12, 1, con foto (7) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x93;Ï&#x85;<supplied reason="lost">Î¼Î½Î±Ï&#x83;Î¹Î±Ï&#x81;Ï&#x87;Î¿Ï&#x8d;Î½Ï&#x84;Ï&#x89;Î½ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="2"/>Î Î¯Ï&#x83;Ï&#x84;Ï&#x89;Î½Î¿Ï&#x82; <gap reason="lost" extent="unknown" unit="character"/>Ï&#x80;Î½<gap reason="lost" extent="unknown" unit="character"/><lb n="3"/>Ï&#x84;Î¿á¿¦ Î&#x95;á½&#x94;Î¾Î¹Î¿Ï&#x82;, Î&#x96;Ï&#x89;Î¯Î»Î¿Ï&#x85; Ï&#x84;Î¿<supplied reason="lost">á¿¦ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="4"/>Î½ÎµÎ±Î½Î¯Ï&#x83;ÎºÎ¿Î¹ Î»Î±Î¼Ï&#x80;Î±Î´Î¹Ï&#x83;Ï&#x84;Î±<supplied reason="lost">á½¶ <gap reason="lost" extent="unknown" unit="character"/></supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3), aliter (2) (4) (7) &lt;br&gt;aliam inscriptionem eiusdem monumenti invenies ad EDR 147897
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

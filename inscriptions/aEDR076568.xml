@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR076568</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR076568</idno>
+				<idno type="TM">175712</idno>
+				<idno type="localID">EDR076568</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Museo Civico, inv. 34</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>49.00</height>
+								<width>45.00</width>
+								<depth>7.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3-7</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Thermae Himeraeae</placeName></origPlace>
+						<origDate notBefore-custom="0050" notAfter-custom="0194" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">50 AD - 194 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo), ignoratur</placeName>
+						<placeName>Termini Imerese (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2011-04-28" who="DAVIDE SALVO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Studi di storia antica offerti dagli allievi a Eugenio Manni, Roma 1976, p. 55 sgg., con foto (L. Bivona) - AE 1976 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1976, 0265 (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 22-23, 1976-77, p. 290 sg. (L. Bivona) (3)
+					</bibl> 
+			
+					<bibl>
+						L. Bivona, Iscrizioni latine lapidarie del Museo Civico di Termini Imerese (Supplementi a Kokalos 9), Roma 1994, pp. 127-130, nr.15, con foto (4)
+					</bibl> 
+			
+					<bibl>
+						HD006973 (H. Niquet) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<gap reason="lost" extent="unknown" unit="character"/>ae <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>iliae</ex></expan> Proculae<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <expan><abbr>Sp</abbr><ex>uri</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Cl</abbr><ex>audia</ex></expan> Plaetorio <expan><abbr>q</abbr><ex>uaestori</ex></expan> <expan><abbr>aed</abbr><ex>ili</ex></expan> <expan><abbr>IIv</abbr><ex>iro</ex></expan> <note>!</note> <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>io <expan><abbr>Q</abbr><ex>uinti</ex></expan> <expan><abbr>f</abbr><ex>ilio</ex></expan> <expan><abbr>Qui</abbr><ex>rina</ex></expan> Galeoni<lb n="4"/><supplied reason="lost">cui</supplied> ordo <expan><abbr>dec</abbr><ex>urionum</ex></expan> <expan><abbr>orn</abbr><ex>amenta</ex></expan> <expan><abbr>aed</abbr><ex>ilicia</ex></expan> <expan><abbr>d</abbr><ex>ecrevit</ex></expan><lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>ae <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>iliae</ex></expan> Longinae<lb n="6"/><expan><abbr><supplied reason="lost">3</supplied><supplied reason="lost">f</supplied></abbr><supplied reason="lost"><ex>ilius</ex></supplied></expan> <supplied reason="lost"/> <expan><abbr>Cl</abbr><ex>audia</ex></expan> Proculus <expan><abbr>q</abbr><ex>uaestor</ex></expan> IV <expan><abbr>praef</abbr><ex>ectus</ex></expan><lb n="7"/><supplied reason="lost">pro I</supplied>á»&#x8a;vir<note>!</note> <expan><abbr><am>IIvir</am></abbr><ex>duovir</ex></expan> q<expan><ex>uin</ex><abbr>q</abbr><ex>uennalis</ex></expan> <expan><abbr>trib</abbr><ex>unus</ex></expan> <expan><abbr>mil</abbr><ex>itum</ex></expan><lb n="8"/><expan><abbr>leg</abbr><ex>ionis</ex></expan> VI <expan><abbr>fer</abbr><ex>ratae</ex></expan>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

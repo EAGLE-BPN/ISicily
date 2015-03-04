@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136008</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136008</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136008</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Agrigento, Museo Archeologico Regionale, Inv. C 1867</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>53.00</height>
+								<width>105.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">6</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Agrigentum</placeName></origPlace>
+						<origDate notBefore-custom="-0530" notAfter-custom="-0501" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-530 BC - -501 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Agrigento</placeName>
+						<placeName>Agrigento</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-27" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not. Sc. 1895, p. 239-240 (A. Salinas) (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI, III, 1, 4253 (2)
+					</bibl> 
+			
+					<bibl>
+						M.Guarducci, Epigrafia greca, I, Roma 1967, p. 256-257, nr. 6, fig. 111, con foto (3)
+					</bibl> 
+			
+					<bibl>
+						J.A. De Waele, Acragas graeca. Die historische Topographie des griechischen Akragas auf Sizilien, Gravenhague 1971, p. 31, nr. 1, tav. 3 (4)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 205-206, nr. 178, con facsimile (5) 
+					</bibl> 
+			
+					<bibl>
+						La scrittura nell'Etruria antica. Relazioni e Comunicazioni nel Convegno del 1985. Annali della Fondazione per il Museo 'Claudio Faina',IV, 1990, p. 37 (6)
+					</bibl> 
+			
+					<bibl>
+						L.H. Jeffery, The Local Scripts of Archaic Greece, II ed., Oxford 1990, p. 274, 278, nr. 59 (7)
+					</bibl> 
+			
+					<bibl>
+						G. Manganaro, Sikelika. Studi di antichità e di epigrafia della Sicilia greca, Pisa-Roma 1999, p. 35, nota 141 - SEG 49, 1999 (8)
+					</bibl> 
+			
+					<bibl>
+						SEG 49, 1999, 1265 (9)
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, II. Iscrizioni di Gela e Agrigento, Alessandria 2002, p. 65, nr. 88, tav. 27, 1, con foto - SEG 52, 2002 (10)
+					</bibl> 
+			
+					<bibl>
+						SEG 52, 2002, 886 (11)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">? Î&#x9a;Î»</supplied>ÎµÌ£Ï&#x84;Î¿Í&#x82;Ï&#x82; á¼&#x90;Î¼á½¶ Ï&#x84;Î±Í&#x82;Ï&#x82;<lb n="2"/>á¼&#x88;Î½Ï&#x87;ÎµÎ¼Î¬Ï&#x87;Î¿Ì&#x84;<lb n="3"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8), aliter alii
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

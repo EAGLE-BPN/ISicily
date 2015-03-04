@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112580</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112580</idno>
+				<idno type="TM">285176</idno>
+				<idno type="localID">EDR112580</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Victoria (M), Museo archeologico nazionale (Cittadella)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis, statua</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>34.20</height>
+								<width>63.50</width>
+								<depth>44.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Gaulus insula</placeName></origPlace>
+						<origDate notBefore-custom="0014" notAfter-custom="0029" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">14 AD - 29 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Victoria (M), secondo Gualter la base è stata rinvenuta nelle fondamenta della casa di Giacomo Siraci; secondo Abela (1647, p. 215) e Caruana (1882, p. 136) proviene da una casa privata di Gozo</placeName>
+						<placeName>Gozo</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07501 (1), cfr. p. 994 (2)
+					</bibl> 
+			
+					<bibl>
+						ILS 0121 (3)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., 24, 1969, pp. 156-157, foto, fig. 2 (M. Cagiano De Azevedo) (4)
+					</bibl> 
+			
+					<bibl>
+						Journal of the Faculty of Arts, 5, 1972, p. 155-161 (J. Busuttil) (5)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L'arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, pp. 20, 56-57 (6)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004 con foto e disegno (7)
+					</bibl> 
+			
+					<bibl>
+						A. Bonanno, Malta, Phoenician, Punic, and Roman, Malta 2005, pp. 173-175 (8)  
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans,the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, p. 140, 149,159, 164 (M. Cassia) (9)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				Cereri Íuliae Augustae<lb n="2"/>Divi Augustí matri<lb n="3"/><expan><abbr>Ti</abbr><ex>beri</ex></expan> Caesaris Augusti<lb n="4"/>Lutatia <expan><abbr>C</abbr><ex>ai</ex></expan> <expan><abbr>f</abbr><ex>ilia</ex></expan> sacerdos Augustae<lb n="5"/>ã&#x80;&#x9a;<expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>perpet</abbr><ex>ui</ex></expan>ã&#x80;&#x9b; uxor<lb n="6"/><expan><abbr>M</abbr><ex>arci</ex></expan> Lívi <expan><abbr>M</abbr><ex>arci</ex></expan> <expan><abbr>f</abbr><ex>ili</ex></expan> <expan><abbr>Qui</abbr><ex>rina</ex></expan> Optati flaminis G<supplied reason="lost">a</supplied>uá¸·(itanorum)<lb n="7"/>Iuliae Augusti ã&#x80;&#x9a;<expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>perpet</abbr><ex>ui</ex></expan>ã&#x80;&#x9b; cum á¹¾<lb n="8"/>líberis <expan><abbr>s</abbr><ex>ua</ex></expan> <expan><abbr>p</abbr><ex>ecunia</ex></expan> consacravit.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (7) contulit ad imaginem et ectypum E. Pirino a.2004&lt;br&gt;scrittura capitale, erasioni, interpunzioni triangolari. &lt;br&gt;L'iscrizione, come sembrerebbe testimoniare anche una stampa di J. Houel (Voyage pictoresque des iles de Sicile, de Malte et de Lipari, Parigi 1787, p. 95, tav.257), apparteneva probabilmente alla base di una statua femminile drappeggiata raffigurante Livia che oggi si trova nel Museo archeologico di Gozo. &lt;br&gt;L'uso dei titoli -flamen Gaulitanorum- al posto del consueto -flamen Divi Augusti- o -flamen Divorum Augustorum- indicherebbe che l'epigrafe fu posta nel 14 d.C. o subito dopo, prima della formale istituzione del culto del Divus Augustus. 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

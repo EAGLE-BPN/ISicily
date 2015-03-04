@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR135919</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR135919</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR135919</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Museo Civico, Inv. 138</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>42.00</height>
+								<width>55.00</width>
+								<depth>53.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3-2,2</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Thermae Himeraeae</placeName></origPlace>
+						<origDate notBefore-custom="-0230" notAfter-custom="-0171" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-230 BC - -171 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo)</placeName>
+						<placeName>Termini Imerese  (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00317 (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 20, 1974, p. 221-223, nr. 2, tav. 32, fig. 2, con foto (A. Brugnone) (2)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 251-252, nr. 202 (3) 
+					</bibl> 
+			
+					<bibl>
+						A. Dimartino, Indagini paleografiche e prospettive storiche sulle iscrizioni greche di Sicilia (IV-I sec. a.C.), Sc.Norm.Sup.Pisa, Tesi di Perfezionamento, A.A. 2008-2009, p. 312-316, nr. 79, fig. 144, con foto (4)   
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="0"/>
+				<gap reason="lost" extent="unknown" unit="line"/><lb n="1"/><supplied reason="lost">á¼&#x90;</supplied>Ï&#x80;Ì£á½¶Ì£ Ï&#x84;á½¸ Î¬Î»ÎµÎ¹Ï&#x80;Ì£<supplied reason="lost">Ï&#x84;Î®Ï&#x81;Î¹Î¿Î½ á¼&#x90;Îº Ï&#x84;Î¿á¿¦</supplied><lb n="2"/><supplied reason="lost">á¼°</supplied>Î´Î¯Î¿Ï&#x85; Ï&#x80;Î¿Î¹Î®Ï&#x83;Ì£Î±Ì£Î½Ì£Ï&#x84;Ì£Î±Ì£<lb n="3"/><supplied reason="lost">Îº</supplied>Î±á½¶ Ï&#x84;á½°Ï&#x82; Î´Î¹Ï&#x8e;Ï&#x81;Ï&#x85;Î³Î±Ï&#x82; ÎºÌ£Î±Ì£á½¶ Ï&#x84;<supplied reason="lost">á½°Î½</supplied><lb n="4"/><supplied reason="lost">Ï&#x83;</supplied>Ï&#x84;Ï&#x81;á¿¶Ï&#x83;Î¹Î½ Ï&#x84;á¾¶Ï&#x82; Ï&#x80;Î»Î±Ï&#x84;ÎµÎ¯Î±Ï&#x82; Ï&#x84;á½°<supplied reason="lost">Î½</supplied><lb n="5"/><supplied reason="lost">á¼&#x80;</supplied>Ï&#x80;á½¸ Ï&#x84;Î¿á¿¦ Î»Î¯Î¸Î¿Ï&#x85; Ï&#x84;Î¿á¿¦<lb n="6"/>Î¸Î·Î³Î±Î½ÎµÎ¯Ï&#x84;Î± á¼&#x80;Ï&#x80;á½¸ Ï&#x84;á¾¶Ï&#x82;<lb n="7"/><supplied reason="lost">Ï&#x80;</supplied>Ï&#x8d;Î»Î±Ï&#x82; Ï&#x84;á¾¶Ï&#x82; Ï&#x80;Î±Ï&#x81;á½°<lb n="8"/>Î¸Ì£Î¬Î»Î±Ï&#x83;Ï&#x83;Î±Î½ á¼&#x90;Îº Ï&#x84;Î¿á¿¦ á¼°Î´Î¯Î¿<supplied reason="lost">Ï&#x85;</supplied><lb n="9"/><supplied reason="lost">Ï&#x80;</supplied>Î¿Ì£Î¹Ì£Î®Ï&#x83;Î±Î½Ï&#x84;Î± v. Îµá½&#x90;Î½Î¿Î¯Î±Ï&#x82;<lb n="10"/><supplied reason="lost">á¼&#x95;Î½ÎµÎºÎ±</supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2) (3) (4), aliter (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

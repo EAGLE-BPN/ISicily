@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109015</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109015</idno>
+				<idno type="TM">284888</idno>
+				<idno type="localID">EDR109015</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Castelvetrano (Trapani), area archeologica di Selinunte, Baglio Florio</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>56.00</height>
+								<width>48.00</width>
+								<depth>16.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Selinus?</placeName></origPlace>
+						<origDate notBefore-custom="-0530" notAfter-custom="-0501" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-530 BC - -501 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte?</placeName>
+						<placeName>Castelvetrano (Trapani), area archeologica di Selinunte?</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-04" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Athenaeum, 86, 1998, p. 477-486 (M.H.Jameson,I. Malkin) - SEG 48, 1998 - Bull.ép. 1999 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 48, 1998, 1252 (2)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1999, 0641 (3)
+					</bibl> 
+			
+					<bibl>
+						Atti XI Congresso Internazionale di epigrafia greca e latina, Roma, 18-24 settembre 1997, Roma 1999, p. 156 (G. Manganaro) - SEG 49, 1999 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 49, 1999, 1342 (5)
+					</bibl> 
+			
+					<bibl>
+						Sicilia epigraphica. Atti del convegno internazionale, Erice, 15-18 ottobre 1998, p. 420 (6)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 45, 1999 [2003], p. 3-9, tav. I, 1, con foto (G. Nenci) - SEG 53, 2003 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 53, 2003, 1033 (8)
+					</bibl> 
+			
+					<bibl>
+						Thalassa. Genti e culture del Mediterraneo antico, 3, 2006, p. 50, 59, 73, 86, A 7, tav. 1, 5, con foto (9)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Genève 2008, p. 70-72, nr. 24, con foto (10)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9b;Î±Ï&#x84;Î¯Î½oÌ&#x84; Î&#x97;ÎµÎ¼á½¶ (:á¼&#x90;Ì&#x84;Î¼á½¶)<lb n="2"/>Ï&#x84;Î¿Ì&#x83; â&#x80;&#x9b;Î¡ÎµÌ&#x84;Î³Î¯Î½oÌ&#x84; á¼&#x90;Ì&#x84;Î¼á½¶
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (10)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

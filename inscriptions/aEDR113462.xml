@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113462</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113462</idno>
+				<idno type="TM">285159</idno>
+				<idno type="localID">EDR113462</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur (fu conservata per un certo periodo nella collezione di Abela)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">ignoratur</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/126">tectorium</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/10">pictura</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Rabat (M), scritta con minio sull'intonaco della pietra che chiudeva l'apertura di un sepolcro, nella chiesa di S. Publio</placeName>
+						<placeName>Malta</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07499 (1)=ILCV 2734 (2)
+					</bibl> 
+			
+					<bibl>
+						Dictionnaire d'Archéologie chrétienne et de Liturgie, X, 1, Paris 1931, col. 1340 (H. Leclercq) (3)
+					</bibl> 
+			
+					<bibl>
+						A. Mayr, Die Insel Malta im Altertum, Munchen 1909, p. 119 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Becker, Malta sotterranea. Studien zur altchristlichen und jüdischen Sepulkralkunst, Strasbourg 1913, p. 134 (5)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004  (6) 
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans,the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, p. 167 (M. Cassia) (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				In <supplied reason="lost">hoc</supplied> l<supplied reason="lost">oco</supplied> iacet<lb n="2"/>bone<note>!</note> memorie<note>!</note><lb n="3"/>Bo<supplied reason="lost">nifatius</supplied> q<supplied reason="lost">ui</supplied> bicsit<note>!</note><lb n="4"/>in <supplied reason="lost">h</supplied>oc sec<supplied reason="lost">u</supplied>lo an<lb break="no" n="5"/> nis L ueq<supplied reason="lost">ui</supplied>ebit<note>!</note><lb n="6"/>in <supplied reason="lost">p</supplied>Ï&#x89;ce<note>!</note>  s<supplied reason="lost">ub</supplied> <supplied reason="lost">d</supplied>ie ((%6)) KÏ&#x89;<expan><abbr>l</abbr><ex>endis</ex></expan> <note>!</note>  Sep<lb break="no" n="7"/> tembre indictio<lb break="no" n="8"/> ne <supplied reason="lost">duod</supplied>ecima
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) &lt;br&gt;iscrizione cristiana sulla base del nome Bonifatius e della formula in pace. cfr. nome Bonifatius, menzione della XII indizione e croci. scrittura onciale, croci, lettere dipinte.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR074112</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR074112</idno>
+				<idno type="TM">175825</idno>
+				<idno type="localID">EDR074112</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, magazzino superiore</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>31.00</height>
+								<width>60.00</width>
+								<depth>47.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/6">tit. fragmenta inter se coniuncta</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,5-3,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="0491" notAfter-custom="0530" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">491 AD - 530 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Catania, nel Teatro Greco, nella parte centrale, presso gli ultimi gradini della cavea</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-11" who="ANGELA FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+			<facsimile>
+			
+					<graphic url="http://www.edr-edr.it/foto_epigrafi/immagini_uso/74/074112.jpg">
+					<desc>
+					<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access via Epigraphic Database Roma</ref>	
+					</desc>
+					</graphic>
+				
+			</facsimile>
+			
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rivista del comune di Catania, 2. 4, 1954, pp. 111-114 (S. Mazzarino) - AE 1956 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1956, 0259 (2)
+					</bibl> 
+			
+					<bibl>
+						Iura, 7, 1956, pp. 137-141 (S. Mazzarino) (3) 
+					</bibl> 
+			
+					<bibl>
+						S. Mazzarino, Antico, tardoantico ed èra costantiniana, II, Bari 1980, pp. 355-361 (4)
+					</bibl> 
+			
+					<bibl>
+						La Sicilia antica II 2: La Sicilia romana, Napoli 1980, p. 505 nt. 20 (L. Cracco Ruggini) (5)
+					</bibl> 
+			
+					<bibl>
+						ANRW II 11. 1, 1988, pp. 135-136 (R.J.A. Wilson) (6)
+					</bibl> 
+			
+					<bibl>
+						R.J.A. Wilson, Sicily under the Roman Empire, Warminster  1990, p. 70, 332, fig. 283 (7)
+					</bibl> 
+			
+					<bibl>
+						L'epigrafia del villaggio (Epigrafia e antichità 12), Faenza 1993, p. 580 (G. Manganaro) (8)
+					</bibl> 
+			
+					<bibl>
+						G.A. Cecconi, Governo imperiale e élites dirigenti nell'Italia tardoantica (Biblioteca di Athenaeum 24), Como 1994, p. 223 nr. 34 (9) 
+					</bibl> 
+			
+					<bibl>
+						La topografia della Catania romana. Problemi e prospettive, 1996, p. 163, con foto (R.J.A. Wilson) (10)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 43-44, 1997-1998, p. 227 nt. 76 (A. Goltz) (11).
+					</bibl> 
+			
+					<bibl>
+						HD018990 (12)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni &#x96; Cultura epigrafica &#x96; Edizione, Helsinki 2004, pp. 157-158, nr. 12 (13)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Fl</supplied>ammifugas fratre<supplied reason="lost">s</supplied><lb n="2"/>pietatis maxima dona,<lb n="3"/>quos tulit hostilit<supplied reason="lost">as</supplied>,<lb n="4"/>reddidit hos Merulus á¹¿(ir) <supplied reason="lost"><expan><abbr>c</abbr><ex>larissimus</ex></expan> </supplied><lb n="5"/>et spectabilis, consul<supplied reason="lost">aris</supplied><lb n="6"/>provinciae Siciliae.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (13)&lt;br&gt;
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR147843</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR147843</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR147843</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Adrano (Catania), Museo Archeologico </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/29">ara</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>35.00</height>
+								<width>56.50</width>
+								<depth>35.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Hadranum</placeName></origPlace>
+						<origDate notBefore-custom="-0230" notAfter-custom="-0171" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-230 BC - -171 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Adrano (Catania), località Ardichella</placeName>
+						<placeName>Adrano (Catania)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-02-25" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv.Stor.Ant.(Mess.), 5, 1900, p. 42-43 (P. Orsi) (1)
+					</bibl> 
+			
+					<bibl>
+						Rend.Ac.Linc., s. VIII, 13, 1958, p. 255-256, fig. 1, con foto (R. Soraci) (2)
+					</bibl> 
+			
+					<bibl>
+						Par.Pass., 16, 1961, p. 126-131, nr. 1 (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						J. Winand, Les Hiérothytes: recherche institutionnelle, Bruxelles 1990, p. 130-131, nr. 3 (4)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, II, Genève 2008, p. 183-184, nr. 107 (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">á¼&#x88;Î´Ï&#x81;Î±Î½á¿¶Î¹</supplied><lb n="2"/><supplied reason="lost">á¼&#x90;</supplied>Ï&#x80;Ì£á½¶Ì£<lb n="3"/>Î&#x98;ÎµÏ&#x85;Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85;<lb n="4"/>ÎºÎ±á½¶ Î¦Î¯Î»Ï&#x89;Î½Î¿Ï&#x82;.<lb n="5"/>á¼±Î±Ï&#x81;Î¿Î¸Ï&#x8d;Ï&#x84;Î±Î¹<lb n="6"/>Î&#x9d;Î¹ÎºÎ±Ï&#x83;Î¯Ï&#x89;Î½ Î&#x95;á½&#x90;Ï&#x80;Î¿Î»Î­Î¼Î¿Ï&#x85;<lb n="7"/>Î&#x9d;ÎµÎ¼Î®Î½Î¹Î¿Ï&#x82; á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î±Ì&#x84;<lb n="8"/>á¼&#x88;Î³Î¬Î¸Ï&#x89;Î½  Î&#x95;á½&#x90;Î´Î¬Î¼Î¿Ï&#x85;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

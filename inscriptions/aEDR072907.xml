@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR072907</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR072907</idno>
+				<idno type="TM">175851</idno>
+				<idno type="localID">EDR072907</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType>basis, statua?</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>28.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/003188">Akis</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Acireale (Catania), località Casalotto</placeName>
+						<placeName>Acireale (Catania)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera, carmen</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2011-10-12" who="SERGIO GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not. Sc., 1922, p. 494 sg. (G. Libertini) - AE 1923 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1923, 0075 (2)
+					</bibl> 
+			
+					<bibl>
+						Boll. Filol. Class., 30, 1923, p. 19 sg. (R. Sabbadini - C.O. Zuretti) (3)
+					</bibl> 
+			
+					<bibl>
+						Riv. Ind. Gr. It., 9, 1925, p. 65 sg. (F. Ribezzo) (4)
+					</bibl> 
+			
+					<bibl>
+						Cron. Arch., 16, 1977, p. 162 sg., con foto (G. Manganaro) (5)
+					</bibl> 
+			
+					<bibl>
+						Latomus, 226, 1994, p. 835 (G. Manganaro) (6)
+					</bibl> 
+			
+					<bibl>
+						HD026095 (A. Scheithauer) (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">á¼&#x98;Î¼á½² Î Ï&#x81;Î¯Î±Ï&#x80;Î¿Î½ Î£</supplied>Î¬Î¼<supplied reason="lost">Î¹Î¿Ï&#x82; Ï&#x84;á½¸Î½ ÎºÎ·Ï&#x80;Î¿Ï&#x85;Ï&#x81;á½¸Î½</supplied><lb n="2"/><supplied reason="lost">á¼&#x90;Î½Ï&#x84;Î±á¿¦Î¸&#x92; á¼&#x94;Î¸Î·Îº</supplied>ÎºÎµÎ½ á¼&#x94;Î½Î¸Î± ÎºÎ±á½¶ á¼&#x94;Î½<supplied reason="lost">Î¸Î± Î²Î»Î­Ï&#x88;Î¿Î½Ï&#x84;Î±</supplied><lb n="3"/><supplied reason="lost">Î¼á½´ Îµá¼°Ï&#x83;Î­Ï&#x81;Ï&#x87;Îµ</supplied>Ï&#x83;Î¸Î±Î¹ Ï&#x84;Î¿á½ºÏ&#x82; á¼&#x80;Ï&#x80;&#x92;á¼&#x84;Ï&#x83;Ï&#x84;ÎµÏ&#x89;<supplied reason="lost">Ï&#x82; Ï&#x80;Ï&#x84;Ï&#x89;Ï&#x87;Î¿Ï&#x8d;Ï&#x82;</supplied>,<lb n="4"/><supplied reason="lost">Î¼Î®Ï&#x84;&#x92;Îµá¼°Ï&#x83;Î­Ï&#x81;</supplied>Ï&#x87;ÎµÏ&#x83;Î¸Î±Î¹ Ï&#x84;Î¿á½ºÏ&#x82; á¼&#x80;Ï&#x80;&#x92; á¼&#x8c;ÎºÎ¹Î´Î¿<supplied reason="lost">Ï&#x82; ÎºÎ»á¿¶Ï&#x80;Î±Ï&#x82;</supplied><lb n="5"/><supplied reason="lost">Ï&#x83;Ï&#x8e;Ï&#x83;Î¿Î½Ï&#x84;Î± Ï&#x84;&#x92;</supplied>Î±á½&#x90;Ï&#x84;á¿· ÎºÎ±Ï&#x81;Ï&#x80;á½¸Î½ á½¡Ï&#x82; á½&#x80;Ï&#x81;<supplied reason="lost">Î¸á½¸Î½ Ï&#x86;Î±Î¯Î½Ï&#x89;</supplied><lb n="6"/><supplied reason="lost">á¼&#x90;Î¼á½¸Î½ Ï&#x80;Î­Î¿Ï&#x82;</supplied> Ï&#x84;Î¿á¿¦Ï&#x84;Î¿ Ï&#x84;á½¸ Ï&#x80;Î±Ï&#x87;á½º Ï&#x84;Î¿á¿&#x96;Ï&#x82; Ï&#x83;<supplied reason="lost">Ï&#x85;Î»á¿¶Ï&#x83;Î¹Î½</supplied>.<lb n="7"/><supplied reason="lost">Posuit hic</supplied> me Samius utroque in<supplied reason="lost">spicientem,</supplied><lb n="8"/><supplied reason="lost">meum en</supplied>ormem penem ut osten<supplied reason="lost">dam furibus.</supplied><lb n="9"/>Rubri Sami <expan><abbr>fil</abbr><ex>i</ex></expan>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6), aliter (3) (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

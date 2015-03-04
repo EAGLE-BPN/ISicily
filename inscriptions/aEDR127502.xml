@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR127502</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR127502</idno>
+				<idno type="TM">285281</idno>
+				<idno type="localID">EDR127502</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Museo Civico, inv. 108.</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>91.00</height>
+								<width>54.00</width>
+								<depth>39.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,5-3 </height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Thermae Himeraeae</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo), ignoratur.</placeName>
+						<placeName>Termini Imerese (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2013-02-17" who="Angela FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+			<facsimile>
+			
+					<graphic url="http://www.edr-edr.it/foto_epigrafi/immagini_uso/127/127502.jpg">
+					<desc>Iscrizione onoraria
+					<ref type="licence" target="http://www.europeana.eu/rights/rr-f/">Rights Reserved - Free Access via Epigraphic Database Roma</ref>	
+					</desc>
+					</graphic>
+				
+			</facsimile>
+			
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07343 (1)
+					</bibl> 
+			
+					<bibl>
+						L. Bivona, Iscrizioni latine lapidarie del Museo Civico di Termini Imerese (Supplementi a Kokalos 9), Roma 1994, pp.  117-118, nr. 7, con foto (2)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost"><expan><abbr>imp</abbr><ex>eratori</ex></expan> <expan><abbr>Caes</abbr><ex>ari</ex></expan> <expan><abbr>L</abbr><ex>ucio</ex></expan> Septi</supplied>miá»&#x8d;<lb n="2"/><supplied reason="lost">Severo Pertin</supplied>áº¡ci <expan><abbr>Aug</abbr><ex>usto</ex></expan><lb n="3"/><supplied reason="lost">Arabico Adiabe</supplied>nico pon<lb break="no" n="4"/> <supplied reason="lost"><expan><abbr>tif</abbr><ex>ici</ex></expan> <expan><abbr>max</abbr><ex>imo</ex></expan></supplied> á¹­<expan><abbr>rib</abbr><ex>unicia</ex></expan> <expan><abbr>potest</abbr><ex>ate</ex></expan> V <expan><abbr>imp</abbr><ex>eratori</ex></expan>]<lb n="5"/><supplied reason="lost">VIII c</supplied>o<expan><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan> II <supplied reason="lost"><expan><abbr>p</abbr><ex>atri</ex></expan> <expan><abbr>p</abbr><ex>atriae</ex></expan> <expan><abbr>imp</abbr><ex>eratoris</ex></expan></supplied> Caesaris<lb n="6"/><supplied reason="lost">di</supplied>vi <expan><abbr>M</abbr><ex>arci</ex></expan> Aá¹&#x87;<supplied reason="lost">t</supplied>onini <expan><abbr>Germ</abbr><ex>anici</ex></expan><lb n="7"/><supplied reason="lost"><expan><abbr>Sarm</abbr><ex>atici</ex></expan> fi</supplied><expan><abbr>l</abbr><ex>io</ex></expan> divi Commodi<lb n="8"/><supplied reason="lost">frati</supplied> divi Antonini Pii<lb n="9"/><supplied reason="lost">nepoti d</supplied>i<supplied reason="lost">v</supplied>i á¸¤adriani pro <supplied reason="lost">pr</supplied>onepoti divi Traiani<lb n="10"/><supplied reason="lost">P</supplied>arthici abnepoti divi<lb n="11"/>á¹&#x86;ervae adnepoti in<lb break="no" n="12"/> dulgentissimo et cle<lb break="no" n="13"/> mentissimo principi<lb n="14"/>Maesia Fabia Titiana<lb n="15"/><expan><abbr>c</abbr><ex>larissima</ex></expan> <expan><abbr>f</abbr><ex>emina</ex></expan> et<lb n="16"/>Maesius Fabius Titia<lb break="no" n="17"/> nus <expan><abbr>c</abbr><ex>larissimus</ex></expan> <expan><abbr>p</abbr><ex>uer</ex></expan>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

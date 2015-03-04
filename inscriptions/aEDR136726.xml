@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136726</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136726</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136726</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Santa Flavia (Palermo)?</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3-2</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Soluntum</placeName></origPlace>
+						<origDate notBefore-custom="-0150" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-150 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName>
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term>honorarius; sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-03-10" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 9, 1963, p. 185-194, tav. 60, 1-2, con foto (V. Tusa) (1) 
+					</bibl> 
+			
+					<bibl>
+						Agora greca e agorai di Sicilia (a cura di C. Ampolo), Sc. Norm. Pisa, Seminari e Convegni, 28, Pisa 2012, p. 78 (F. Cordano) (2) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:in latere sinistroã&#x80;&#x89;<lb n="2"/>á¼&#x90;Ï&#x80;á½¶ á¼±ÎµÏ&#x81;Î¿Î¸Ï&#x8d;Ï&#x84;Î± Î¦Î¯Î»Ï&#x89;Î½Î¿Ï&#x82;  á¼&#x88;Ï&#x80;<supplied reason="lost">Î¿Î»Î»Ï&#x89;Î½Î¯Î¿Ï&#x85;</supplied><lb n="3"/>á¼&#x88;Ï&#x81;Î¯Ï&#x83;Ï&#x84;Ï&#x89;<supplied reason="lost">Î½</supplied>  á¼&#x88;<supplied reason="lost">Ï&#x80;Î¿Î»Î»Ï&#x89;Î½Î¯Î¿</supplied>Ï&#x85; Ï&#x84;á½¸Î½ Ï&#x80;<supplied reason="lost">Î±Ï&#x84;Î­Ï&#x81;Î±</supplied><lb n="4"/>á¼&#x88;Ï&#x80;Î¿Î»Î»Ï&#x8e;Î½Î¹Î¿Î½  á¼&#x88;<supplied reason="lost">Ï&#x81;Î¯Ï&#x83;Ï&#x84;Ï&#x89;Î½Î¿Ï&#x82; á¼&#x80;Î¼</supplied>Ï&#x86;Î¹Ï&#x80;<supplied reason="lost">Î¿Î»Î®</supplied>Ï&#x83;Î±<supplied reason="lost">Î½Ï&#x84;Î±</supplied><lb n="5"/>Î&#x94;Î¹á½¶ á½&#x88;Î»Ï&#x85;Î¼Ï&#x80;Î¯Ï&#x89;Î¹ ÎºÎ±á½¶ Î¸ÎµÎ¿Î¹Í&#x82;Ï&#x82; Ï&#x80;Î±Í&#x82;Ï&#x83;Î¹<lb n="6"/><lb n="7"/>ã&#x80;&#x88;:in latere dextroã&#x80;&#x89;<lb n="8"/>á¼&#x90;Ï&#x80;á½¶ á½¶ÎµÏ&#x81;Î¿Î¸Ï&#x8d;Ï&#x84;Î± Î¦Î¯Î»Ï&#x89;<supplied reason="lost">Î½Î¿Ï&#x82;</supplied>  á¼&#x88;Ï&#x81;Î¯Ï&#x83;Ï&#x84;Ï&#x89;Î½Î¿Ï&#x82;<lb n="9"/>á¼&#x88;Ï&#x80;Î¿Î»Î»Ï&#x8e;Î½Î¹Î¿Ï&#x82; ÎºÎ±á½¶ Î¦<supplied reason="lost">Î¯Î»Ï&#x89;Î½</supplied> ÎºÎ±á½¶  á¼&#x88;Ï&#x81;Î¯Ï&#x83;Ï&#x84;Ï&#x89;Î½  á¼&#x88;Ï&#x81;Î¯Ï&#x83;Ï&#x84;Ï&#x89;Î½Î¿Ï&#x82;<lb n="10"/>Ï&#x84;á½¸Î½ Ï&#x80;Î±Ï&#x84;Î­Ï&#x81;Î±  á¼&#x88;Ï&#x81;Î¯Ï&#x83;Ï&#x84;<supplied reason="lost">Ï&#x89;Î½Î±  á¼&#x88;</supplied>Ï&#x80;Î¿Î»Î»Ï&#x89;Î½Î¯Î¿Ï&#x85;<lb n="11"/>á¼&#x80;Î¼Ï&#x86;Î¹Ï&#x80;Î¿Î»Î®Ï&#x83;Î±Î½Ï&#x84;Î± Î&#x94;Î¹á½¶  á½&#x88;Î»Ï&#x85;Î¼Ï&#x80;Î¯Ï&#x89;Î¹ ÎºÎ±á½¶ Î¸ÎµÎ¿Î¹Í&#x82;Ï&#x82; Ï&#x80;Î±Í&#x82;Ï&#x83;Î¹ 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

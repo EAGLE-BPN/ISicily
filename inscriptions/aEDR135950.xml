@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR135950</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR135950</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR135950</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Museo Civico, Inv. 132</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>31.00</height>
+								<width>45.00</width>
+								<depth>12.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,7-0,9</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Thermae Himeraeae</placeName></origPlace>
+						<origDate notBefore-custom="0151" notAfter-custom="0250" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">151 AD - 250 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo)</placeName>
+						<placeName>Termini Imerese  (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-24" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00329 (1)
+					</bibl> 
+			
+					<bibl>
+						Journ. Hell. Stud, 48, 1928, p. 3 (M.N. Tod) (2)
+					</bibl> 
+			
+					<bibl>
+						GVI 1408 (3)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 20, 1974, p. 242-244, nr. 14, tav. 36, fig. 14, con foto (A. Brugnone) (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:columna Iã&#x80;&#x89;<lb n="2"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>Î¼Ì£Îµ<lb n="3"/><supplied reason="lost">Ï&#x87;Î±Î¹Í&#x82;</supplied>Ï&#x81;Îµ<lb n="4"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>Ï&#x83;Ì£Ï&#x84;Î±Ï&#x84;Îµ<lb n="5"/><lb n="6"/>ã&#x80;&#x88;:columna IIã&#x80;&#x89;<lb n="7"/>Î&#x9d;ÎµÎ¼Î·Î½Î¯Î´Î±<lb n="8"/>á¼&#x88;Ï&#x81;Î¹Ï&#x83;Ï&#x84;Î¿Î´Î¬Î¼Î¿Ï&#x85;<lb n="9"/>Ï&#x87;Î±Î¹Í&#x82;Ï&#x81;Îµ<lb n="10"/><lb n="11"/>ã&#x80;&#x88;:columna IIIã&#x80;&#x89;<lb n="12"/>Î&#x9a;Î»ÎµÎ¿Ï&#x80;Î¬Ï&#x84;Ï&#x81;Î±<lb n="13"/>Î&#x9d;ÎµÎ¼Î·Î½Î¯Î´Î±<lb n="14"/>Ï&#x87;Î±Î¹Í&#x82;Ï&#x81;Îµ<lb n="15"/><lb n="16"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>Îµ Î¼ÎµÎ³Î±Î»Î¿Î´Ï&#x8c;Î¾Îµ  Î&#x9d;ÎµÎ¼Î·Î½Î¯Î´Î± Ï&#x83;Ï&#x8d;Î½ÎµÏ&#x85;Î½Îµ Î´Î¹Í&#x82;Î± Î&#x9a;Î»ÎµÎ¿Ï&#x80;Î¬Ï&#x84;Ï&#x81;Î±<lb n="17"/>Î&#x9a;Î¿Ï&#x8d;Ï&#x86;Î· Ï&#x83;ÎµÎ¹Í&#x82;Î¿, Î&#x9d;ÎµÎ¼Î·Î½Î¯Î´Î± Î³Î±Î¹Í&#x82;á¾¿ á½&#x84;Ï&#x83;Ï&#x84;ÎµÎ± ÎºÎµÏ&#x8d;Î¸Î¿Î¹<lb n="18"/>Î&#x9a;Î¿Ï&#x8d;Ï&#x86;Î· Ï&#x83;ÎµÎ¹Í&#x82;Î¿ ÎºÎ­ÎºÎµÏ&#x85;Î¸Îµ, Î&#x9d;ÎµÎ¼Î·Î½Î¯Î±Î± (:Î&#x9d;ÎµÎ¼Î·Î½Î¯Î´Î± ), á½&#x84;Ï&#x83;Ï&#x84;ÎµÎ± Î³Î±Î¹Í&#x82;Î±
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

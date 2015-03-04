@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR105545</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR105545</idno>
+				<idno type="TM">284791</idno>
+				<idno type="localID">EDR105545</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), Museo Archeologico Regionale Baglio Anselmi</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>42.00</height>
+								<width>70.00</width>
+								<depth>20.50</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="-0200" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-200 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), insula del Capo Boeo</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-09" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 9, 1963, pp. 159-162, nr. 2, tav. LII, 2, con foto (M.T. Manni Piraino) - Bull.ép. 1965 (1)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép., 1965, 0507 (2)
+					</bibl> 
+			
+					<bibl>
+						Lilibeo. Testimonianze archeologiche dal IV sec. a.C. al V sec. d.C., Palermo 1984, pp. 125-126, nr. 155 (M.T. Manni Piraino) - SEG 34, 1984 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 34, 1984, 0951 (4)
+					</bibl> 
+			
+					<bibl>
+						Terze giornate internazionali di studi sull'area elima, Gibellina-Erice-Contessa Entellina, 23-26 ottobre 1997. Atti, Pisa-Gibellina 2000, p. 313 - SEG, 2000 (F. Cordano) (5)
+					</bibl> 
+			
+					<bibl>
+						SEG 50, 2000, 0993 (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á½&#x81; Î´á¾¶Î¼Î¿Ï&#x82;<lb n="2"/>Ï&#x84;á¿¶Î½ Î&#x9b;Î¹Î»Ï&#x85;Î²Î±Î¹Î¹Ï&#x84;á¾¶Î½<lb n="3"/>Î&#x94;Î¹Î¿Ì&#x81;Î³Î½Î·Ï&#x84;Î¿Î½<lb n="4"/>Î&#x94;Î±Î¼Î±Ï&#x84;Ï&#x81;Î¹Ì&#x81;Î¿Ï&#x85; Î&#x9c;Î·Ì&#x81;Î³Î±<supplied reason="lost">Î½</supplied><lb n="5"/>ÎµÌ£á½&#x90;Ì£ÎµÌ£Ï&#x81;Ì£Î³Ì£ÎµÌ&#x81;Ì£Ï&#x84;Ì£Î±Ì£Î½Ì£
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) (3)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

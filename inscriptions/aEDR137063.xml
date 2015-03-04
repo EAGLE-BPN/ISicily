@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR137063</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR137063</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR137063</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>S. Cipirrello (Palermo), Inv.  I  5</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>44.00</height>
+								<width>60.00</width>
+								<depth>18.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">11</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Iaitas</placeName></origPlace>
+						<origDate notBefore-custom="-0200" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-200 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>S. Cipirrello (Palermo), area archeologica di Monte Iato </placeName>
+						<placeName>S. Cipirrello (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/143">ignoratur</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-05-31" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Sicilia Archeologica, 19, 62, 1986, p. 31-32, fig. 6, con foto - SEG 36, 1986 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 36, 1986, 0835 (2)
+					</bibl> 
+			
+					<bibl>
+						Ant. Kunst, 30, 1987, p. 26-27, fig. 1, con facsimile (H.P. Isler) - SEG 37, 1987 - Bull.ép. 1988 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 37, 1987, 0762 (4)
+					</bibl> 
+			
+					<bibl>
+						Bull. ép. 1988, 176 (5) 
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 1988-1989, p. 621, tav. 86, fig. 4, con foto (H.P.Isler) (6)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Archeologica, 30, 1997, p. 24 (7)
+					</bibl> 
+			
+					<bibl>
+						SEG 47, 1997, 1428 (8)
+					</bibl> 
+			
+					<bibl>
+						Terze Giornate Internazionali di Studi sull'area elima, Gibellina, Erice, Contessa Entellina, 23-26 ottobre 1997, Pisa-Gibellina 2000, p. 724-725, tav. 144, 1, con foto (H.P. Isler) (9)
+					</bibl> 
+			
+					<bibl>
+						SEG 50, 2000, 1002 (10)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				[<gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>]Î½Ï&#x84;Î±Ì£Î»Ì£<gap reason="lost" extent="unknown" unit="character"/><lb n="2"/>ÎºÎ±á½¶ Ï&#x84;Î¿á¿¦ <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/>Î±á½&#x90;Ï&#x84;á½¸Î½ <gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

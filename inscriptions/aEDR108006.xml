@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR108006</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR108006</idno>
+				<idno type="TM">284812</idno>
+				<idno type="localID">EDR108006</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Mazara del Vallo (Trapani), Cattedrale</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>28.00</height>
+								<width>52.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022280">Mazara</placeName></origPlace>
+						<origDate notBefore-custom="0551" notAfter-custom="0650" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">551 AD - 650 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mazara del Vallo (Trapani), via Bartolomeo Mandina</placeName>
+						<placeName>Mazara del Vallo (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-08" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Ho Theologos, n.s. 1/3, 1983, p. 471-476 (B. Rocco) (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 34-35, 1988-89, p. 360-361 (A. Brugnone) - SEG 42, 1992 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 42, 1992, 0869 (3)
+					</bibl> 
+			
+					<bibl>
+						Minima Epigraphica et Papyrologica, IV, 2001, 5, p. 131-134, fig. 1, con foto (G. Manganaro) - SEG 51, 2001 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 51, 2001, 1378 (5) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î¤Ï&#x8d;Î¼Î²(Î¿Ï&#x82;) á¼&#x90;Î½ Î&#x98;(Îµ)á¿· ÎºÎµÎ¹Î¼Î­Î½Ï&#x89;Î½ á¼&#x90;Î½Î¸Î¬Î´Îµ á¼&#x90;Î½ á¼&#x80;Î½Î±Ï&#x80;Î±Ï&#x8d;<lb break="no" n="2"/> Ï&#x83;ÎµÎ¹â&#x80;§ Î&#x9a;Ï&#x89;Î½Ï&#x83;Ï&#x84;Î±Î½Ï&#x84;Î¯Î½Î¿Ï&#x85; Î¶Î®Ï&#x83;Î±Î½Ï&#x84;Î¿Ï&#x82; á¼&#x94;Ï&#x84;Î· Î¹Î²´,  Î&#x9c;ÎµÎ»Î»Ï&#x8e;<lb break="no" n="3"/> Ï&#x83;Î¿Ï&#x85; Î¶Î®Ï&#x83;Î±Î½Ï&#x84;Î¿Ï&#x82; á¼&#x94;Ï&#x84;Î· Î¹´,  Îº(Î±á½¶) Î&#x9d;Î¹ÎºÎ®Ï&#x84;Î± Î¶Î®Ï&#x83;Î±Î½Ï&#x84;Î¿Ï&#x82; á¼&#x94;Ï&#x84;Î· Î·´â&#x80;§<lb n="4"/>Î¤Î¿Ï&#x8d;Ï&#x84;Ï&#x89;Î½ Î¼Î½Î®Ï&#x83;Î¸Î·Ï&#x84;Î¹, Î&#x9a;(Ï&#x8d;Ï&#x81;Î¹)Îµ,  á¼&#x90;Î½  Ï&#x84;á¿&#x87;  Î²Î±Ï&#x83;Î¹Î»ÎµÎ¯á¾³ Ï&#x83;Î¿Ï&#x85;.<lb n="5"/>á¼&#x98;Ï&#x84;ÎµÎ»ÎµÎ¹á½½Î¸Î·Ï&#x83;Î±Î½ Î¼Î·(Î½á½¶) Î&#x94;ÎµÎºÎµÎ¼Î²Ï&#x81;Î¯á¿³ ÎºÎ¶´,<lb n="6"/>á¼¸Î½Î´(Î¹ÎºÏ&#x84;Î¹á¿¶Î½Î¿Ï&#x82;) á¼&#x95;ÎºÏ&#x84;Î·Ï&#x82; 
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

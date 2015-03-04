@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR114427</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR114427</idno>
+				<idno type="TM">285075</idno>
+				<idno type="localID">EDR114427</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico Regionale &#x93;P. Orsi&#x94;, inv.  4</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>13.00</height>
+								<width>42.00</width>
+								<depth>8.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/15">tit. fragmentum</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="-0269" notAfter-custom="-0215" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-269 BC - -215 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa,  quartiere  Acradina</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera, epistola </term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-07-23" who="Alessia DIMARTINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 0007 (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI 3230 (2) 
+					</bibl> 
+			
+					<bibl>
+						Athenaeum, 43, 1965, p. 312-320 (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 152, 2005, p. 141-151 (G. Manganaro) (4)
+					</bibl> 
+			
+					<bibl>
+						Quinte Giornate Internazionali di Studi sull&#x92;area elima e la Sicilia occidentale nel contesto mediterraneo, Erice 12-15 ottobre 2003, Pisa 2006, pp. 707-708, nr. 2.1 (A. Dimartino) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:columna Iã&#x80;&#x89;<lb n="0"/><gap reason="lost" quantity="1" unit="line"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>Î&#x9b;<supplied reason="lost"> . </supplied>Î&#x99; <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> á½&#x91;Î¼á¿&#x96;</supplied>Î½ Ï&#x86;Ï&#x81;Î¿Î½Ï&#x84;Î¯Î¶ÎµÎ¹Î½<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> Î²Î±Ï&#x83;Î¹Î»Î­Ï&#x89;Î½ ÎºÎ±á½¶ Ï&#x84;á½°Î½<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>Î¯Î´Ï&#x89;Î½ Ï&#x80;á¾¶Ï&#x83;Î±Î½ Ï&#x80;Î±Ï&#x81;<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>Î½ Îµá¼°Ï&#x82; á¼&#x81;Î¼á½² Îµá½&#x94;Î½Î¿Î¹Î±Î½<lb n="7"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> á¼&#x84;Ï&#x81;Î¹Ï&#x83;</supplied>Ï&#x84;Î± Î¼Ï&#x8c;Î½Î¿Î½ Ï&#x80;Î±Ï&#x81;ÎµÏ&#x83;ÎºÎµÏ&#x85;<lb break="no" n="8"/> <supplied reason="lost">Î¬Ï&#x83;Î±Ï&#x83;Î¸Î±Î¹  Ï&#x84;Î¿á¿&#x96;Ï&#x82; Î£</supplied>Ï&#x85;Ï&#x81;Î±ÎºÎ¿Ï&#x83;Î¯Î¿Î¹Ï&#x82;. Ï&#x86;Î±Î½ÎµÏ&#x81;á½¸Î½ Î´á½´<lb n="9"/><supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> á¼&#x90;</supplied>Î½ Ì£Ï&#x84;Î¿Ï&#x83;Î¿Ï&#x8d;Ï&#x84;Î¿Î¹Ï&#x82; á¼&#x94;Ï&#x84;ÎµÏ&#x83;Î¹ á½¡Ï&#x82;<lb n="10"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Î¿á½&#x90;Î´ÎµÎ½á½¸Ï&#x82; Ï&#x84;á¿¶Î½ Ï&#x80;</supplied>Ï&#x81;Ì£Ì£á½¸Ï&#x84;ÎµÏ&#x81;Î¿Î½ á¼&#x81;Î³Î·Î¼Î­Î½Ï&#x89;Î½<lb n="11"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Ï&#x84;Î±</supplied>Î»Î¹ÎºÎ±á¿¦Ï&#x84;Î±Î¹ á½&#x91;Ï&#x80;Î¬Ï&#x81;Ï&#x87;<supplied reason="lost">Î¿Î½Ï&#x84;Î¹</supplied><lb n="12"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Ï&#x84;Ï&#x81;Î¹Î±Îº</supplied>Î¬Î´Î¹ <certainty match="preceding-sibling::node()" locus="value"/> Ï&#x84;á½¸ Ï&#x84;Îµ ÎºÎ¿Î¹Î½á½´Ì£<supplied reason="lost">Î½ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="13"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Ï&#x84;</supplied>Îµ á¼&#x80;Î¼Îµá¿&#x96;Ï&#x82; Î¿Ì£Î¹Ì£Ì£<gap reason="lost" extent="unknown" unit="character"/><lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>Ï&#x82; Ï&#x84;Î±Ì£Ì£Î¹ Ì£ <gap reason="lost" extent="unknown" unit="character"/><lb n="0"/><gap reason="lost" quantity="1" unit="line"/><lb n="15"/>ã&#x80;&#x88;:columna IIã&#x80;&#x89;<lb n="0"/><gap reason="lost" quantity="1" unit="line"/><lb n="16"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Î¼</supplied>Ì£Î·Î´ÎµÎ½Î¯ ÎµÎ¾Î¿Ï&#x85;.<supplied reason="lost"> <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="17"/>Î´Î¹Î´á¿¶Ï&#x84;Îµ, Ï&#x80;Ï&#x81;Î¬Ï&#x83;Ï&#x83;ÎµÎ¹Î½ Î±Î´Ì£<gap reason="lost" extent="unknown" unit="character"/><lb n="18"/>Ï&#x80;Ï&#x81;Î±Î¾Îµá¿&#x96;Î½ á¼&#x94;Ï&#x84;Î¹ Î´á½² ÎºÎ±á½¶ Ï&#x84;<supplied reason="lost">Ì£<gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="19"/>Î¿á¼± Ï&#x80;Î±Ï&#x84;Î­Ï&#x81;ÎµÏ&#x82; á½&#x91;Î¼á¿¶Î½ ÎºÎ±á½¶ Ï&#x84;Ì£<supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> Ï&#x84;á½° á½&#x85;Ï&#x81;ÎºÎ¹Î±</supplied><lb n="20"/>Î´Î¹Î±Ï&#x86;Ï&#x85;Î»Î¬Ï&#x83;Ï&#x83;ÎµÎ¹Î½ á¼&#x83; á¼&#x90;Î½Ï&#x84;á½¶ <supplied reason="lost">á½&#x80;Î¼Ï&#x8c;Î¼ÎµÎ½Î± <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="21"/>á½&#x8c;Ï&#x81;ÎºÎ¹Î¿Î½ Î²Î¿Ï&#x85;Î»á¾¶Ï&#x82; ÎºÎ±<supplied reason="lost">á½¶ Ï&#x83;Ï&#x84;Ï&#x81;Î±Ï&#x84;Î±Î³á¿¶Î½</supplied><lb n="22"/>ÎºÎ±á½¶ Ï&#x84;á¿¶Î½ á¼&#x84;Î»Î»Ï&#x89;Î½ <supplied reason="lost">Ï&#x80;Î¿Î»Î¹Ï&#x84;á¾¶Î½</supplied><lb n="23"/>á½&#x80;Î¼Î½Ï&#x8d;Ï&#x89; Ï&#x84;á½°Î½  á¼¹Ï&#x83;Ï&#x84;Î¯Î±Î½ Ï&#x84;á¿¶<supplied reason="lost">Î½ Î£Ï&#x85;Ï&#x81;Î±ÎºÎ¿Ï&#x83;Î¯Ï&#x89;Î½ (?), ÎºÎ±á½¶ Ï&#x84;á½¸Î½ Î&#x94;Î¯Î±</supplied><lb n="24"/>Ï&#x84;á½¸Î½ á½&#x88;Î»Ï&#x8d;Î¼Ï&#x80;Î¹Î¿Î½ ÎºÎ±á½¶ Ï&#x84;á½°Ì£Î½ <supplied reason="lost">Î&#x93;á¾¶Î½ ÎºÎ±á½¶ Ï&#x84;á½¸Î½ á¼­Î»Î¹Î¿Î½ ÎºÎ±á½¶ Ï&#x84;á½¸Î½</supplied><lb n="25"/>Î Î¿Ï&#x83;ÎµÎ¹Î´<supplied reason="lost">á¾¶Î½Î± <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5) aliter (1)(2)(3)(4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

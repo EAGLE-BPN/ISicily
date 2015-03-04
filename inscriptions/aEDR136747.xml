@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136747</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136747</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136747</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Licata (Agrigento), Museo Archeologico</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">stela</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>80.00</height>
+								<width>30.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2-1,5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Phintia/Phintias</placeName></origPlace>
+						<origDate notBefore-custom="-0200" notAfter-custom="-0101" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-200 BC - -101 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Licata (Agrigento), località  Monte S. Angelo</placeName>
+						<placeName>Licata (Agrigento)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-03-10" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 0256 (1) 
+					</bibl> 
+			
+					<bibl>
+						SGDI 4250 (2) 
+					</bibl> 
+			
+					<bibl>
+						Rev. Etud. Gr., 48, 1935, p. 371-392, 623-624 (M. Feyel) (3) 
+					</bibl> 
+			
+					<bibl>
+						Rev. Etud. Gr., 49, 1936, p. 14-16 (L. Robert) (4)
+					</bibl> 
+			
+					<bibl>
+						Rev. Etud. Gr., 50, 1937, p. 42-49 (M. Feyel) (5)
+					</bibl> 
+			
+					<bibl>
+						Atti del III Congresso Internazionale di Epigrafia Greca e Latina, Roma, 4-8 settembre 1957, Roma 1959, p. 425-430 (D. Adamesteanu) -Bull.ép. 1960 (6)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1960, 0463 (7)
+					</bibl> 
+			
+					<bibl>
+						An. Sc. Norm. Pisa, s. III, 7, 1977, p. 1348-1349, nota 84 (G. Manganaro) (8)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 181-186, nr. 161 (9)
+					</bibl> 
+			
+					<bibl>
+						An. Sc. Norm. Pisa, s. III, 20, 1990, p. 405-407, tav. 83, con foto (G. Manganaro) - SEG 40, 1990 - Bull.ép. 1992 (10)
+					</bibl> 
+			
+					<bibl>
+						SEG 40, 1990, 804 (11)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1992, 0589 (12) 
+					</bibl> 
+			
+					<bibl>
+						G. Cordiano, La ginnasiarchia nelle poleis dell'Occidente mediterraneo antico, Pisa 1997, p. 83-86 (13)
+					</bibl> 
+			
+					<bibl>
+						
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x98;Ï&#x80;á½¶ á¼±ÎµÏ&#x81;Î±Ï&#x80;Ï&#x8c;Î»Î¿Ï&#x85; á¼&#x88;Ï&#x81;Î¹Ï&#x83;Ï&#x84;Ì²Î¯Ï&#x89;Î½Î¿Ï&#x82;<lb n="2"/>Ï&#x84;Î¿á¿¦ á¼¸Ï&#x83;<supplied reason="lost">Ï&#x84;Î¹</supplied>ÎµÌ£Î¯Î¿Ï&#x85;, ÎºÎ±Ï&#x84;ÎµÎ½Î¹Î±Ï&#x85;Ï&#x83;Î¯Î¿Ï&#x85;<lb n="3"/>Î£Ï&#x8e;Ï&#x83;Ì²Î¹Ì²Î¿Ì²Ï&#x82;Ì£ Ï&#x84;Ì£Î¿á¿¦Ì£ Î&#x9d;Ï&#x85;Î¼Ï&#x86;Î¿Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85;,<lb n="4"/>Î²Î¿Ï&#x85;Î»á¾¶Ï&#x82; á¼&#x81;Î»Î¹Î¬Ï&#x83;Î¼Î±Ï&#x84;Î± Î´ÎµÏ&#x85;Ï&#x84;Î­Ï&#x81;Î±Ï&#x82; á¼&#x91;Î¾Î±Î¼Î®<lb break="no" n="5"/> Î½Î¿Ï&#x85;, Î&#x9a;Î±Ï&#x81;Î½ÎµÎ¯Î¿Ï&#x85; Ï&#x84;Ï&#x81;Î¹Î±ÎºÎ¬Î´Î¹, Ï&#x80;Ï&#x81;Î¿Ï&#x83;Ï&#x84;Î¬Ï&#x84;Î±Ï&#x82;<lb n="6"/>á¼¹Ï&#x80;Ï&#x80;Î¿ÎºÎ»á¿&#x86;Ï&#x82; á¼¹Ï&#x80;Ï&#x80;Î¿ÎºÎ»Î­Î¿Ï&#x82; · Ï&#x83;Ï&#x84;ÎµÏ&#x86;Î¬Î½Î¿Ï&#x85;<lb n="7"/>Î³Ï&#x85;Î¼Î½Î±Ï&#x83;Î¹Î¬Ï&#x81;Ï&#x87;Ï&#x89;Î¹. á¼&#x9c;Î´Î¿Î¾Îµ  Ï&#x84;á¾³Í&#x82; á¼&#x81;Î»Î¯Î±Î¹<lb n="8"/>ÎºÎ±Î¸á½° ÎºÎ±<supplied reason="lost">á½¶  Ï&#x84;</supplied>Î±Í&#x82;Î¹ Î²Î¿Ï&#x85;Î»Î±Í&#x82;Î¹ · á¼&#x90;Ï&#x80;ÎµÎ¹Î´á½´ á½&#x81; Î±á¼±Ï&#x81;Î·<lb break="no" n="9"/> Î¼Î­Î½Î¿Ï&#x82; Î³Ï&#x85;Î¼Î½Î±Ï&#x83;Î¯Î±Ï&#x81;Ï&#x87;Î¿Ï&#x82; á¼&#x90;Ï&#x82; Ï&#x84;á½¸Î½ Ï&#x83;á¾¶Ï&#x84;ÎµÏ&#x82;<lb n="10"/>á¼&#x90;Î½Î¹Î±Ï&#x85;Ï&#x84;á½¸Î½ á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î±Ï&#x82; Î&#x96;Ï&#x89;Ï&#x80;Ï&#x8d;Ï&#x81;Î¿Ï&#x85;<lb n="11"/>á¼&#x90;Ï&#x80;Î¹Î¼Î­Î»ÎµÎ¹Î±Î½ Ï&#x80;ÎµÏ&#x80;Î¿Î¯Î·Ï&#x84;Î±Î¹ Ï&#x84;á¿¶Î½ Ï&#x84;Îµ<lb n="12"/>á¼&#x90;Ï&#x86;Î®Î²Ï&#x89;Î½ ÎºÎ±á½¶ Î½ÎµÏ&#x89;Ï&#x84;Î­Ï&#x81;Ï&#x89;Î½ ÎºÎ±á½¶ Ï&#x84;á¿¶Î½<lb n="13"/>á¼&#x84;Î»Î»Ï&#x89;Î½ Ï&#x84;Ï&#x89;Í&#x82;Î½ á¼&#x80;Ï&#x80;Î¿Î´Ï&#x85;Î¿Î¼Î­Î½Ï&#x89;Î½ Îµá¼°Ï&#x82; Ï&#x84;á½¸<lb n="14"/>Î³Ï&#x85;Î¼Î½Î¬Ï&#x83;Î¹Î¿Î½, Ï&#x84;Î¬ Ï&#x84;Îµ á¼&#x84;Î»Î»Î± Ï&#x84;á½° ÎºÎ±Ï&#x84;á½° Ï&#x84;á½¸<lb n="15"/>Î³Ï&#x85;Î¼Î½Î¬Ï&#x83;Î¹Î¿Î½ ÎºÎ±Î»Ï&#x89;Í&#x82;Ï&#x82; Î´Î¹Î±Ï&#x80;ÎµÏ&#x80;Ï&#x81;Î±Î³Î¼Î­<lb break="no" n="16"/> Î½Î¿Ï&#x82; á¼&#x90;Ï&#x83;Ï&#x84;Î¯, á¼&#x84;Î¾Î¹Î± Ï&#x80;Ï&#x81;Î¬Ï&#x83;Ï&#x83;Ï&#x89;Î½ Î±á½&#x91;Ï&#x84;Î¿á¿¦  Ï&#x84;Îµ<lb n="17"/>ÎºÎ±á½¶ Ï&#x84;á¾¶Ï&#x82; Ï&#x84;á¿¶Î½ Ï&#x80;Ï&#x81;Î¿Î³Ï&#x8c;Î½Ï&#x89;Î½ á¼&#x80;Ï&#x81;ÎµÏ&#x84;á¾¶Ï&#x82;,<lb n="18"/>ÎºÎ±Î»á¿¶Ï&#x82; Î¿á½&#x96;Î½ á¼&#x91;Ï&#x87;Î¿Î½ á¼&#x90;Ï&#x83;Ï&#x84;á½¶ Ï&#x83;Ï&#x84;Îµ<lb break="no" n="19"/> Ï&#x86;Î±Î½Ï&#x89;Í&#x82;Ï&#x83;Î±Î¹ á¼&#x90;Î½ Ï&#x84;Î±Í&#x82;Î¹ á¼&#x81;Î»Î¯Î±Î¹ Ï&#x84;á½¸Î½ Î³Ï&#x85;<lb break="no" n="20"/> Î¼Î½Î±Ï&#x83;Î¯Î±Ï&#x81;Ï&#x87;Î¿Î½ á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î±Î½ Î&#x96;Ï&#x89;<lb break="no" n="21"/> Ï&#x80;Ï&#x8d;Ï&#x81;Î¿Ï&#x85; á¼&#x90;Î»Î±Î¯Î¿Ï&#x85; Ï&#x83;Ï&#x84;ÎµÏ&#x86;Î¬Î½Ï&#x89;Î¹ á¼&#x90;Ï&#x80;Î¹Î¼Îµ<lb break="no" n="22"/> Î»ÎµÎ¯Î±Ï&#x82; á¼&#x95;Î½ÎµÎºÎµÎ½ ÎºÎ±á½¶ Ï&#x86;Î¹Î»Î¿Ï&#x80;Î¿Î½Î¯Î±Ï&#x82;<lb n="23"/>Ï&#x84;á¾¶Ì£Ï&#x82; ÎºÎ±Ï&#x84;á½° Ï&#x84;á½¸ Î³Ï&#x85;Î¼Î½Î¬Ï&#x83;Î¹Î¿Î½ · Ï&#x84;á½¸ Î´á½²<lb n="24"/>Î´Ï&#x8c;Î³Î¼Î± Ï&#x84;Ï&#x8c;Î´Îµ ÎºÎ¿Î»Î±Ï&#x86;Î¸á½²Î½ Îµá¼°Ï&#x82; Ï&#x83;Ï&#x84;Î¬<lb break="no" n="25"/> Î»Î±Î½ á¼&#x80;Î½Î±Î¸Î­Î¼ÎµÎ¹Î½ Îµá¼°Ï&#x82; Ï&#x84;á½¸ Î³Ï&#x85;Î¼Î½Î¬<lb break="no" n="26"/> Ï&#x83;Î¹Î¿Î½ · ÎµÌ²á¼°Ï&#x82;Ì² Î´á½² Ï&#x84;á½°Î½ ÎºÎ±Ï&#x84;Î±Ï&#x83;ÎºÎµÏ&#x85;á½°Î½<lb n="27"/>Ï&#x84;á¾¶Ï&#x82; Ï&#x83;Ï&#x84;Î¬Î»Ì£Î±Ï&#x82; á¼&#x90;Î¾Ì£Î¿Î´Î¹Î¬Î¾Î±Î¹ Ï&#x84;Î¿ (: Ï&#x84;Î¿á½ºÏ&#x82;) Î¤Ï&#x81;Î¹<lb break="no" n="28"/> Î¬Ì£ÎºÎ¿Î½Ì£Ï&#x84;Î± Î¼Î­Ï&#x81;Î¿Ï&#x82; ÎºÎ±Î¸Ì²Î¬Ì² ÎºÌ²Î±Ì² Î²Î¿Ï&#x85;Î»Ì£Î¬<lb n="29"/>ÎºÎ±á½¶ á¼&#x81;Î»Î¯Î± Î³Ï&#x81;Î¬Ï&#x86;Ï&#x89;Ï&#x83;Î¹Î½.<lb n="30"/>á½&#x88; Î´Î±Í&#x82;Î¼Î¿Ï&#x82; Ï&#x84;Ï&#x89;Í&#x82;Î½ Î&#x93;ÎµÎ»Ï&#x8e;Î¹Ï&#x89;Î½ á¼&#x90;Ï&#x80;Î±Î¹Î½Îµá¿&#x96;<lb n="31"/>ÎºÎ±á½¶  Ï&#x83;Ï&#x84;ÎµÏ&#x86;Î¬Î½Ï&#x89;Î¹ Ï&#x84;Ì£á½¸Î½ Î³Ï&#x85;Î¼Î½Î±Ï&#x83;Î¯Î±Ï&#x81;Ï&#x87;Î¿Î½<lb n="32"/>á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î±Î½ Î&#x96;Ï&#x89;Ï&#x80;Ï&#x8d;Ï&#x81;Î¿Ï&#x85; á¼&#x90;Î»Î±Î¯Î¿Ï&#x85;  Ï&#x83;Ï&#x84;Îµ<lb break="no" n="33"/> Ï&#x86;Î¬Î½Ï&#x89;Î¹ á¼&#x90;Ï&#x80;Î¹Î¼ÎµÎ»ÎµÎ¯Î±Ï&#x82; á¼&#x95;Î½ÎµÎºÎµÎ½ ÎºÎ±á½¶ Ï&#x86;Î¹<lb break="no" n="34"/> Î»Î¿Ï&#x80;Î¿Î½Î¯Î±Ï&#x82; Ï&#x84;á¾¶Ï&#x82; ÎºÎ±Ï&#x84;á½° Ï&#x84;á½¸ Î³Ï&#x85;Î¼Î½Î¬<lb break="no" n="35"/> Ï&#x83;Î¹Î¿Î½.<lb n="36"/>á¼&#x9c;Ï&#x86;Î·Î²Î¿Î¹ Î¿á¼± Ï&#x83;Ï&#x84;ÎµÏ&#x86;Î±Î½Ï&#x89;Î¸Î­Î½Ï&#x84;ÎµÏ&#x82; ·<lb n="37"/>á¼&#x88;Ï&#x83;ÎºÎ»Î±Ï&#x80;Î¹Î¬Î´Î±Ï&#x82; á¼&#x88;Ï&#x83;ÎºÎ»Î±Ï&#x80;Î¹Î¬Î´Î±,<lb n="38"/>á¼&#x88;Ï&#x81;Ï&#x84;Î­Î¼Ï&#x89;Î½ Î&#x95;á½&#x90;Î¸Ï&#x8d;Î¼Î¿Ï&#x85;,<lb n="39"/>á¼&#x8c;Î½Ï&#x84;Î±Î»Î»Î¿Ï&#x82; á¼&#x88;Î½Ï&#x84;Î¬Î»Î»Î¿Ï&#x85;,<lb n="40"/>Î Î¿Î»Ï&#x8d;Î¾ÎµÎ½Î¿Ï&#x82; á¼&#x88;Î³Î±Î¸Î¬Ï&#x81;Ï&#x87;Î¿Ï&#x85;,<lb n="41"/>Î Ï&#x81;Ï&#x8e;Ï&#x84;Î±Ï&#x81;Ï&#x87;Î¿Ï&#x82; Î Ï&#x81;Ï&#x89;Ï&#x80;Î¬Ì²Ï&#x81;Ì²Ï&#x87;Î¿Ï&#x85; (:Î Ï&#x81;Ï&#x89;Ï&#x84;Î¬Ï&#x81;Ï&#x87;Î¿Ï&#x85;),<lb n="42"/>Î&#x93;ÎµÎ»Ï&#x89;Í&#x82;Î¹Î¿Ï&#x82; Î&#x93;Î¿Ï&#x81;Î³Î¯Î»Î¿Ï&#x85;,<lb n="43"/>á¼&#x88;Ï&#x81;Î¹Ï&#x83;Ï&#x84;Î¯Ï&#x89;Î½ Î&#x9d;Ï&#x85;Î¼Ï&#x86;Î¿Î´Ï&#x8e;Ï&#x81;Î¿Ï&#x85;,<lb n="44"/>Î£Ï&#x89;Ï&#x83;Î¯Ï&#x80;Î¿Î»Î¹Ï&#x82; á¼¸Ï&#x83;Î¹Î´Ì²Ï&#x8e;Ì²Ï&#x81;Ì²Î¿Ì²Ï&#x85;Ì²,<lb n="45"/>Î&#x9d;Î¯ÎºÎ±Ï&#x81;Î¿Ï&#x82; Î Ï&#x8d;Ï&#x81;Ï&#x81;Î¿Ï&#x85; Î&#x9c;Î±ÎºÌ£<lb n="46"/>á¼&#x88;Ï&#x80;Î¿Î»Î»Ï&#x8e;Î½Î¹Î¿Ï&#x82; Î£Î±Ï&#x84;Ï&#x81;Ï&#x81;Î¿Ï&#x85; (: Î£Î±Ï&#x84;Ï&#x8d;Ï&#x81;Î¿Ï&#x85;)<lb n="47"/>Î&#x96;Ï&#x8e;Ï&#x80;Ï&#x85;Ï&#x81;Î¿Ï&#x82; á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î± Î§Î±Ï&#x81;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (9), v. 2 secundum (1), v. 47 secundum (10), aliter alii
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

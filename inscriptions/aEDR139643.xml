@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR139643</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR139643</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR139643</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, collezione dei Benedettini, inv. 345</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus, aquaeductus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>46.00</height>
+								<width>34.00</width>
+								<depth>14.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">9-10</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="-0021" notAfter-custom="0014" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-21 BC - 14 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>S. Maria di Licodia (Catania), tra le rovine dell'acquedotto</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/263">oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-08-31" who="Angela FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 06999 (1)
+					</bibl> 
+			
+					<bibl>
+						Cron. Arch., 3, 1964, pp. 84-86, con foto (S. Lagona) (2) 
+					</bibl> 
+			
+					<bibl>
+						ANRW 2 11. 1, 1988, p. 44, nt. 216, con foto (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						Arch. Stor. Sic. Or. 27, 1931, pp. 146-47 (G. Libertini) (4)
+					</bibl> 
+			
+					<bibl>
+						F. Coarelli, apud F. Coarelli &#x96; M. Torelli, Sicilia, Roma-Bari 1984,  p. 334 (5)
+					</bibl> 
+			
+					<bibl>
+						ANRW 2 11.1, 1988, p. 378 (O. Belvedere) (6)
+					</bibl> 
+			
+					<bibl>
+						ANRW 2 11. 1, 1988, p. 125 (R.J.A. Wilson) (7)
+					</bibl> 
+			
+					<bibl>
+						R.J.A. Wilson, Sicily under the Roman Empire, Warminster 1990, p. 98 e p. 370 nt. 256 (8)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni &#x96; Cultura epigrafica &#x96; Edizione, Helsinki 2004, pp. 170-171, nr. 25 (9)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				CuratÌ²oÌ²rÌ²eÌ²sÌ²<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="2"/><expan><abbr>Q</abbr><ex>uintus</ex></expan> MacuÌ²lÌ²nÌ²iÌ²uÌ²sÌ² <supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied><lb n="3"/>á¹¬(itus) Trá»¥tâ&#x8c;&#x9c;tÌ²eÌ²â&#x8c;&#x9d;dÌ²â&#x8c;&#x9c;iÌ²â&#x8c;&#x9d; <supplied reason="lost">us </supplied><gap reason="lost" extent="unknown" unit="character"/><lb n="4"/><expan><abbr>A</abbr><ex>ulus</ex></expan> Turiuâ&#x8c;&#x9c;sÌ²â&#x8c;&#x9d; AÌ²(uli) <certainty match="preceding-sibling::node()" locus="value"/> OÌ²CÌ²HÌ²AÌ²CÌ²<supplied reason="lost"><gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/></supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (9)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

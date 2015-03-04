@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113453</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113453</idno>
+				<idno type="TM">285179</idno>
+				<idno type="localID">EDR113453</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>La Valletta (M), Museo archeologico nazionale (magazzino, 2004)</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>15.00</height>
+								<width>16.50</width>
+								<depth>2.30</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Gaulus insula</placeName></origPlace>
+						<origDate notBefore-custom="0400" notAfter-custom="0500" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">400 AD - 500 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gozo (M), secondo Caruana (1882, pp. 155-156) l'iscrizione fu trovava in una tomba sotto l'oratorio di St. Joseph accanto alla chiesa</placeName>
+						<placeName>Gozo</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIG 04, 9451 (1)
+					</bibl> 
+			
+					<bibl>
+						IG 14, 00604 (2)
+					</bibl> 
+			
+					<bibl>
+						E. Becker, Malta sotterranea. Studien zur altchristlichen und jüdischen Sepulkralkunst, Strasbourg, 1913, p. 133-134 (3)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, Epigrafia greca, 04, Roma 1967, p. 433 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004  con foto e disegno (5) 
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans,the Hybleans in Malta, Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, pp. 160-161 (M. Cassia) (6)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 7, Interconnections in the Central Mediterranaean: The Maltese Islands and Sicily in History (Proceeding of the Conference St Julians, Malta, 2nd and 3rd November 2007) edited by Anthony Bonanno and Pietro Militello, Officina di Studi Medievali, Palermo 2008 (M. Cassia, pp. 53-67) con foto e disegno (7)
+					</bibl> 
+			
+					<bibl>
+						
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼&#x98;Î½Î¸Î¬Î´Îµ Îºá¿&#x96;Ï&#x84;Îµ Î&#x94;Î¿Î¼Îµ<lb break="no" n="2"/> Ï&#x83;Ï&#x84;Î¹ÎºÏ&#x8c;Ï&#x82; á½&#x81; Îµá½&#x90;Î¼Î±Î¸á½´Ï&#x82;<lb n="3"/>Ï&#x87;Ï&#x81;Î¹Ï&#x83;Ï&#x84;Î¹Î±Î½á½¸Ï&#x82; ÎºÎ±á½¶ á¼°Î·Ï&#x84;Ï&#x81;Ï&#x8c;Ï&#x82;<lb n="4"/>á¼&#x94;Î¶Î·Ï&#x83;ÎµÎ½ á¼&#x94;Ï&#x84;Î· Î¿Ï&#x82;'<lb n="5"/>á¼&#x80;Î½ÎµÏ&#x80;Î±Ï&#x8d;Ï&#x83;Î±Ï&#x84;Î¿ Ï&#x84;á¿&#x87; Ï&#x80;Ï&#x81;á½¸ Î¹Î·'<lb n="6"/>ÎºÎ±Î»Î±Î½Î´á¿¶Î½ Î¦ÎµÎ²Ï&#x81;Î¿Ï&#x85;Î±Ï&#x81;Î¯Ï&#x89;Î½<lb n="7"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1-2) aliter (6 e 7)&lt;br&gt;Traduzione: Qui giace Domestico, buon cristiano e medico; visse 76 anni, morì 18 giorni prima delle Calende di febbraio (il 15 gennaio).&lt;br&gt;Caruana (Report on the Phoenician and Roman antiquities in the group of islands of Malta, Malta 1882, p. 156) indica la data del 29 gennaio e riporta l'iscrizione in latino:&lt;br&gt;HIC IACET DOME/STICUS VENERABILIS / CHRISTIANUS ET MEDICUS / VIXIT AN LXXIII / SEPULTUS EST IN HAC TERRA / IN KALEND. FEBRUARII / AN. 810&lt;br&gt;L'iscrizione è stata riesaminata da M. Cassia (7) che, mettendola in relazione con altre epigrafi cristiane della Sicilia menzionanti medici, e con le fonti letterarie ha proposto una datazione al IV-V secolo, dimostrando l'appartenenza di Malta allo stesso ambito culturale della Sicilia e considerando l'iscrizione come espressione della definitiva accettazione in ambito cristiano della pratica della chirurgia, vista all&#x92;inizio con sospetto per la sua invasività (cfr. Tertulliano).&lt;br&gt;M. Cassia (p. 56) rileva dall'osservazione del disegno dell'epitaffio la presenza alla linea 7 di un segno, non ben visibile a causa della frattura presente sul lato sinistro del supporto, che sembrerebbe rappresentare uno strumento chirurgico stilizzato (cfr. immagine p.55) il che farebbe pensare che Domestico fosse appunto un chirurgo.&lt;br&gt;La presenza di tali strumenti chirurgici stilizzati (pinze?) è attestata anche da (2)&lt;br&gt;
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

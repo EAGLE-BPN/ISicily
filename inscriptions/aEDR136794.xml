@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR136794</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR136794</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR136794</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Solunto (Calstanissetta), Antiquarium ?</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/226">sedile</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>39.00</height>
+								<width>89.00</width>
+								<depth>33.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">3,9-2,9</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Soluntum</placeName></origPlace>
+						<origDate notBefore-custom="-0100" notAfter-custom="-0051" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-100 BC - -51 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName>
+						<placeName>Santa Flavia (Palermo), area archeologica di Solunto</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-02-25" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Quaderni dell'Istituto di Archeologia della Facoltà di Lettere e Filosofia dell'Università di Messina, 7, 1992 [1995], p. 5-9 (G. Fiorentini) - SEG 44, 1994 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 743 bis (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 42, 1996, p. 5-14 (G. Fiorentini) - SEG 46, 1996 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1252 A-C (4) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î¤á½¸ ÎºÎ¿Î¹Î½<supplied reason="lost">á½¸Î½  <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="2"/>Î£Î­Î¾Ï&#x83;Ï&#x84;Î¿Î½ Î ÎµÎ´Î¿Ì£<supplied reason="lost">Ï&#x85;ÎºÎ±á¿&#x96;Î¿Î½</supplied><lb n="3"/>á¼&#x80;Î½Ï&#x84;Î¹Ï&#x83;Ï&#x84;Ï&#x81;Î¬Ì£<supplied reason="lost">Ï&#x84;Î·Î³Î¿Î½</supplied><lb n="4"/>Ï&#x84;á½¸Î½ Î±á½&#x90;Ï&#x84;á¿¶Î½ <supplied reason="lost">Ï&#x80;Î¬Ï&#x84;Ï&#x81;Ï&#x89;Î½Î±</supplied><lb n="5"/>Îµá½&#x90;Î½Î¿Î¯Î±Ï&#x82; á¼&#x95;<supplied reason="lost">Î½ÎµÎºÎ±</supplied>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

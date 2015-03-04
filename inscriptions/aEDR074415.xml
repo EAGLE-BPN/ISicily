@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR074415</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR074415</idno>
+				<idno type="TM">175810</idno>
+				<idno type="localID">EDR074415</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), Capo Boeo</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>190.00</height>
+								<width>65.00</width>
+								<depth>13.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4-7</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0169" notAfter-custom="0172" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">169 AD - 172 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), Capo Boeo</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term>honorarius, oper. publ. priv.que</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2010-11-30" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 7, 1961, pp. 15-34, con foto (G. Barbieri) - AE 1964 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1964, 0181 (2)
+					</bibl> 
+			
+					<bibl>
+						M. Buonocore, Epigrafia anfiteatrale dell'Occidente Romano, 3, Roma 1992, p. 36 nr. 12, tav. IX, fig.1, con foto (3)
+					</bibl> 
+			
+					<bibl>
+						HD016009 (H. Niquet) (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				Pro salute et reditu et<lb n="2"/>victoria<lb n="3"/><supplied reason="lost"><expan><abbr>p</abbr><ex>eratoris</ex></expan> </supplied> Caesaris <expan><abbr>M</abbr><ex>arci</ex></expan> Aureli Antonin<supplied reason="lost">i</supplied><lb n="4"/><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usti</ex></expan> Arme</supplied>nÌ£iaci, Medi<supplied reason="lost">c</supplied>i, Parthici,<lb n="5"/>Maxi<supplied reason="lost">mi</supplied> lib<supplied reason="lost">e</supplied>rorumque eiu<supplied reason="lost">s</supplied>;<lb n="6"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">A</supplied>nÌ£nÌ£ius <expan><abbr>L</abbr><ex>uci</ex></expan> <expan><abbr>f</abbr><ex>ilius</ex></expan> <supplied reason="lost">Le</supplied>mÌ£onia TÌ£ertÌ£iu<supplied reason="lost">s</supplied>,<lb n="7"/><supplied reason="lost">duum</supplied>vÌ£irum<note>!</note> <supplied reason="lost">ae</supplied>dÌ£iÌ£l<supplied reason="lost">Ì£is</supplied>, <expan><abbr>q</abbr><ex>uaestor</ex></expan> <expan><abbr>p</abbr><ex>ecuniae</ex></expan> <expan><abbr>p</abbr><ex>ublicae</ex></expan>, curÌ£(ator)<lb n="8"/>munÌ£eÌ£ris publici gÌ£ladiatÌ£oÌ£<supplied reason="lost">rii</supplied>;<lb n="9"/>ob honor<supplied reason="lost">em</supplied> aedilitatis promiÌ£sÌ£(it)<lb n="10"/><supplied reason="lost">ex <expan><abbr>s</abbr><ex>ua</ex></expan></supplied> <expan><abbr>p</abbr><ex>ecunia</ex></expan> <g type="sestertium">sestertium</g> XXV <expan><abbr>m</abbr><ex>ilia</ex></expan> <expan><abbr>n</abbr><ex>ummum</ex></expan>, ex quibus, iussu<lb n="11"/><gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">Va</supplied>leriÌ£ <supplied reason="lost">Se</supplied>poniani, <expan><abbr>q</abbr><ex>uaestoris</ex></expan> <expan><abbr>S</abbr><ex>iciliae</ex></expan> <expan><abbr>c</abbr><ex>larissimae</ex></expan> <expan><abbr>m</abbr><ex>emoriae</ex></expan> <expan><abbr>v</abbr><ex>iri</ex></expan>, in<lb n="12"/>stratuÌ£ram plataeae<note>!</note> Cererum<lb n="13"/>sacrÌ£ae <g type="sestertium">sestertium</g> XIII <expan><abbr>m</abbr><ex>ilia</ex></expan> <expan><abbr>n</abbr><ex>ummum</ex></expan> <expan><abbr>numerav</abbr><ex>it</ex></expan>;<lb n="14"/>[<gap reason="illegible" quantity="1" unit="character"/>5<gap reason="illegible" quantity="1" unit="character"/> r]eÌ£lÌ£iÌ£qÌ£uÌ£os ((sestertium) XII mÌ£(ilia) nÌ£(ummum) <supplied reason="lost" cert="low">d(edit)</supplied> donis.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3), contulit ad imaginem et emendavit (v. 15) Puccia a. 2010.&lt;br&gt;
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

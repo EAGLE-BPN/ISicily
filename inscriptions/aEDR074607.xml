@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR074607</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR074607</idno>
+				<idno type="TM">175806</idno>
+				<idno type="localID">EDR074607</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), cortile del Municipio.</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis, statua</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>155.00</height>
+								<width>65.00</width>
+								<depth>55.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-5</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0314" notAfter-custom="0337" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">314 AD - 337 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani)</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2010-12-01" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 9, 1963, pp. 225-232, con foto (G. Barbieri) - AE 1966 (1)
+					</bibl> 
+			
+					<bibl>
+						AE 1966, 0166 (2)
+					</bibl> 
+			
+					<bibl>
+						HD015338 (A. Scheitauer) (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Rec</supplied>tori <supplied reason="lost">orbis <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="2"/><supplied reason="lost">fun</supplied>datori <supplied reason="lost">public</supplied>ae<lb n="3"/><supplied reason="lost">s</supplied>ecuritatis <supplied reason="lost" cert="low">---</supplied><supplied reason="lost"/><lb n="4"/><supplied reason="lost"><gap reason="lost" extent="unknown" unit="character"/> <expan><abbr>Fl</abbr><ex>avio</ex></expan> Vale</supplied><expan><abbr>ri</abbr><ex>o</ex></expan> Constantino<lb n="5"/><supplied reason="lost" cert="low">------</supplied><supplied reason="lost"/><lb n="6"/><supplied reason="lost" cert="low">Domitiu</supplied>s <supplied reason="lost">La</supplied>tronianus,<lb n="7"/><supplied reason="lost"><expan><abbr>v</abbr><ex>ir</ex></expan> <expan><abbr>c</abbr><ex>larissimus</ex></expan>, cor</supplied><expan><abbr>r</abbr><ex>ector</ex></expan> <expan><abbr>prov</abbr><ex>inciae</ex></expan> SiciliaeÌ£,<lb n="8"/><supplied reason="lost">devo</supplied>tÌ£u<supplied reason="lost">s</supplied> numini m<supplied reason="lost">aie</supplied><lb break="no" n="9"/> <supplied reason="lost">stat</supplied>ique eius.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1), contulit ad imaginem ed emendavit (v. 1; 4) Puccia a. 2010.&lt;br&gt;
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

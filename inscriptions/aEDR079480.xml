@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR079480</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR079480</idno>
+				<idno type="TM">175684</idno>
+				<idno type="localID">EDR079480</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo Civico, magazzino superiore, inv. 540</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>29.50</height>
+								<width>47.00</width>
+								<depth>1.70</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/6">tit. fragmenta inter se coniuncta</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,9-1,8</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Catina</placeName></origPlace>
+						<origDate notBefore-custom="0383" notAfter-custom="0383" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">383 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Catania, nei pressi della chiesa di S. Teresa</placeName>
+						<placeName>Catania</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-02-19" who="ANGELA FUSCO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Atti Ac. Torino, 64, 1929, p. 185-195 (G. Libertini) (1)
+					</bibl> 
+			
+					<bibl>
+						CIJ 00650 (2)
+					</bibl> 
+			
+					<bibl>
+						Boll. Stor. Catan., 3, 1938, pp. 60-74 (A. Ferrua) (3)
+					</bibl> 
+			
+					<bibl>
+						Epigraphica, 3, 1941, p. 44 (A. Ferrua) (4)
+					</bibl> 
+			
+					<bibl>
+						G. Libertini, apud G. Rizza, Scritti su Catania antica, Catania 1981, pp. 69-78 (5) 
+					</bibl> 
+			
+					<bibl>
+						Henoch, 3, 1981, p. 203 (A. Messina) (6)
+					</bibl> 
+			
+					<bibl>
+						Italia Judaica. Atti del Convegno internazionale (Bari 18-22 maggio 1981), Roma 1983, p. 207 (C. Colafemmina) (7)
+					</bibl> 
+			
+					<bibl>
+						R.J.A. Wilson, Sicily under the Roman Empire, Warminster 1990, pp. 310-311, nr. 264c, con foto (8) 
+					</bibl> 
+			
+					<bibl>
+						The Jews among Pagans and Christians in the Roman Empire, London &#x96; New York 1992, pp. 97-99 (F. Millar) (9)
+					</bibl> 
+			
+					<bibl>
+						L'epigrafia del villaggio (Epigrafia e antichità 12), Faenza 1993, p. 364, fig. 7 con foto (G. Manganaro) (10)
+					</bibl> 
+			
+					<bibl>
+						D. Noy, Jewish Inscriptions of Western Europe I, Cambridge 1993, pp. 187-192 nr. 145 con foto (11) 
+					</bibl> 
+			
+					<bibl>
+						C. Gebbia, Presenze giudaiche nella Sicilia antica e tardoantica (Suppl. a Kokalos 11), Roma 1996, 68 (12) 
+					</bibl> 
+			
+					<bibl>
+						S. Simonsohn, The Jews in Sicily I: 383 &#x96; 1300 (Studia post-Biblica 48,3), Leiden &#x96; New York &#x96; Köln 1997, p. 1, nr. 1 (13)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep.,  115, 1997, pp. 251-52 (L.V. Rutgers) (14)
+					</bibl> 
+			
+					<bibl>
+						Sicilia Epigraphica. Atti del convegno internazionale Erice, 15-18 ottobre 1998, p. 518 nr. 1 (S. Simonsohn) (15)
+					</bibl> 
+			
+					<bibl>
+						Gli Ebrei in Sicilia dal tardoantico al medioevo. Studi in onore di B. Rocco, Palermo 1998, pp. 311-312 con foto (H. Solin) (16)
+					</bibl> 
+			
+					<bibl>
+						Arctos, 34 (2000), pp. 23-37 (T. Grüll) (17) 
+					</bibl> 
+			
+					<bibl>
+						K. Kohronen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni &#x96; Cultura epigrafica &#x96; Edizione, Helsinki 2004, pp. 277-278, nr. 228 (18) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				×©<supplied reason="lost">×&#x9c;</supplied>×&#x9f;×&#x9d; ×¢×&#x9c; ×&#x99;×©×&#x93;×&#x90;×&#x9c; ×&#x90;×&#x9d;×&#x9f; ×&#x90;×&#x9d;×&#x9f; ×©×&#x9c;×&#x9f;×&#x9d;  ×©×&#x9d;×&#x93;×&#x90;×&#x9c;<lb n="2"/>Ego Aurelius Samohil conparabi<note>!</note><lb n="3"/>memoriam mi<note>!</note> et oxsoris<note>!</note> <expan><abbr>maee</abbr><ex>:meae</ex></expan> Lasie<note>!</note> Erine<note>!</note>,<lb n="4"/>que<note>!</note> fatum conplebit<note>!</note> XII <expan><abbr>Kal</abbr><ex>endas</ex></expan> Novebr<lb break="no" n="5"/> es diae<note>!</note> Veneris luna octaba<note>!</note> Mero<lb break="no" n="6"/> baudes<note>!</note> iterum et Satornino<note>!</note> con<lb break="no" n="7"/> sulibus, quae vixit annos XXIII, cum<lb n="8"/>pace. Adiuro vos per victorias, qui<note>!</note> in<lb break="no" n="9"/> perant<note>!</note>, item adiuro vos per honor<lb break="no" n="10"/> es patriarcarum<note>!</note>, item adiuro vos<lb n="11"/>per ligem<note>!</note>, quem<note>!</note> Dominus dedit Iu<lb break="no" n="12"/> deis<note>!</note>, ni<note>!</note> quis aperiat memoriam et mi<lb break="no" n="13"/> ttat corpus alienum supra ossa nostra;<lb n="14"/>si quis autem aâ&#x8c;&#x9c;pâ&#x8c;&#x9d;eriverit<note>!</note>, dit<note>!</note> fisco argenti pondo<lb n="15"/>dece<note>!</note>.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (18), aliter (1)-(2)&lt;br&gt;v. 1: "Pace su Israele. Amen, amen, pace. Samuel." (Noy), o "pace su Samuel" (editori anteriori e Simonsohn) &lt;br&gt;v. 3: Lasieeri (Ferrua). &lt;br&gt;v. 7: XXII (Libertini e Frey). &lt;br&gt;vv. 8-9: adiuro vos ... item, omessi da Libertini 1929 (e quindi da Frey), ma aggiunti in Libertini 1981. &lt;br&gt;vv. 8-9: per victorias &lt;eorum&gt;, qui imperant (Noy); Adiuro vos per victorias, qui (:quae) inperant (:imperant), (Kohronen).&lt;br&gt;v. 14: areriverit (lapide); argenti (Ferrua, Solin); argendi (editori anteriori).
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

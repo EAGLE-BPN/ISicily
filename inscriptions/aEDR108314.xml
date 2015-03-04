@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR108314</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR108314</idno>
+				<idno type="TM">285060</idno>
+				<idno type="localID">EDR108314</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Mazara del Vallo (Trapani), giardino della Biblioteca comunale</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>70.00</height>
+								<width>50.00</width>
+								<depth>20.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0250" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 250 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mazara del Vallo (Trapani), via Santa Teresa</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-13" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv. Ind. Gr. It., 17, 1933, p. 49-50 (F. Ribezzo)(1)
+					</bibl> 
+			
+					<bibl>
+						Mondo Classico 4, 1934, p. 68-70 (M. Segre) - AE 1935 (2)
+					</bibl> 
+			
+					<bibl>
+						AE 1935, 0123 (3)
+					</bibl> 
+			
+					<bibl>
+						Oriens Antiquus, 8, 1969, p. 121-125, tav. L, con foto (M.T. Manni Piraino) - Bull.ép. 1971 (4)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1971, 0767 (5)
+					</bibl> 
+			
+					<bibl>
+						ANRW II, 11.1, 1988, p. 19, nota 71 (G. Manganaro)(6)
+					</bibl> 
+			
+					<bibl>
+						R.J.A. Wilson, Sicily under the Roman Empire, Warminster 1990, p. 159 (7)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 49, 2003, p. 80-81, nr. 1 (A. Brugnone) (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x9c;(Î¬Ï&#x81;ÎºÎ¿Î½)  á¼¸Î¿Ï&#x8d;Î½(Î¹Î¿Î½) Î¦Î®Î»Î¹<supplied reason="lost">ÎºÎ±</supplied><lb n="2"/>Î²Î¿Ï&#x85;Î»ÎµÏ&#x85;Ï&#x84;(á½´Î½) Î&#x9b;Î¹Î»Ï&#x85;<supplied reason="lost">Î²Î±</supplied><lb break="no" n="3"/> ÎµÎ¹Ï&#x84;á¿¶Î½ Ï&#x86;Î¹Î»Î¿Ï&#x84;ÎµÎ¹<supplied reason="lost">Î¼Î·</supplied><lb break="no" n="4"/> Ï&#x83;Î¬Î¼ÎµÎ½Î¿Î½ Ï&#x80;ÎµÏ&#x81;á¼° Ï&#x84;á½´<supplied reason="lost">Î½</supplied><lb n="5"/>Ï&#x80;Î±Ï&#x84;Ï&#x81;Î¯Î´Î± Ï&#x84;á½¸ ÎºÎ¿Î¹Î½á½¸<supplied reason="lost">Î½</supplied><lb n="6"/>Î&#x9a;Î¹Î½Î±ÎºÏ&#x89;Î½ á¼&#x90;Îº Ï&#x84;á¿¶Î½<lb n="7"/>á¼°Î´Î¯Ï&#x89;Î½ Ï&#x80;Î¬Ï&#x84;Ï&#x81;Ï&#x89;<supplied reason="lost">Î½Î¹</supplied><lb n="8"/>á¼&#x80;Î¾Î¯á¿³<lb n="9"/>Î´.Î´.Î².
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4), aliter (1) (2) 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

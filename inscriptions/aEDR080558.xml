@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR080558</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR080558</idno>
+				<idno type="TM">175714</idno>
+				<idno type="localID">EDR080558</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), Cortile del Palazzo Municipale</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/53">basis</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>64.00</height>
+								<width>46.00</width>
+								<depth>27.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">2,5-4</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0300" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 300 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), ignoratur</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-12-26" who="PAOLA PUCCIA">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07239 (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 24, 1978, pp. 98-100 (R. Marino) (2)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 57, 1984, pp. 160-162, con foto (G. Forni) - AE 1987 (3)
+					</bibl> 
+			
+					<bibl>
+						AE 1987, 0467 (4)
+					</bibl> 
+			
+					<bibl>
+						HD009132 (H. Niquet) (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<expan><abbr>T</abbr><ex>ito</ex></expan> Quarto<lb n="2"/>Masculo,<lb n="3"/><expan><abbr>T</abbr><ex>iti</ex></expan> Quarti Cres<lb break="no" n="4"/> centinii `Q<expan><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan>´<lb n="5"/><expan><abbr>fil</abbr><ex>io</ex></expan>, <expan><abbr>dec</abbr><ex>urioni</ex></expan> <expan><abbr>spl</abbr><ex>endidissimo</ex></expan><lb n="6"/><expan><abbr>col</abbr><ex>oniae</ex></expan> <expan><abbr>Aug</abbr><ex>ustae</ex></expan> <expan><abbr>Lilib</abbr><ex>itanorum</ex></expan> <note>!</note> ,<lb n="7"/><expan><abbr>q</abbr><ex>uestori</ex></expan> <expan><abbr>p</abbr><ex>ecuniae</ex></expan> <expan><abbr>p</abbr><ex>ublicae</ex></expan>, <expan><abbr>cur</abbr><ex>atori</ex></expan> <expan><abbr>f</abbr><ex>rumenti</ex></expan> <expan><abbr>p</abbr><ex>ublici</ex></expan>.<lb n="8"/></ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2), aliter (3), contulit ad imaginem Puccia a. 2010.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

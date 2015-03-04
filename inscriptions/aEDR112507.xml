@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112507</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112507</idno>
+				<idno type="TM">285014</idno>
+				<idno type="localID">EDR112507</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>9.10</height>
+								<width>5.60</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/015775">Akrai</placeName></origPlace>
+						<origDate notBefore-custom="0301" notAfter-custom="0400" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">301 AD - 400 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Palazzolo Acreide (Siracusa), ignoratur</placeName>
+						<placeName>Palazzolo Acreide (Siracusa)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2011-10-12" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 02413, 17 (1)
+					</bibl> 
+			
+					<bibl>
+						Acme, 1, 1948, p. 73 sgg., con foto (A. Vogliano - K. Preisendanz) (2)
+					</bibl> 
+			
+					<bibl>
+						Symb. Osl., 27, 1949, p. 145 sg., (S. Eitrem) (3)
+					</bibl> 
+			
+					<bibl>
+						Prolegomena, 1, 1952, p. 114 sgg., con foto (A.J. Festugière-A. Vogliano) (4)
+					</bibl> 
+			
+					<bibl>
+						L. Bernabò Brea-G. Pugliese Carratelli, Akrai, Catania 1956, p. 170 sg. nr. 52, con foto (5)
+					</bibl> 
+			
+					<bibl>
+						Atti Ac. Palermo, s. 5, 15, 1994-1995, p. 71 sgg., con foto (F.P. Rizzo) - SEG 55, 2005 (6)
+					</bibl> 
+			
+					<bibl>
+						SEG 55, 2005, 1005 (7)
+					</bibl> 
+			
+					<bibl>
+						R. Kotansky, Greek Magical Amulets, I, Opladen 1994, p. 126 sgg. nr. 32 (8)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Î¦Ï&#x85;Î»Î±</supplied>ÎºÌ£Ï&#x84;Î®Ï&#x81;Î¹Î¿Î½ á¾§ <supplied reason="lost">Î&#x9c;Ï&#x89;Ï&#x83;</supplied>á¿&#x86;Ï&#x82; á¼&#x90;Ï&#x87;Ï&#x81;á¾¶<supplied reason="lost">Ï&#x84;Î¿</supplied> á¼&#x90;Î½ Ï&#x84;á¿·<lb n="2"/><supplied reason="lost">Ï&#x86;Ï&#x85;Î»Î¬</supplied>Î¾Îµ (:Ï&#x86;Ï&#x85;Î»Î¬Î¾Î±Î¹) Î±á½&#x90;Ï&#x84;á½¸Î½ Îµá¼°Ï&#x82; Ï&#x84;á½° á¼&#x85;Î³Î¹Î± Ï&#x84;á¿¶Î½ á¼&#x81;Î³Î¯Ï&#x89;Î½·<lb n="3"/>á¼&#x90;<supplied reason="lost">Î½</supplied> Ï&#x84;á¿· á¼&#x80;Î³Î±Î³Îµá¿&#x96;Î½ Î±á½&#x90;Ï&#x84;á½¸Î½ Îµá¼°Ï&#x82; Ï&#x84;á½´Î½ Î´Ï&#x8c;Î¾Î±Î½<lb n="4"/>Ï&#x86;Ï&#x85;Ï&#x83;Î¹ÎºÎ¿á¿¦. á¼&#x80;Î½ÎµÏ&#x87;Ï&#x8e;Ï&#x81;ÎµÎ¹ <supplied reason="lost">Ï&#x84;</supplied>á½¸ á¼&#x81;Î³Î¹Ï&#x89;Ï&#x83;Ï&#x8d;Î½<supplied reason="lost">Î·Ï&#x82; Ï&#x80;Î½</supplied><lb break="no" n="5"/> <supplied reason="lost">Îµ</supplied>á¿¦Î¼Î±· ÎºÎ±á½¶ Î¼ÎµÏ&#x84;á½° Ï&#x84;Î±á¿¦Ï&#x84;Î± Î¼ÎµÏ&#x84;Î­Ï&#x83;Ï&#x84;Ï&#x81;ÎµÏ&#x86;ÎµÎ½ (:Î¼ÎµÏ&#x84;Î­Ï&#x83;Ï&#x84;Ï&#x81;ÎµÏ&#x88;ÎµÎ½).<lb n="6"/><supplied reason="lost">Î»</supplied>Ï&#x8c;Î³Î¿Î½ Ï&#x80;ÎµÏ&#x84;Î¬Î»á¿³ Ï&#x87;Ï&#x81;Ï&#x85;Ï&#x83;á¿· Ï&#x80;Î¿Î¯ÎµÎ¹ á¼&#x95;Î¾· Î£Î±Î²Î±Ï&#x8e;Î¸.<lb n="7"/><supplied reason="lost">Î´Îµá¿&#x96; á¼&#x80;</supplied>Ï&#x81;Ï&#x84;Ï&#x8d;Î·Î½ (:á¼&#x80;Ï&#x81;Ï&#x84;Ï&#x8d;ÎµÎ¹Î½) Î¼ÎµÏ&#x84;á½° Î»Î·Î²<supplied reason="lost">Î¬</supplied>Î½Ï&#x89;Î½ (:Î»Î¯Î²Î±Î½Ï&#x89;Î½), Î¶Î¼Ï&#x8d;Ï&#x81;Î½Î±Î½.<lb n="8"/>Î¦Ï&#x85;Î»Î±ÎºÏ&#x84;Î®Ï&#x81;Î¹Î¿Î½ Î&#x9c;Ï&#x89;Ï&#x83;Î­Ï&#x89;Ï&#x82; á½&#x85;Ï&#x84;Îµ á¼&#x80;Î½Î­Î²Î±Î¹Î½ÎµÎ½<lb n="9"/>Ï&#x84;á¿· á½&#x84;Ï&#x81;ÎµÎ¹ Î£ÎµÎ¹Î»Î±Î¼Ï&#x89;Î½Î±Î¹ Î»Î±<supplied reason="lost">Î²</supplied>Îµá¿&#x96;Î½ ÎºÎ¬Ï&#x83;Ï&#x84;Ï&#x85;.<lb n="10"/><supplied reason="lost">Î±á½&#x90;</supplied>Ï&#x84;á½¸ Ï&#x86;Î¿Ï&#x81;á¿¶Î½ Î¿á½&#x90; Ï&#x86;Î¿Î²Î®Ï&#x83;á¿&#x83; Î¼Î¬Î³Î¿Î½ Î¿á½&#x90;Î´á½² ÎºÎ±Ï&#x84;Î¬<lb break="no" n="11"/> Î´ÎµÏ&#x83;Î¼Î¿Î½ Î¿á½&#x90;Î´á½² Ï&#x80;Î½Îµá¿¦Î¼<supplied reason="lost">Î± Ï&#x80;Î¿Î½</supplied>Î·Ï&#x81;á½¸Î½ Î¿á½&#x90;Î´Î­ Ï&#x84;Î¹ Î´Î®<lb break="no" n="12"/> Ï&#x80;Î¿Ï&#x84;Îµ. ÎºÎ±Î¸Î±Ï&#x81;ÎµÎ¯Ï&#x89;Ï&#x82; Î´á½² <supplied reason="lost">Î±á½&#x90;</supplied>Ï&#x84;á½¸ Ï&#x86;Ï&#x8c;Ï&#x81;ÎµÎ¹, á½&#x83; Î¿á½&#x90; Î¼Îµ<lb break="no" n="13"/> Ï&#x84;Î±Î´á¿¶Ï&#x83;ÎµÎ¹Ï&#x82; Ï&#x80;Î»á½´Î½ Î³Î¿<supplied reason="lost">Î½</supplied>Î¯Î¼Î¿Î¹Ï&#x82;.<lb n="14"/>á¼¸Î¬Ï&#x89; Î£Î±Î²Î±á½¼Î¸  á¼&#x88;Î´Ï&#x89;Î½Î±á¿&#x96;Îµ Î£ÎµÎ¹Î»Î±Î¼  á¼&#x88;Î²Î»Î±<lb break="no" n="15"/> <supplied reason="lost">Î½</supplied>Î±Î¸Î±Î½Î±Î»Î²Î±, Î&#x9a;Ï&#x8c;Ï&#x83;Î¼Îµ Î&#x9a;Ï&#x8c;Ï&#x83;Î¼Î¿Ï&#x85;, Î´Î¹Î±Ï&#x86;Ï&#x8d;<lb break="no" n="16"/> Î»Î±Î¾Î¿Î½ Ï&#x84;Ï&#x8c;Î½Î´Îµ. á¼&#x88;Î²Ï&#x81;Î±Ï&#x83;Î¬Î¾, <supplied reason="lost">Î¤</supplied>Ï&#x81;Ï&#x8e;,<lb n="17"/>Î¥Î¨Î&#x96;Ì£Î&#x9b;Ì£SSSÎ&#x9f;Î&#x9f;Î&#x9f; Î§Î&#x9a;Î&#x9b;Î&#x97;Î&#x98; <g type="charakteres"/> Î&#x9e;Î&#x97;Î¡Î&#x9f;Î&#x9f;Î&#x96;Î&#x9f;Î&#x9f;<lb n="18"/><supplied reason="lost">·</supplied>Î&#x95;Ì£Î&#x9f;Î&#x9f;Î&#x9f;Î&#x9f; Î§Î&#x9f;Ì£Î&#x91;Î&#x92;Î¡Î&#x99;Î&#x91;Î&#x91;Ì£<supplied reason="lost">·</supplied>Î£ á¼¸Î¬Ï&#x89; Î¿Ï&#x85; ÎµÎ¹Îµ á¼¸Î·Î¿Ï&#x85;<lb n="19"/>Î&#x98;Ì£Î&#x91;Î&#x98;Î&#x98;Î&#x91; Î&#x95;Î&#x9b;Î&#x91;Î&#x91; Î¦Î¸Ì£á¾¶ Î©Ì£Î©Ì£, Î³Î½<supplied reason="lost">Î¿</supplied>ã&#x80;&#x88;Ï&#x86;Ï&#x89;ã&#x80;&#x89;Î¸Î®Ï&#x83;ÎµÏ&#x84;Ì£Î±Ì£Î¹Ì£ Î¿á½&#x90;<lb break="no" n="20"/> Ï&#x81;Î±Î½Ï&#x8c;Ì£Ï&#x82;Ì£, <supplied reason="lost">Îº</supplied>Î±á½¶ Î»Î±Î»Ì£Î®Ì£Ï&#x83;Ï&#x89;, ÎºÎ±Ì£á½¶Ì£ <supplied reason="lost">á¼&#x80;</supplied>ÎºÎ¿Ï&#x85;Î­Ì£Ï&#x84;Ï&#x89; á¼¡ Î³á¿&#x86;Ì£ Î»Ï&#x8c;Î³ã&#x80;&#x88;Î¿Î½ Ï&#x83;Ï&#x84;Ï&#x8c;Î¼ã&#x80;&#x89;Î±Ì£<lb break="no" n="21"/> Ï&#x84;Î¿Ï&#x82; Î¼Î¿á¿¦. á½¡Ï&#x82; Ï&#x84;Ì£Ï&#x81;Î¹ã&#x80;&#x88;Ï&#x87;Î¹ã&#x80;&#x89;á¿¶Î½Ï&#x84;<supplied reason="lost">Î±</supplied> á¼&#x90;Ï&#x80;á½¶ Ï&#x80;Ï&#x8c;Ì£Î±Î½ ÎºÎ±á½¶<lb n="22"/>á½¡Ì£Ï&#x82; Ï&#x88;ÎµÎºÎ¬Î´ÎµÏ&#x82; á¼&#x90;Ï&#x80;á½¶ Ï&#x87;Ì£Î»Ï&#x8c;Ì£Î·Î½. á½&#x85;Ï&#x84;Î¹ á½&#x84;Î½Î¿Î¼Î± Î&#x9a;(Ï&#x85;Ï&#x81;Î¯Î¿)Ï&#x85; ã&#x80;&#x88;á¼&#x90;ÎºÎ¬Î»ÎµÏ&#x83;Î±ã&#x80;&#x89;<lb n="23"/>Î¦Ï&#x85;Î»Î±ÎºÏ&#x84;Î®Ï&#x81;Î¹Î¿Î½ Î&#x9c;Ï&#x89;Ï&#x83;Î­Ï&#x89;Ï&#x82; á½&#x85;Ï&#x84;Îµ á¼&#x80;Î½Î­<lb break="no" n="24"/> Î²Î±Î¹Î½ÎµÎ½ Ï&#x84;á¿· á½&#x84;Ï&#x81;ÎµÎ¹ Î£ÎµÎ¹ <supplied reason="lost">Î»</supplied>Î±Î²Îµá¿&#x96;Î½ Î£ÎµÎ¹Ï&#x83;Îµ<lb break="no" n="25"/> Î¹, Î»Î±Î²Îµá¿&#x96;Î½ ÎºÎ¬Ï&#x83;Ï&#x84;Ï&#x85;· <supplied reason="lost">Î±</supplied>á½&#x90;Ï&#x84;á½¸ Ï&#x86;Î¿Ï&#x81;á¿¶Î½ Î¿á½&#x90; Ï&#x86;Î¿<lb break="no" n="26"/> Î²Î®Ï&#x83;á¿&#x83; Î¼Î¬Î³Î¿Î½ Î¿á½&#x90;Î´<supplied reason="lost">á½²</supplied> ÎºÎ±Ï&#x84;Î¬Î´ÎµÏ&#x83;Î¼Î¿Î½ Î¿á½&#x90;Î´<supplied reason="lost">á½²</supplied><lb n="27"/>Ï&#x80;Î½Îµá¿¦Î¼Î± Ï&#x80;Î¿Î½Î·Ï&#x81;á½¸Î½ Î¿á½&#x90;Î´á½² Ï&#x84;Î¹ Î´Î®Ï&#x80;Î¿Ï&#x84;Îµ.<lb n="28"/><supplied reason="lost">ÎºÎ±</supplied>Î¸Î±Ï&#x81;ÎµÎ¯Ï&#x89;Ï&#x82; Î´á½² Î±á½&#x90;<supplied reason="lost">Ï&#x84;</supplied>á½¸ Ï&#x86;Ï&#x8c;Ï&#x81;ÎµÎ¹, á½&#x83; Î¿á½&#x90; Î¼Îµ<lb break="no" n="29"/> <supplied reason="lost">Ï&#x84;Î±</supplied>Î´Ï&#x8e;Ï&#x83;ÎµÎ¹Ï&#x82; Ï&#x80;Î»á½´Î½ Î³Î¿Î½Î¯Î¼Î¿Î¹Ï&#x82;. á¼¸Î¬Ï&#x89; Î£Î±Î²<lb break="no" n="30"/> <supplied reason="lost">Î±Ï&#x8e;Î¸</supplied>. Î Ï&#x81;á½¸Ï&#x82; Ï&#x80;Ï&#x85;Ï&#x81;ÎµÏ&#x84;á½¸Î½ á¼¢ <supplied reason="lost">Ï&#x80;Ï&#x81;á½¸</supplied>Ï&#x82; á¼¡Î¼ÎµÏ&#x81;Î·Î½Î¿á½ºÏ&#x82; (:á¼¡Î¼ÎµÏ&#x81;Î¹Î½Î¿á½ºÏ&#x82;) <supplied reason="lost">Ï&#x80;Ï&#x85;Ï&#x81;Îµ</supplied><lb break="no" n="31"/> <supplied reason="lost">Ï&#x84;Î¿á½ºÏ&#x82;</supplied> á¼¢ Ï&#x80;Ï&#x81;á½¸Ï&#x82; á½&#x80;Î¿Ï&#x86;Î¸Î±Î»<supplied reason="lost">Î¼Î¿á¿¦ (:á½&#x80;Ï&#x86;Î¸Î±Î»Î¼Î¿á¿¦) Î²</supplied>Î±Ï&#x83;Ï&#x87;Î±Î½ÎµÎ¯Î±Î½ (:Î²Î±Ï&#x83;ÎºÎ±Î½Î¯Î±Î½)<lb n="32"/><supplied reason="lost">á¼¢ Ï&#x80;Ï&#x81;(á½¸Ï&#x82;) Î±</supplied>á¼°Ï&#x84;á½²Ï&#x83;Î¹Î¼Î¿Î½ (:Î±á¼°Ï&#x84;Î­Ï&#x83;Î¹Î¼Î¿Î½) á¼&#x80;Î³Î±Î¸Î¬· <supplied reason="lost">Î±á½&#x90;Ï&#x84;á½¸ Ï&#x86;Î¿Ï&#x81;á¿¶Î½ Î¿á½&#x90; Ï&#x86;Î¿</supplied><lb break="no" n="33"/> <supplied reason="lost">Î²Î®</supplied>Ï&#x83;á¿&#x83; Î¼Î¬Î³Î¿Î½ Î¿á½&#x90;Î´á½² Ï&#x80;Î½Îµá¿¦<supplied reason="lost">Î¼Î± Ï&#x80;Î¿Î½Î·Ï&#x81;á½¸Î½ Î¿á½&#x90;Î´á½²</supplied><lb n="34"/><supplied reason="lost">Ï&#x86;Î±Î½</supplied>Ï&#x84;Î±Ï&#x83;Î¯Î±Î½· á¼¦ Î¶Î®Ï&#x83;á¿&#x83; Î¼Î±<supplied reason="lost">ÎºÏ&#x81;Î¿Î·Î¼ÎµÏ&#x81;ÎµÏ&#x8d;Ï&#x89;Î½ Ï&#x84;Î±á¿¦</supplied><lb break="no" n="35"/> <supplied reason="lost">Ï&#x84;Î± Î¼</supplied>Î±Î¸á¿¶Î½, Î¶Î®Ï&#x83;á¿&#x83; Î¼Î±<supplied reason="lost">ÎºÏ&#x81;Ï&#x8c;Î²Î¹Î¿Ï&#x82;, á¼&#x94;Ï&#x87;Ï&#x89;Î½ ÎºÎ±ÎºÎ¿á¿¦</supplied><lb n="36"/><supplied reason="lost">Î´Î±Î¯Î¼</supplied>Î¿Î½Î¿Ï&#x82; á¼&#x84;Î´ÎµÎ¹Î±Î½.
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (8)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

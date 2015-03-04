@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112329</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112329</idno>
+				<idno type="TM">285036</idno>
+				<idno type="localID">EDR112329</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Siracusa, Museo Archeologico P. Orsi, nr. inv. 82071</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>9.50</height>
+								<width>3.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">0,2</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022318">Philosophiana?</placeName></origPlace>
+						<origDate notBefore-custom="0301" notAfter-custom="0500" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">301 AD - 500 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Mazzarino (Caltanissetta), contrada di Sofiana</placeName>
+						<placeName>Mazzarino (Caltanissetta)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 26-27, 1980-1981, p. 459 sgg., (S. Sciacca) - SEG 1981 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 31, 1981, 0844 (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 28-29, 1982-1983, p. 87 sgg., con foto (S. Sciacca) (3)
+					</bibl> 
+			
+					<bibl>
+						R. Kotansky, Greek Magical Amulets, I, Opladen 1994, p. 155 sgg., con facsimile (4)
+					</bibl> 
+			
+					<bibl>
+						Bulletin of Judaeo-Greek Studies, 18, 1996, p. 33 sgg., (G. Veltri) (5)
+					</bibl> 
+			
+					<bibl>
+						Gli Ebrei in Sicilia dal tardoantico al medioevo. Studi in onore di Monsignor Benedetto Rocco, Palermo 1998, p. 294 sgg. (G. Lacerenza) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î&#x94;ÎµÎ»ÎºÏ&#x89;, Î¹Î± Î&#x94;Î¹ÎºÏ&#x89;Î½, Î¹Î± Î&#x95;Ï&#x83;ÎºÎ±, <supplied reason="lost" cert="low">Î¹Î±</supplied><lb n="2"/>Î£ÎµÎ±Ï&#x81;Î±, Î¹Î± Î&#x9c;Î¹Ï&#x87;Î±Î®Î», Î¹Î± Î&#x93;Î±Î²Ï&#x81;Î¹Î®Î»,<lb n="3"/>Î¹Î±Ì£ á¼¸Î®Î», Î¹Î± á¿¬Î±Ï&#x86;Î±Î®Î», Î¹Î± Î&#x9f;á½&#x90;Ï&#x81;Î¹Î®Î»,<lb n="4"/>Ï&#x83;á½º Îµá¼¶ Î&#x9b;Î¹Î®Î», Î¹Î± Î¤ÎµÎ´Ï&#x87;Î¹Î®Î», Î¹Î±<lb n="5"/>Î&#x9f;á½&#x90;Î½Î¹Î®Î», Î¹Î± Î&#x95;á¼°Ï&#x83;Ï&#x84;Ï&#x81;Î±Î®Î», Î¹Î± Î¦Î¿Î½Î¹<lb break="no" n="6"/> Ï&#x86;Î½Î±Î®Î», Î¹Î± á¼¸Î±Ï&#x8e;Î¸, Î¹Î± Î¤Î¹Ì£Î²Î±Ï&#x8e;Î¸,<lb n="7"/>Î¹Ì£Î±Ì£ Î&#x9f;á½&#x90;Ï&#x81;Î¹Î®Î», Î¹Î± Î¤ÎµÎ´Ï&#x87;Î¹Î®Î», Î¹Î± Î£ÎµÏ&#x81;Ì£<supplied reason="lost">Î±</supplied><lb break="no" n="8"/> Ï&#x86;Î¹Î®Î», Î¹Î± Î¤ÎµÎ´Ï&#x87;Î¹Î®Î», Î¹Î± Î&#x9a;Ï&#x81;Î¿Ï&#x85;<lb break="no" n="9"/> Î¸Î¹Î®Î», Î¹Î± Î&#x93;Î¹Î²Î¹Ï&#x84;Î¹Î²Î±, Î¹Î± Î§Ï&#x81;Î¿Ï&#x85;Î¸ <gap reason="lost" extent="unknown" unit="character"/>,<lb n="10"/>Î¹Î± Î£ÎµÏ&#x81;Î±Ï&#x86;Î¯Î¼, Î&#x9c;Ï&#x83;Ï&#x89;Ï&#x81;Î¸Ï&#x89;Î¼, Î¹Î±<lb n="11"/>á¼&#x88;Ï&#x81;Ï&#x86;ÎµÎ»Î»Î¯Î¼, Î¹Î± Î&#x9c;Î±Ï&#x8e;Î½, Î¹Î± á¿¬Î±<supplied reason="lost">Î² á¼&#x89;Î¶</supplied><lb break="no" n="12"/> Î¶Î²Î¿Ï&#x85;Î», Î¹Î± á¼&#x88;Ï&#x81;Ï&#x86;ÎµÎ»Î¹Î®Î¼, Î¹Î± Î£ÎµÏ&#x84;Î½<supplied reason="lost">Î¹Î®Î»</supplied>.<lb n="13"/>á¼&#x8c;Ï&#x81;Ï&#x84;ÎµÎ¼Î¹Ï&#x82; Ï&#x86;Îµá¿¦Î³Îµ á¼&#x80;Ï&#x80;á½¸ Ï&#x84;Î¿á¿¦<lb n="14"/>á¼¸Î¿Ï&#x8d;Î´Î± ÎºÎ±á½¶ Ï&#x80;á¾¶Ï&#x82; Ï&#x80;Î¿Î½ÎµÏ&#x81;Îµ<supplied reason="lost">(:Ï&#x80;Î¿Î½Î·Ï&#x81;Îµ)<gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="15"/>á¼&#x90;Ì£Î½ Ï&#x84;á½¸Î½Ì£ Î´Ï&#x8c;Î¾Î± Ï&#x84;Î¿á¿¦ á¼&#x81;Î³Î¯Î¿Ï&#x85; Î¸<supplied reason="lost">ÎµÎ¿á¿¦</supplied><lb n="16"/>Ï&#x80;Ï&#x88;Ï&#x85;Î¹Î¸Ï&#x82; Ï&#x80;Ï&#x80;Ï&#x80; <g type="charakteres"/><lb n="17"/>á¼¸Î¸Ì£Ï&#x81;Î¿Ï&#x82; Ï&#x88;Î· Î¶Ï&#x89;Î¿Î¸ Ï&#x85;Î±Ï&#x88;<lb n="18"/>Ï&#x85;Ì£ Î&#x9a;Î¿Ï&#x85;Ï&#x80;ÎµÏ&#x81;Î± Î£Î±Î²Î±á½¼Î¸ Î&#x9c;Î¹Ï&#x87;Î±<supplied reason="lost">Î®Î»</supplied><lb n="19"/>Î&#x93;Î±Î²Ï&#x81;Î¹á½´Î»  á¼&#x88;ÎµÎ²Î±Ï&#x87;Î± Ï&#x80;Îµ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><lb n="20"/><gap reason="illegible" quantity="1" unit="character"/>Î±Î²Î±Î´Î¹ Î±Ï&#x85;Î±Î½ á¼&#x88;Î²Ï&#x81;Î±Ï&#x83;Î¬Î¾, <supplied reason="lost">Ï&#x86;Ï&#x8d;</supplied><lb break="no" n="21"/> Î»Î±Î¾Î¿Î½ Î¸Ï&#x85;Î²ÎµÏ&#x82; Ï&#x84;á½¸Î½ Ï&#x86;Î¿Ï&#x81;Î¿á¿¦<supplied reason="lost">Î½Ï&#x84;Î±</supplied><lb n="22"/>á¼¸Î¿Ï&#x8d;Î´Î± Ï&#x84;á½¸ (:Ï&#x84;á½¸Î½) á¼&#x85;Î³Î¹Î¿Î½ Î½Ï&#x8c;Î¼Î¿Ì£<supplied reason="lost">Î½</supplied><lb n="23"/>Ï&#x83;Î¿Ï&#x85; Î²Ï&#x82; á¼¸Î´Î±Î± <g type="charakteres"/><lb n="24"/>á¼&#x88;Î²Ï&#x81;Î±Ï&#x83;Î±Î¾ <g type="charakter"/><lb n="25"/>Î£Î±Î²Î±á½¼Î¸ Ï&#x83;Ï&#x86;Ï&#x81;Î±Î³Îµá½¶Ï&#x82; (:Ï&#x83;Ï&#x86;Ï&#x81;Î±Î³á½¶Ï&#x82;) á¼&#x90;Ï&#x80;á½¶<lb n="26"/>á¼&#x88;Î´Ï&#x89;Î½ÎµÎ± <supplied reason="lost">·</supplied>Ï&#x83;Î±Î±Î²Î±Î¼<lb n="27"/>Î&#x91;á¼°Î»Ï&#x89;Î±Î¹ <gap reason="lost" extent="unknown" unit="character"/>Î¹Ì£Î¼Î±Ï&#x87;Ì£<lb n="28"/>Î¹<supplied reason="lost">···</supplied> <g type="charakteres"/><lb n="29"/>Î&#x9c;Î¹Ï&#x87;Î±Î· (:Î&#x9c;Î¹Ï&#x87;Î±Î®Î») <g type="charakteres"/><lb n="30"/>Î¤Î¹Î²Î¹Ï&#x89;Î¸<lb n="31"/>Î£ÎµÏ&#x81;Î²Î¹Î¸ Ï&#x80;Î¹ <g type="charakteres"/> Ï&#x83;ÎµÏ&#x84;Î¹<lb n="32"/><gap reason="illegible" quantity="3" unit="character"/>Ï&#x84; <gap reason="lost" extent="unknown" unit="character"/> Î½Ì£Î±Ì£Î»Ì£
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4), aliter (3)(5)(6)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

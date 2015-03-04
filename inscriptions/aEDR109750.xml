@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR109750</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR109750</idno>
+				<idno type="TM">284871</idno>
+				<idno type="localID">EDR109750</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur, collezione privata</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/163">monile</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/109">aes</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>6.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Syracusae</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0500" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 500 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Siracusa, ignoratur</placeName>
+						<placeName>Siracusa</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-01-02" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Hestiasis, 4, 1989 (1994), p. 22 sg., con foto (G. Manganaro) - SEG 1994 (1)
+					</bibl> 
+			
+					<bibl>
+						SEG 44, 1994, 0741, 3 (2)
+					</bibl> 
+			
+					<bibl>
+						Jahrb. Ant. Christ., 45, 2002, p. 195 sg. nr. 4, con foto (S. Giannobile) - SEG 2002 (3)
+					</bibl> 
+			
+					<bibl>
+						SEG 52, 2002, 0884, 1 (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:rectoã&#x80;&#x89;<lb n="2"/>Î£Ï&#x86;Ï&#x81;Î±Î³Î¯Ï&#x82; Î£Î¿Î»Î¿Î¼á¿¶Î½Î¿Ï&#x82;<lb n="3"/>Î&#x91;Î²Î±<lb n="4"/>Ï&#x85;Î±Ï&#x83;<lb n="5"/>Î¼Î¿Î· á¼&#x90;<lb break="no" n="6"/> Î½ á¼&#x94;Ï&#x84;Îµ<lb break="no" n="7"/> ÎºÎµÎ½ Îµ<lb n="8"/>Î·Î·Îµ<lb n="9"/>Î´Î±Î²<lb n="10"/>Î&#x95;Ï&#x80;Î·Î½Î±<lb n="11"/>Ï&#x83;Ï&#x85;Î¼Î±Î·Î±<lb n="12"/>Î¿ Ï&#x83;Î±Î»Î±Î¼Î±<lb n="13"/>Î¾Î± Î²Î±<lb n="14"/>Î¼ÎµÎ±Î¶Î±<lb n="15"/><g type="charakter"/><lb n="16"/>Î¿Ï&#x85;Ï&#x82;<lb n="17"/><g type="chatakteres"/><lb n="18"/><lb n="19"/>ã&#x80;&#x88;:versoã&#x80;&#x89;<lb n="20"/>Î&#x99;Î±Ï&#x89;Î±Î»Ï&#x89;Î½<lb n="21"/>Îµá¼°Ï&#x82; Ï&#x80;á¾¶Ï&#x83;Î± (:Ï&#x80;á¾¶Ï&#x83;Î±Î½) Ï&#x88;Ï&#x85;Ï&#x87;Î®Î½<lb n="22"/>Î&#x99;Î±<lb n="23"/>Ï&#x89;Î·<lb n="24"/>Î·Î·Ï&#x89;<lb n="25"/>Î¼Î±<lb n="26"/>Î¼Ï&#x89;<lb n="27"/>Ï&#x89;Î½<lb n="28"/>Î²Î±Î»<lb n="29"/>Î¿Î»<lb n="30"/>Î²Î±Î»<lb n="31"/>Ï&#x83;Î¸Îµ<lb n="32"/>Ï&#x83;Îµ
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (3), aliter (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

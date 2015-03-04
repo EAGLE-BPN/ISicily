@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR138456</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR138456</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR138456</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>London (UK), British Museum, reg. 1863, 7-28 </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/1573">lucerna</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/9">litt. scariph.</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/002350">Gela</placeName></origPlace>
+						<origDate notBefore-custom="-0330" notAfter-custom="-0271" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-330 BC - -271 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gela (Caltanissetta)</placeName>
+						<placeName>Gela (Caltanissetta)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-04-29" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						H.B. Walters, Catalogue of the Greek and Roman Lamps in the British Museum, London 1914, nr. 230 (1)
+					</bibl> 
+			
+					<bibl>
+						Hesperia, 22, 1953, p. 221-222 (M.J. Milne, D.v. Bothmer) (2)
+					</bibl> 
+			
+					<bibl>
+						D.M. Bailey, Catalogue of the Lamps in the British Museum, I, 1975, p. 310-311, nr. Q 666, tav. 2 (3) 
+					</bibl> 
+			
+					<bibl>
+						C. Gallavotti, Metri e ritmi nelle iscrizioni greche. Suppl. n. 2 al Boll. Class., 1979, p. 63 (4)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 173, nr. 151, con facsimile (5)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 111, 1996, p. 135 (G. Manganaro) (6)
+					</bibl> 
+			
+					<bibl>
+						SEG 46, 1996, 1250 (7)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Îµá¼°Î¼á½¶ Î´á½² Î Î±Ï&#x85;Ï&#x83;Î±Î½Î¯Î± Ï&#x84;Î¿á¿¦ ÎºÎ±Ï&#x84;Î±Ï&#x80;Ï&#x85;Î³Î¿Ï&#x84;Î¬Ï&#x84;Î¿ (:ÎºÎ±Ï&#x84;Î±Ï&#x80;Ï&#x85;Î³Î¿Ï&#x84;Î¬Ï&#x84;Î¿Ï&#x85;)
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (5)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

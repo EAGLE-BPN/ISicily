@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113524</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113524</idno>
+				<idno type="TM">285173</idno>
+				<idno type="localID">EDR113524</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">ignoratur</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/138">ignoratur</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">ignoratur</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Melita insula?</placeName></origPlace>
+						<origDate notBefore-custom="0164" notAfter-custom="0164" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">164 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>urbs incerta</placeName>
+						<placeName>Malta?</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-01-01" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						A.A. Caruana, Report on the Phoenician and Roman antiquities in the group of islands of Malta, Malta 1882, p. 147 (1)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004  (2) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				<expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>M</abbr><ex>anibus</ex></expan> et somno aeternali<lb n="2"/>securitati <expan><abbr>memoriaeq</abbr><ex>ue</ex></expan> <expan><abbr>perpet</abbr><ex>uae</ex></expan><lb n="3"/>Aeliae Flaviae Melitanae<lb n="4"/><expan><abbr>q</abbr><ex>ui</ex></expan> <expan><abbr>v</abbr><ex>ixit</ex></expan> <expan><abbr>an</abbr><ex>nis</ex></expan> XXXI <expan><abbr>m</abbr><ex>ensibus</ex></expan> III <expan><abbr>d</abbr><ex>iebus</ex></expan> X<lb n="5"/>T<expan><ex>i</ex><abbr>t</abbr><ex>us</ex></expan> <expan><abbr>Fl</abbr><ex>avius</ex></expan> Hymnus conjugi<note>!</note> sanctissimae<lb n="6"/>dulcissimae <expan><abbr>q</abbr><ex>uae</ex></expan> vixit <expan><abbr>an</abbr><ex>nis</ex></expan> XIII<lb n="7"/>T<expan><ex>i</ex><abbr>t</abbr><ex>i</ex></expan> <expan><abbr>Fl</abbr><ex>avii</ex></expan> <expan><abbr>Col</abbr><ex>lina</ex></expan> Marcellus et Titianus<lb n="8"/>et Flavia T<expan><ex>i</ex><abbr>t</abbr><ex>i</ex></expan> <expan><abbr>f</abbr><ex>ilia</ex></expan> Ampelle matri <expan><abbr>pientiss</abbr><ex>imae</ex></expan><lb n="9"/>sarcophago <expan><abbr>sigil</abbr><ex>lo</ex></expan> cum opere et basibus<lb n="10"/><expan><abbr>fecer</abbr><ex>unt</ex></expan> et consecraverunt idibus Augustis<lb n="11"/>Pudente et Orfito <expan><abbr>c<am>oss.</am></abbr><ex>onsulibus</ex></expan>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)&lt;br&gt;v.5: F. Fl(avius) Hymnus (1)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

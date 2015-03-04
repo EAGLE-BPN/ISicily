@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR137640</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR137640</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR137640</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Gela (Caltanissetta), Museo Archeologico, Inv. 17546 </repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/188">oscillum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>7.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/002350">Gela</placeName></origPlace>
+						<origDate notBefore-custom="-0300" notAfter-custom="-0271" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-300 BC - -271 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gela (Caltanissetta), località S. Ippolito, ex podere Mattina</placeName>
+						<placeName>Gela (Caltanissetta) </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-12-14" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Riv. Ist. Naz. Arch. Art., N.S. 15, 1968, p. 54-56, fig. 38 a-b (P. Orlandini) (1)     
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 14-15, 1968-1969, p. 330-331, tav. 48, 2, con facsimile (P. Orlandini) (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 27, 1977, 0648 (3)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, Epigrafia greca, III, Roma 1974, p. 327-329, fig. 110 a-b, con foto (4)
+					</bibl> 
+			
+					<bibl>
+						Helikon, 17, 1977, p. 123-125 (C. Gallavotti) (5)
+					</bibl> 
+			
+					<bibl>
+						C. Gallavotti, Metri e ritmi nelle iscrizioni greche, Suppl. n. 2 a Boll.Class., Roma 1979, p. 55 (6)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, L'epigrafia greca dalle origini al tardo Impero, Roma 1987, p. 359-360, fig. 110, con foto (7)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 173, nota 19 (8)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr.Pap.Ep., 133, p. 125 (G. Manganaro) (9)
+					</bibl> 
+			
+					<bibl>
+						Epigraphica, 67, 2005, p. 15 (G. Manganaro) - SEG 55, 2005 - Bull.ép. 2006 (10) 
+					</bibl> 
+			
+					<bibl>
+						SEG 55, 2005, 1008, 3 (10) 
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 2006,0514 (11) 
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				á¼©Ï&#x81;Î±ÎºÎ»á¿&#x86;Ï&#x82; á¼&#x94;Î½<lb break="no" n="2"/> Î¸Î± ÎºÎ±Ï&#x84;Î¿Î¹ÎºÎµá¿&#x96;,<lb n="3"/>Î¼á½´  Ì&#x9b; Ï&#x83;Î¯Ï&#x84;Ï&#x89; Î¼Î·<lb break="no" n="4"/> Î¸á½²Î½ ÎºÎ±ÎºÏ&#x8c;Î½
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (10)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

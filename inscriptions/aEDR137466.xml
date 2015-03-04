@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR137466</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR137466</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR137466</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>già nel Museo Arch. Reg. di Palermo, Inv.  8795</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/189">parallelepipedum</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>41.00</height>
+								<width>85.00</width>
+								<depth>52.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/002350">Gela</placeName></origPlace>
+						<origDate notBefore-custom="-0550" notAfter-custom="-0501" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-550 BC - -501 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Gela (Caltanissetta), ex podere La Paglia</placeName>
+						<placeName>Gela (Caltanissetta) </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/92">sepulcralis</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-04-01" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Not. Sc., 1896, pp. 254-255 (A. Salinas) (1)
+					</bibl> 
+			
+					<bibl>
+						SGDI III, 1, 4247 (2)
+					</bibl> 
+			
+					<bibl>
+						M. Guarducci, Epigrafia greca, I, Roma 1967, p. 252, fig. 107, con foto (3)
+					</bibl> 
+			
+					<bibl>
+						G. Pfohl, Greek Poems on Stones, I. Epitaphs from the Seventh to the Fifth Centuries B.C., 1967, nr. 166 (4)
+					</bibl> 
+			
+					<bibl>
+						M.T. Manni Piraino, Iscrizioni greche lapidarie del Museo di Palermo, Palermo 1973, p. 39-40, nr. 15, tav. 9, con foto (5)
+					</bibl> 
+			
+					<bibl>
+						Helikon 15-16, 1975-1976, p. 106-107 (C. Gallavotti) - SEG 26, 1976 (6)
+					</bibl> 
+			
+					<bibl>
+						SEG 26, 1976, 1063 (7)
+					</bibl> 
+			
+					<bibl>
+						Helikon, 17, 1977, p. 113 (C. Gallavotti) (8)
+					</bibl> 
+			
+					<bibl>
+						L. Dubois, Inscriptions grecques dialectales de Sicile, Rome 1989, p. 146-147, nr. 128, con facsimile (9)
+					</bibl> 
+			
+					<bibl>
+						L.H. Jeffery, The Local Scripts of Archaic Greece, Oxford 1990, p. 273, 278, nr. 49, tav. 53, 49 (10)
+					</bibl> 
+			
+					<bibl>
+						Acme, 48, 2, 1994, p. 6 (R. Arena) (11)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 45, 1999, p. 450, tav. 32, 1, con foto (R. Arena) (12) 
+					</bibl> 
+			
+					<bibl>
+						R. Arena, Iscrizioni greche arcaiche di Sicilia e Magna Grecia, II. Iscrizioni di Gela e Agrigento, Alessandria 2002, p. 25-26, nr. 3, tav. 1, 2, con foto (13)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				Î Î±Ï&#x83;Î¹Î¬Î´Î±Ï&#x9d;Î¿ Ï&#x84;á½¸<lb n="2"/>Ï&#x83;á¾¶Î¼Î±Î&#x87; Î&#x9a;Ï&#x81;Î¬Ï&#x84;ÎµÌ&#x84;Ï&#x82; á¼&#x90;<lb break="no" n="3"/> Ï&#x80;Î¿Î¯ÎµÌ&#x84;
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (13)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

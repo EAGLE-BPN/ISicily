@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112248</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112248</idno>
+				<idno type="TM">284946</idno>
+				<idno type="localID">EDR112248</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Palermo, Museo Archeologico Regionale 'Antonino Salinas'</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/130">creta</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>10.00</height>
+								<width>10.00</width>
+								<depth>1.80</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution"/>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022334">Hippana?</placeName></origPlace>
+						<origDate datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">0 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Prizzi (Palermo), Monte Cavalli </placeName>
+						<placeName>Prizzi (Palermo)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2011-07-25" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Kokalos, 7, 1961, p. 113-121, tav. 9-10, con facsimile e foto (V. Tusa) (1)
+					</bibl> 
+			
+					<bibl>
+						Par. Pass., 1963, p. 302-305 (S. Ferri) - Bull.ép. 1965 (2)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép. 1965, 0508 (3)
+					</bibl> 
+			
+					<bibl>
+						G. Manganaro, Sikelika, p. 50-51, nr. 41, con foto - SEG 49, 1999 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 49, 1999, 1322 (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:columna Iã&#x80;&#x89;<lb n="2"/><supplied reason="lost">.</supplied>Î¹Ï&#x87;Ï&#x89;Ï&#x89;Î¹Î¸Î¸Î¹<lb n="3"/>ÎµÏ&#x85;Ï&#x87;Ï&#x89;Î¹Ï&#x86;Î¹Î±<lb n="4"/>Î¿Ï&#x87;Ï&#x85;Î¶Î¿Î¿Î¸Ï&#x89;Î¹<lb n="5"/>Î±Î¹Ï&#x87;Ï&#x85;Ï&#x86;Î·Î¾Î¹Ï&#x89;Î¹<lb n="6"/>ÎµÏ&#x85;Ï&#x87;Ï&#x85;Î¸Î·Î¾Î¹<lb n="7"/><supplied reason="lost">.</supplied>Ï&#x85;Ï&#x87;Î¿Ï&#x89;Î¶Ï&#x89;Î¿Î¹<lb n="8"/>Î¹Ï&#x85;Ï&#x87;Î¿Ï&#x86;Î±Ï&#x89;Î½<lb n="9"/>ÎµÎ¹Ï&#x87;Î¿Î¸ÎµÏ&#x89;Î¹<lb n="10"/>Î¹Ï&#x87;Î¹Î¿Î¶Î¹Î¸Î¹<lb n="11"/>Î±Ï&#x87;Î¹Î¶Î±Î´Î·Î¿Î¹<lb n="12"/>Î·Ï&#x85;Ï&#x87;Î¹Î·Î¶Î¹Î¿Ï&#x82;<lb n="13"/>Î±Î¹Ï&#x87;Î¹Î¾Ï&#x89;Î¿Î¹<lb n="14"/><lb n="15"/>ã&#x80;&#x88;:columna IIã&#x80;&#x89;<lb n="16"/>ÎµÏ&#x85;Î±<gap reason="lost" extent="unknown" unit="character"/><lb n="17"/>Î±Î¹Ï&#x87;Î¹<gap reason="lost" extent="unknown" unit="character"/><lb n="18"/>Î¿Ï&#x85;Ï&#x87;<gap reason="lost" extent="unknown" unit="character"/><lb n="19"/>Ï&#x85;Î±Î¿<gap reason="lost" extent="unknown" unit="character"/><lb n="20"/>Î±Î¹Ï&#x87;<gap reason="lost" extent="unknown" unit="character"/><lb n="21"/>Î·Ï&#x85;Ï&#x87;<gap reason="lost" extent="unknown" unit="character"/><lb n="22"/>ÎµÏ&#x87;<gap reason="lost" extent="unknown" unit="character"/><lb n="23"/>ÎµÏ&#x85;Ï&#x87;<gap reason="lost" extent="unknown" unit="character"/><lb n="24"/>Î·Ï&#x85;Ï&#x87;Î¹<gap reason="lost" extent="unknown" unit="character"/><lb n="25"/>Î¿Ï&#x85;Ï&#x87;Îµ<gap reason="lost" extent="unknown" unit="character"/><lb n="26"/>Î±Ï&#x87;Î±Î¾Î¹<gap reason="lost" extent="unknown" unit="character"/><lb n="27"/>Î¹Î±Ï&#x87;Î±Î¸<gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

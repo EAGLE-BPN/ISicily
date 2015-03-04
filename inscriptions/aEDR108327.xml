@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR108327</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR108327</idno>
+				<idno type="TM">285009</idno>
+				<idno type="localID">EDR108327</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Marsala (Trapani), Complesso S. Pietro</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>160.00</height>
+								<width>63.00</width>
+								<depth>57.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv" ref="http://www.eagle-network.eu/voc/statepreserv/lod/13">tit. integer</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">12-3</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Lilybaeum</placeName></origPlace>
+						<origDate notBefore-custom="0320" notAfter-custom="0331" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">320 AD - 331 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Marsala (Trapani), ignoratur</placeName>
+						<placeName>Marsala (Trapani)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2011-09-26" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Diz. Epigr., 04, 1959, p. 1072, s.v. Lilybaeum (S. Calderone) (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 9, 1963, p. 232-243, tav. LXIX, fig. 2 (G. Barbieri) (2)
+					</bibl> 
+			
+					<bibl>
+						Kokalos, 28-29, 1982-83, p. 472 (D. Asheri) (3)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				Eumeni vivas<lb n="2"/>á¼&#x88;Î»Ï&#x80;ÎµÎ¯Î½Î¹Î¿Î½ Î&#x9c;Î¬Î³Î½Î¿Î½<lb n="3"/>Ï&#x84;á½¸Î½ Î»Î±Î¼Ï&#x80;Ï&#x81;Ï&#x8c;Ï&#x84;Î±Ï&#x84;Î¿Î½ á½&#x91;Ï&#x80;Î±Ï&#x84;(Î¹Îºá½¸Î½)<lb n="4"/>ÎºÎ±á½¶ á¼&#x81;Î³Î½Ï&#x8c;Ï&#x84;Î±Ï&#x84;Î¿Î½ Î´Î¹ÎºÎ±Ï&#x83;Ï&#x84;á½´Î½<lb n="5"/>Î²Î¿Ï&#x85;Î»á½´ ÎºÎ±á½¶ Î´á¿&#x86;Î¼Î¿Ï&#x82;<lb n="6"/>Î&#x9b;Î¹Î»Ï&#x85;Î²Î±ÎµÎ¹Ï&#x84;á¿¶Î½ Î´Î¹á½° Ï&#x84;á½°Ï&#x82;<lb n="7"/>Ï&#x80;ÎµÏ&#x81;á½¶ Ï&#x84;á½´Î½ Ï&#x80;Î±Ï&#x84;Ï&#x81;Î¯Î´Î±<lb n="8"/>Îµá½&#x90;ÎµÏ&#x81;Î³ÎµÏ&#x83;Î¯Î±Ï&#x82; Ï&#x84;á½¸Î½<lb n="9"/>Ï&#x80;Î¬Ï&#x84;Ï&#x81;Ï&#x89;Î½Î± á¼ Î¼Î¯Ï&#x88;Î±Ï&#x84;Î¿ (:á¼ Î¼ÎµÎ¯Ï&#x88;Î±Ï&#x84;Î¿)
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR113358</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR113358</idno>
+				<idno type="TM">285177</idno>
+				<idno type="localID">EDR113358</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>ignoratur</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/2">ignoratur</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/138">ignoratur</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">ignoratur</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Gaulus insula</placeName></origPlace>
+						<origDate notBefore-custom="0198" notAfter-custom="0211" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">198 AD - 211 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Victoria (M), secondo Gualter fu trovata presso la chiesa di St. George</placeName>
+						<placeName>Gozo</placeName><placeName type="modern_region"/><placeName type="modernCountry">Malta</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-12-17" who="Elena PIRINO">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						CIL 10, 07503 (1)
+					</bibl> 
+			
+					<bibl>
+						Journal of the Faculty of Arts, 06, 3, 1976, p. 273-277, (J.Busuttil) (2)
+					</bibl> 
+			
+					<bibl>
+						A. Mastino, Le titolature di Geta e Caracalla attraverso le iscrizioni, Bologna 1981, p. 175 (3)
+					</bibl> 
+			
+					<bibl>
+						B. Bruno, L&#x92;arcipelago maltese in età romana e bizantina. Attività economiche e scambi al centro del Mediterraneo, Edipuglia, Bari 2004, p. 20 (4)
+					</bibl> 
+			
+					<bibl>
+						E. Pirino, Corpus inscriptionum Melitensium: storia e istituzioni delle isole maltesi attraverso la documentazione epigrafica, tesi di dottorato (XVII ciclo), Università degli Studi di Sassari e in co-tutela con L'Université Michel De Montaigne-Bordeaux 3, a.2003-2004  con foto e disegno (5)
+					</bibl> 
+			
+					<bibl>
+						K.A.S.A. 2. Malta in the Hybleans, the Hybleans in Malta. Malta negli Iblei, gli Iblei a Malta. Proc. Int. Conference Catania, 30 September, Sliema 10 November 2006, Atti del Convegno Internazionale Catania, 30 settembre, Sliema 10 novembre 2006, Palermo 2008, p. 142 (M. Cassia) (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+				[<gap reason="illegible" quantity="1" unit="character"/>15<gap reason="illegible" quantity="1" unit="character"/>]TI<lb n="2"/>[<gap reason="illegible" quantity="1" unit="character"/>9<gap reason="illegible" quantity="1" unit="character"/>]S[<gap reason="illegible" quantity="1" unit="character"/>6<gap reason="illegible" quantity="1" unit="character"/>]<lb n="3"/><expan><abbr>Imp</abbr><ex>eratoris</ex></expan> <expan><abbr>M</abbr><ex>arci</ex></expan> Aureli Antoá¹&#x87;á»&#x8b;<lb break="no" n="4"/> ni Pii <expan><abbr>Aug</abbr><ex>usti</ex></expan> ã&#x80;&#x9a;fratriã&#x80;&#x9b; <expan><abbr>L</abbr><ex>uci</ex></expan> Septi<lb break="no" n="5"/> mi Severi Pii Perti<lb break="no" n="6"/> nacis <expan><abbr>Aug</abbr><ex>usti</ex></expan> Arab<supplied reason="lost">ici</supplied><lb n="7"/>Adiabenici Parth<supplied reason="lost">i</supplied><lb break="no" n="8"/> ci Maximi ã&#x80;&#x9a;filioã&#x80;&#x9b;<lb n="9"/>ordo decurionu<supplied reason="lost">m</supplied><lb n="10"/>curante <gap reason="lost" extent="unknown" unit="character"/>PVP<gap reason="lost" extent="unknown" unit="character"/><lb break="no" n="11"/> IMO
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (1)&lt;br&gt;Mancano i primi due versi dove compariva il nome di Geta, eraso a causa della damnatio memoriae, decretata dopo la sua morte nel 212. Tuttavia la restituzione potrebbe essere: [Princ(ipi) iuvent(utis) P. Sep]ti/[mi Getae nobili]s(simo) [Caes(ari)]. Alle linee 4 e 8 è stato eraso anche il legame di parentela di Geta con Caracalla e Settimio Severo. I vv.10 e 11 sono incompleti. Per la cronologia cfr. (3), in cui l'iscrizione è datata tra il 198-211.
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR112490</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR112490</idno>
+				<idno type="TM">284749</idno>
+				<idno type="localID">EDR112490</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo del Castello Ursino, nr. inv. 319</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis, calcare</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Casmene?</placeName></origPlace>
+						<origDate notBefore-custom="0401" notAfter-custom="0600" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">401 AD - 600 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Comiso (Ragusa)</placeName>
+						<placeName>Comiso (Ragusa)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/106">cetera</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2012-11-22" who="Sergio GIANNOBILE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Rend. Ac. Linc., s. 8, 8, 1953, p. 181 sg., con foto (G. Pugliese Carratelli) (1)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. 8, 14, 1959, p. 405 sgg., con foto (M. Burzachechi) - SEG 1962 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 18, 1962, 0414,(3)
+					</bibl> 
+			
+					<bibl>
+						Rend. Ac. Linc., s. 8, 17, 1963, p. 63 sg., (G. Manganaro) (4)
+					</bibl> 
+			
+					<bibl>
+						An. Sc. Norm. Pisa, s. 4, 1, 1999, p. 73, con foto (G. Bevilacqua) (5)
+					</bibl> 
+			
+					<bibl>
+						K. Korhonen, Le iscrizioni del Museo Civico di Catania. Storia delle collezioni - Cultura epigrafica - Edizione, Helsinki 2004, p. 282 sg. nr. 235, con facsimile (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">á¾¿Î&#x95;Î½</supplied> á½&#x80;Ì²Î½Ï&#x8c;Î¼Ì²Î±Ì²Ï&#x84;Ì²Ì²Î¹Ì² Î&#x9a;Ì²(Ï&#x85;Ï&#x81;Î¯Î¿)Ï&#x85;Ì² Ï&#x80;Ì²Ï&#x81;Ì²á½¸Ì²Ï&#x82;Ì² á¼&#x80;Ì²Î¼Ï&#x80;ÎµÎ»î&#x87;&#x80;<supplied reason="lost">Î½Î±Î½</supplied> (:á¼&#x80;Î¼Ï&#x80;ÎµÎ»á¿¶Î½Î±) Î&#x9f;Î¤Î¡Î&#x99;Î&#x91;Î&#x91;Î¡Î&#x95;  á¼&#x88;Î²Î¹Î¼Î®Ì²Î»Ì², Î&#x9b;Ì²Î±Ì²Ï&#x83;Ì²Ï&#x86;Î­Ì²Î½Ì², á¼&#x88;Ì²Î¼Ì²Î¹Ì²Î®Ì²Î»Ì², á¼&#x98;Ì²Î»Ì²Î¿Ì²Î­Ì²Î»Ì², á¾¿Î&#x95;Ì²<lb break="no" n="2"/> Î¬Ì²Î¿Ì²  <gap reason="illegible" quantity="1" unit="character"/> á¼&#x88;Ì²Î¶Ì²Î±Ì²Î®Ì²Ï&#x81;Ì², Î&#x9a;Ì²Î¿Ì²Ï&#x81;Ì²Ï&#x86;Ì²Ï&#x86;Ì²Î»Ì²Î¹Ì²Î®Ì²Ì²Ì&#x82;Î»Ì², Î¦Î±Ï&#x87;Î¸Î¿Î²Î¬Ï&#x81;, <gap reason="illegible" quantity="2" unit="character"/>Î&#x91;Î§ á¼&#x88;Î´Î¿Î½Ì&#x82;Î±Ì&#x82;Î®Î» Î&#x95;Î&#x9f;Ì£Î&#x95;Ì²Î§Ì²Î&#x95;Ì²Î¡Ì²Î&#x9c;Ì²Î&#x91;Ì²Î¡Ì²Î&#x98;Ì² á¼&#x88;Ì²Î²Ì²Ï&#x81;Ì²Î¬Ì²Î¾Ì² Î&#x99;Ì²Î&#x91;Ì²Î¦Ì²Î&#x95;Ì²Î&#x9d;Ì²<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>Î&#x91;Ì²Î§Ì²Î&#x91;Ì²Î&#x95;Ì²Î&#x9b;Ì²Î&#x9c;Ì²Ì&#x82;Î&#x95;Ì²Î¡Ì²Î&#x9c;Ì²Î&#x9f;Ì²Î¡Ì²Î&#x9c;Î&#x9f;Ì²Î¡Î&#x9a;Î&#x91;Î&#x98;Î&#x91;Î&#x9b;Î&#x9f;Î&#x9a;Î&#x98;Ì²Î&#x91;Ì²<gap reason="illegible" quantity="3" unit="character"/>Î&#x9f;Î&#x94;<gap reason="illegible" quantity="2" unit="character"/>Î&#x91;Ì²Î&#x9c;Ì²Ì&#x82;Î&#x95;Ì²Î&#x9b;Ì²Î&#x9c;Ì²Î&#x9f;Ì²Î¥Ì²Î&#x9a;Ì²Î&#x97;Ì²Î Ì²Î¡Ì²Î&#x9f;Ì²Î£Ì²Î&#x91;Ì²Ì&#x82;Î&#x97;Ì²Î&#x9d;Ì²Î&#x9f;Ì²Î£Ì²<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> á¼&#x98;Ì²Ï&#x81;Ì²Î±Ì²Î®Ì²Î»,Ì² á¼&#x80;Ì²Î¼Ì²Î®Ì²Î½Ì², Î&#x92; á¼&#x98;Ï&#x81;Î±Ì&#x82;á½´Î» Î&#x98;Î¥Î&#x9b;Î&#x91;Î¤Î&#x91;Ì£Î&#x91;Ì£Î£Ì£Î&#x95;<gap reason="illegible" quantity="2" unit="character"/>Î¤Ì²Î&#x97;Ì²Î¤Ì²Î&#x9f;Ì²<gap reason="illegible" quantity="1" unit="character"/>Î¦Ì² á¼¸Ì²(Î·Ï&#x83;Î¿)á¿¦Ì² Î§Ì²Ï&#x81;Ì²(Î¹Ï&#x83;Ï&#x84;)Î­Ì², á½&#x81;Ì² Ï&#x80;Ì²Î»Ì²Î¿Ì²Î¹Ì²<lb break="no" n="5"/> <supplied reason="lost">Î¸Ï&#x8d;Î½Î±Ï&#x82; (:Ï&#x80;Î»Î·Î¸Ï&#x8d;Î½Î±Ï&#x82;) <gap reason="lost" extent="unknown" unit="character"/> á¼°Ï&#x82; (:Îµá¼°Ï&#x82;)</supplied> Ï&#x84;Ì²á½¶Ì²Î½Ì² (:Ï&#x84;á½´Î½) Î¸Ì²Î±Ì²Î»Ì²Î¬Ì²Ï&#x83;Ì²Ï&#x83;Ì²Î·Ì²<supplied reason="lost">Î½</supplied>, Ï&#x80;Î»Î¿Î¯Î¸Ï&#x85;Î½Î¿Î½ (:Ï&#x80;Î»Î®Î¸Ï&#x85;Î½Î¿Î½) ÎºÎ±á½¶ Ï&#x84;Ì²á½¸Ì²Î½Ì² á¼&#x84;Î¼Ì²Ï&#x80;Ì²<supplied reason="lost">ÎµÎ»Î¿Î½</supplied> á¼°Ì²Ï&#x82;Ì² (:Îµá¼°Ï&#x82;) Ï&#x84;Ì²<supplied reason="lost">á½¸Î½  á¼&#x80;Î¼Ï&#x80;Îµ</supplied>Î»Ì²î&#x87;&#x80;Ì²Î½Ì²<supplied reason="lost">Î±</supplied>Î½Ì² (:á¼&#x80;Î¼Ï&#x80;ÎµÎ»á¿¶Î½Î±)<lb n="6"/>Î&#x9f;Ì²Î&#x9b;Ì²Î&#x9c;Ì²Î&#x95;Ì²Î¤Ì²Î¡Ì²<lb n="7"/><g type="charakteres"/><lb n="8"/><g type="charakteres"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6), aliter (1) (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

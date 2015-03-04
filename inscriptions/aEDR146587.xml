@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR146587</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR146587</idno>
+				<idno type="TM"/>
+				<idno type="localID">EDR146587</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Catania, Museo dell'Istituto di Archeologia dell'Univ. di Catania</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/250">stela</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/48">marmor</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>28.50</height>
+								<width>20.00</width>
+								<depth>10.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022291">Centuripae</placeName></origPlace>
+						<origDate notBefore-custom="-0100" notAfter-custom="-0071" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-100 BC - -71 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Centuripe (Catania), vallone Difesa</placeName>
+						<placeName>Centuripe (Catania)</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2015-01-20" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Sicul. Gymn. n.s. 2, 1, 1949, p. 90-94, nr. 1, fig. 1, con foto (G. Libertini) - Bull.ép. 1953 (1)
+					</bibl> 
+			
+					<bibl>
+						Bull.ép., 1953, 0279 (2)
+					</bibl> 
+			
+					<bibl>
+						Sicul.Gymn., n.s. 16, 1963, p. 54-55 (G. Manganaro) (3)
+					</bibl> 
+			
+					<bibl>
+						G. Cordiano, La ginnasiarchia nelle poleis dell'occidente mediterraneo antico, Pisa 1997, p. 51-54 (4)
+					</bibl> 
+			
+					<bibl>
+						Journ. Rom. Stud., 97, 2007, p. 86, 94 (J. Prag) (5)
+					</bibl> 
+			
+					<bibl>
+						A. Dimartino, Indagini paleografiche e prospettive storiche sulle iscrizioni greche di Sicilia (IV-I sec. a.C.), Sc. Norm. Sup. Pisa, Tesi di perfezionamento a.a. 2008-2009, p. 271-275, fig. 118, con foto (6)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">á¼&#x98;Ï&#x80;á½¶ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="2"/><supplied reason="lost">Î¿á¼± Î³Ï&#x85;</supplied>Î¼Î½Î±Ï&#x83;<supplied reason="lost">Î¯Î±Ï&#x81;Ï&#x87;Î¿Î¹</supplied><lb n="3"/><supplied reason="lost">Î&#x95;á½&#x90;</supplied>Î²Î¿Ï&#x85;Î»Î¯Î´Î±Ï&#x82; á¼©<gap reason="lost" extent="unknown" unit="character"/><lb n="4"/>Î¿á½&#x92;Ï&#x82; á¼&#x90;Ï&#x83;Ï&#x84;ÎµÏ&#x86;<supplied reason="lost">Î¬Î½Ï&#x89;Ï&#x83;Î±Î½</supplied><lb n="5"/>Îµá½&#x90;Ï&#x84;Î±Î¾Î¯Î±Ï&#x82;<lb n="6"/>Î¸Ï&#x85;Ï&#x81;Îµá¿¶Î¹<lb n="7"/>Ï&#x80;Î±Î¯Î´Ï&#x89;Î½<lb n="8"/>Î¦Î¹Î»Î¬Ï&#x81;Ï&#x87;Î¿Î½ Î&#x95;á½&#x90;<gap reason="lost" extent="unknown" unit="character"/><lb n="9"/>á¼©Ï&#x81;Î±ÎºÎ»ÎµÎ¯Î´Î±Î½ Î¦Î±<supplied reason="lost" cert="low">Î»Î¬ÎºÏ&#x81;Î¿Ï&#x85; </supplied><supplied reason="lost"/><lb n="10"/>Î&#x9d;Î¹ÎºÎ¯Î±Î½ Î¦Î±<supplied reason="lost" cert="low">Î»Î¬ÎºÏ&#x81;Î¿Ï&#x85; </supplied><supplied reason="lost"/><lb n="11"/>Î¦Î¬Î»Î±ÎºÏ&#x81;Î¿Î½ Î&#x95;á½&#x90;<supplied reason="lost" cert="low">Î²Î¿Ï&#x85;Î»Î¯Î´Î± </supplied><lb n="12"/>Î¦Î¬Î»Î±ÎºÏ&#x81;Î¿Î½ Î&#x96;<gap reason="lost" extent="unknown" unit="character"/><lb n="13"/>Î¦Î¹Î»Î¿ÎºÏ&#x81;Î¬Ï&#x84;Î· <gap reason="lost" extent="unknown" unit="character"/><lb n="14"/>Î&#x9d;Ï&#x85;Î¼Ï&#x86;Ï&#x8c;Î´<supplied reason="lost">Ï&#x89;Ï&#x81;Î¿Î½  <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="15"/>Î&#x9d;Ï&#x85;Î¼Ï&#x86;Ï&#x8c;<supplied reason="lost">Î´Ï&#x89;Ï&#x81;Î¿Î½ <gap reason="lost" extent="unknown" unit="character"/></supplied><lb n="16"/>á¼¨Ï&#x81;Ï&#x85;Ï&#x84;<gap reason="lost" extent="unknown" unit="character"/>
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (6), aliter alii 
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

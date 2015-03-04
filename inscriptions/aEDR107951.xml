@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR107951</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR107951</idno>
+				<idno type="TM">285053</idno>
+				<idno type="localID">EDR107951</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Termini Imerese (Palermo), Piano di Imera, Antiquarium di Himera.</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/257">tabula</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/108">plumbum</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>0.00</height>
+								<width>0.00</width>
+								<depth>0.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/14">stilo</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm"/>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName ref="http://www.trismegistos.org/place/022348">Himera</placeName></origPlace>
+						<origDate notBefore-custom="-0500" notAfter-custom="-0401" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">-500 BC - -401 BC</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Termini Imerese (Palermo), Piano di Imera, quartiere Est, ambiente 21</placeName>
+						<placeName>Termini Imerese (Palermo), Piano di Imera </placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/79">sacer</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-08" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						Himera II. Campagne di scavo 1966-1973, Roma 1976, p. 697-698, nr. 261, fig. 36, 261 A-B, tav. CXV, 10 (M.T. Manni Piraino) (1)
+					</bibl> 
+			
+					<bibl>
+						Zeitschr. Pap. Ep., 130, 2000, p. 104-107 (D. Jordan) - SEG 2000 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 50, 2000, 1001 (3)
+					</bibl> 
+			
+					<bibl>
+						G. Rocca, Nuove iscrizioni da Selinunte, Alessandria 2009, p. 31-43, 45, 47 (4)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				ã&#x80;&#x88;:in fronteã&#x80;&#x89;<lb n="2"/>Î±Ï&#x83;Ì£ÎºÎ¹  ÎºÌ£<supplied reason="lost">Î±Ï&#x84;</supplied>Î±Ï&#x83;Î¹ÎºÎ¹<gap reason="lost" extent="unknown" unit="character"/> (:Î&#x91;Ï&#x83;Ì£ÎºÎ¹ ÎºÎ±Ï&#x84;Î±Ï&#x83;ÎºÎ¹)<lb n="3"/>Ï&#x85;Ï&#x83;<supplied reason="lost">.</supplied>Î¹Î±Ï&#x83;Î±ÎµÎ´Î±Ì£[<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]Î¿Î±Î¼Î¿Î»<gap reason="lost" extent="unknown" unit="character"/> (:Ï&#x85;Ï&#x83;ÎºÎ¹ Î±Ï&#x83;Î± ÎµÎ½Î´Î±Ì£<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>Î&#x9f; á¼&#x80;Î¼Î¿Î»Î³Î¿Í&#x82;Î¹)<lb n="4"/>Î¿Ï&#x83;Î´[<gap reason="illegible" quantity="1" unit="character"/>1-2<gap reason="illegible" quantity="1" unit="character"/>]Ï&#x80;Î±ÎµÎºÌ£Î±<supplied reason="lost">.</supplied>Î¿ÎµÎ½Î»Ï&#x85;<gap reason="lost" extent="unknown" unit="character"/>. (:Î&#x9f;Î£Î&#x94;<gap reason="illegible" quantity="1" unit="character"/>1-2<gap reason="illegible" quantity="1" unit="character"/>Î Î&#x91; á¼&#x90;Îº ÎºÌ£Î¬Ï&#x80;Î¿  á¼&#x90;Î»Î±Ï&#x8d;Î½ÎµÏ&#x84;Îµ)<lb n="5"/>Ï&#x84;Î¿Ì£Î¹Î´Î¿Î½Î¿Î±Ï&#x84;ÎµÌ£Ï&#x9d;Ì£Ï&#x81;Î±Ì£<gap reason="lost" extent="unknown" unit="character"/>, (:Ï&#x84;Î¿Ì£á½¶ Î´&#x92; á½&#x84;Î½Î¿Î¼Î± Î¤ÎµÌ£Ï&#x84;Ï&#x81;Î±Ì£Î³Î¿Ï&#x82;)<lb n="6"/>Î±Î»Î¹ÎµÎ¼Î¿Î±Î¹Î¿Î±ÎºÏ&#x84;=Î± (:á¼&#x80;Î½ÎµÎ¼Ï&#x8c;Î»Î¹Î¿Ï&#x82; á¼&#x80;ÎºÏ&#x84;=Î¬)<lb n="7"/>Î¿[<gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>]Î¿ Î¿Î»Î¹Î¿Î± (:O<gap reason="illegible" quantity="1" unit="character"/>1<gap reason="illegible" quantity="1" unit="character"/>O á½&#x84;Î»Î²Î¹Î¿Ï&#x82;)<lb n="8"/>Ï&#x83;Î±ÎºÏ&#x84;Î± (:á½&#x81;Í&#x82;Î¹ ÎºÎ±Ï&#x84;á½°)<lb n="9"/><lb n="10"/>ã&#x80;&#x88;:in posticaã&#x80;&#x89;<lb n="11"/>Î´ÎµÏ&#x83;Ì£ÎºÎµÎ±Î¸ÎµÎºÎ±<supplied reason="lost">.</supplied>Î±Î¼Ì£Î¿Î´Î±<gap reason="lost" extent="unknown" unit="character"/> (:Î´á½² Ï&#x83;Ì£ÎºÎµÎ´Î±Ì£Î¸ÎµÍ&#x82;Î¹ ÎºÎ±Ï&#x84;Ê¼ Î&#x91;Î&#x9c;Ì£Î&#x9f;Î&#x94;Î&#x91;---)<lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>Ï&#x81;Ï&#x81;Î½Î½ÎµÎ¹[<gap reason="illegible" quantity="1" unit="character"/>2<gap reason="illegible" quantity="1" unit="character"/>]Ï&#x86;Î¿<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> ÎºÎµÏ&#x86;Î±Ï&#x83;[<gap reason="illegible" quantity="1" unit="character"/>1-2<gap reason="illegible" quantity="1" unit="character"/>]
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>

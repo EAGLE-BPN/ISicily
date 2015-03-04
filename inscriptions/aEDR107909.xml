@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="la" xml:base="ex-epidoctemplate.xml">
+		<teiHeader>
+			<fileDesc>
+				<titleStmt>
+				<title>EDR107909</title>
+				</titleStmt>  
+				<publicationStmt>
+				<authority>Epigraphic Database Roma</authority>
+				<idno type="URI">http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&amp;id_nr=EDR107909</idno>
+				<idno type="TM">284825</idno>
+				<idno type="localID">EDR107909</idno>	
+				<availability>
+					<licence target=" http://www.europeana.eu/rights/rr-f/">Reserved Rights - Free access via Epigraphic Database Roma</licence>
+				</availability>
+				</publicationStmt>
+				<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						
+						
+						
+						<repository>Erice (Trapani), Museo Civico A. Cordici, Inv. 212</repository>
+						<collection/>
+						<idno/>
+					</msIdentifier>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<support>
+								<objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">cippus</objectType>
+								<material ref="http://www.eagle-network.eu/voc/material/lod/2">lapis</material>
+								<p/>
+								<dimensions unit="cm">
+								<height>94.00</height>
+								<width>54.00</width>
+								<depth>12.00</depth>
+								</dimensions>
+								<rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000" xml:lang="en">no decoration</rs>
+								<rs type="statPreserv">tit. mutilus</rs>
+							</support>
+						</supportDesc>
+						<layoutDesc>
+							<layout>
+								<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">scalpro</rs>
+							</layout>
+						</layoutDesc>
+						</objectDesc>
+						<handDesc>
+						<handNote>
+							<width unit="cm"/>
+							<height unit="cm">4,5-3</height>
+						</handNote>
+						</handDesc>
+					</physDesc>
+					
+					<history>
+						<origin>
+
+						<origPlace><placeName type="provinceItalicRegion">Sicilia cum insulis</placeName><placeName>Drepanum</placeName></origPlace>
+						<origDate notBefore-custom="0201" notAfter-custom="0250" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">201 AD - 250 AD</origDate>
+						
+						</origin>
+						<provenance type="found"> 
+						<placeName>Valderice (Trapani), contrada Bonagia, Chiesa di S. Andrea Apostolo</placeName>
+						<placeName>Trapani</placeName><placeName type="modern_region"/><placeName type="modernCountry">Italia</placeName></provenance>
+					</history>
+				</msDesc>
+				</sourceDesc>
+			</fileDesc>
+				
+			<encodingDesc>
+				<p>Marked-up according to the EpiDoc Guidelines</p>
+				<classDecl>
+				<taxonomy>
+					<category xml:id="representation">
+						<catDesc>Digitized other representations</catDesc>
+					</category>
+				</taxonomy>
+				</classDecl>
+			</encodingDesc>
+			<profileDesc>
+				<textClass>
+		<keywords>
+		<term ref="http://www.eagle-network.eu/voc/typeins/lod/232">honorarius</term>
+		</keywords>
+		</textClass>
+
+				<langUsage>
+				<language ident="ar">Arabic</language>
+				<language ident="en">English</language>
+				<language ident="fr">French</language>
+				<language ident="de">German</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Transliterated Greek</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="it">Italian</language>
+				<language ident="la">Latin</language>
+				<language ident="sp">Spanish</language>
+				</langUsage>
+			<creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+			<revisionDesc>
+			<change when="2014-06-05" who="Antonietta BRUGNONE">
+			</change>
+
+			</revisionDesc>
+		</teiHeader>
+		
+		<text>
+			<body>
+					
+				<div type="bibliography">
+				<listBibl>
+		
+					<bibl>
+						IG 14, 00283 (1)
+					</bibl> 
+			
+					<bibl>
+						Kokalos 1982-83, p. 389-394, tav. LIII, con foto (A. Brugnone) - SEG 33, 1983 (2)
+					</bibl> 
+			
+					<bibl>
+						SEG 33, 1983, 0743 (3)
+					</bibl> 
+			
+					<bibl>
+						ANRW II, 11.1, 1988, p. 30, nota 132 (G. Manganaro) - SEG 38, 1988 (4)
+					</bibl> 
+			
+					<bibl>
+						SEG 38, 1988, 0926 (5)
+					</bibl> 
+			
+				</listBibl>
+				</div>
+				
+				
+				<div type="edition" xml:lang="grc"><head>Text</head><ab><lb n="1"/>
+				<supplied reason="lost">Î&#x93;(Î±Î¯Î¿Î½) á¼&#x88;Ï&#x83;Î¯Î½Î½Î¹Î¿Î½</supplied><lb n="2"/><supplied reason="lost">á¿¬Î¿</supplied>á¿¦Ï&#x86;Î¿Î½<lb n="3"/>Î&#x9d;ÎµÎ¹ÎºÏ&#x8c;Î¼Î±Ï&#x87;Ì£Î¿<supplied reason="lost">Î½</supplied><lb n="4"/>á¼¸Î¿Ï&#x85;Î»Î¹Î±Î½Ï&#x8c;Î½<lb n="5"/>Î»Î±Î¼Ï&#x80;Ï&#x81;Ï&#x8c;Ï&#x84;Î±Ï&#x84;Î¿Î½<lb n="6"/>á½&#x95;Ï&#x80;Î±Ï&#x84;Î¿Î½<lb n="7"/>á¼&#x80;Î½Î¸Ï&#x8d;Ï&#x80;Î±Ï&#x84;Î¿Î½<lb n="8"/>á¼&#x88;Ï&#x83;Î¯Î±Ï&#x82;<lb n="9"/>Î´Î¹ÎºÎ±Î¹Ï&#x8e;Ï&#x84;Î±Ï&#x84;Î¿Î½<lb n="10"/>á¼&#x88;Ï&#x83;Î¯Î½Î½Î¹Î¿Ï&#x82;<lb n="11"/>á¼&#x88;Î¼Î¯Î±Î½Ï&#x84;Î¿Ï&#x82;<lb n="12"/>á¼&#x90;Ï&#x80;Î¯Ï&#x84;Ï&#x81;Î¿Ï&#x80;Î¿Ï&#x82;<lb n="13"/>Ï&#x84;á½¸Î½ Î´ÎµÏ&#x83;Ï&#x80;Ï&#x8c;Ï&#x84;Î·Î½
+				</ab></div>
+
+				<div type="apparatus">
+		
+					<p>
+						Textus secundum (2); r. 1 [á¿¬Î¿]á¿¦Ï&#x86;Î¿Î½ (1) (4)
+					</p> 
+			
+				</div>
+			
+				<div type="commentary">
+				<p/>
+				</div>
+
+			</body>
+		</text>
+		</TEI>
